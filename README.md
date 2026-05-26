@@ -25,7 +25,7 @@ This project simulates, cleans, and analyzes **1,000 e-commerce order records** 
 
 ## 💻 Code Repository Directory
 
-* DA1.pbit: Data Generation and data cleaning engine and text processors.
+* `DA1.ipynb`: Data Generation and data cleaning engine and text processors.
 * `DA1_sql.sql`: Includes the execution scripts for operational auditing.
 * `DA1.pbit`: The native Power BI workbook.
 
