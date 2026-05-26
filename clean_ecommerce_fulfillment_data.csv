@@ -1,0 +1,1001 @@
+Order_ID,Warehouse,Customer_City,Payment_Method,Brand_Name,Product_Category,Order_Value_INR,Hours_to_Dispatch,Order_Status
+10001,WH-102 (Delh),Mumbai,COD,ZariBrands,Ethnic Wear,3393.18,25,Delivered
+10002,WH-101 (Mumb),Lucknow,COD,DesiWeaves,Ethnic Wear,1218.28,20,Delivered
+10003,WH-104 (Kolkat),Bengaluru,COD,DesiWeaves,Ethnic Wear,2774.92,63,Delivered
+10004,WH-103 (Blru),Lucknow,COD,ZariBrands,Ethnic Wear,1204.32,28,Delivered
+10005,WH-104 (Kolkat),Ranchi,COD,ElectroTech,Electronics,3859.48,63,Delivered
+10006,WH-101 (Mumb),Indore,Prepaid,ZariBrands,Ethnic Wear,1889.84,21,Delivered
+10007,WH-102 (Delh),Guwahati,Prepaid,ElectroTech,Electronics,492.46,11,Delivered
+10008,WH-101 (Mumb),Bengaluru,COD,ElectroTech,Electronics,2204.32,30,Delivered
+10009,WH-103 (Blru),Guwahati,COD,ElectroTech,Electronics,1421.31,24,Delivered
+10010,WH-102 (Delh),Delhi,COD,ZariBrands,Ethnic Wear,1893.71,24,Delivered
+10011,WH-101 (Mumb),Guwahati,COD,DesiWeaves,Ethnic Wear,434.82,12,Returned
+10012,WH-102 (Delh),Guwahati,Prepaid,ZariBrands,Ethnic Wear,1961.65,24,Delivered
+10013,WH-102 (Delh),Mumbai,COD,KicksCo,Footwear,2657.75,12,Delivered
+10014,WH-103 (Blru),Lucknow,COD,DesiWeaves,Ethnic Wear,4489.66,20,Delivered
+10015,WH-101 (Mumb),Patna,COD,KicksCo,Footwear,971.92,23,Delivered
+10016,WH-104 (Kolkat),Lucknow,COD,ZariBrands,Ethnic Wear,4378.53,67,Delivered
+10017,WH-103 (Blru),Ranchi,Prepaid,ZariBrands,Ethnic Wear,1728.74,13,Delivered
+10018,WH-101 (Mumb),Indore,Prepaid,KicksCo,Footwear,3978.58,12,Delivered
+10019,WH-103 (Blru),Ranchi,Prepaid,DesiWeaves,Ethnic Wear,2432.18,10,Delivered
+10020,WH-101 (Mumb),Delhi,COD,StepWell,Footwear,2352.14,15,Returned
+10021,WH-102 (Delh),Patna,Prepaid,ElectroTech,Electronics,4277.19,6,Delivered
+10022,WH-102 (Delh),Delhi,Prepaid,KicksCo,Footwear,4276.76,9,Delivered
+10023,WH-102 (Delh),Lucknow,Prepaid,ElectroTech,Electronics,3472.11,26,Delivered
+10024,WH-104 (Kolkat),Mumbai,Prepaid,StepWell,Footwear,3029.49,45,Delivered
+10025,WH-102 (Delh),Bengaluru,COD,KicksCo,Footwear,388.34,21,Delivered
+10026,WH-101 (Mumb),Bengaluru,COD,StepWell,Footwear,2950.63,5,Returned
+10027,WH-103 (Blru),Bengaluru,Prepaid,ElectroTech,Electronics,1199.79,8,Delivered
+10028,WH-102 (Delh),Indore,Prepaid,DesiWeaves,Ethnic Wear,3691.49,10,Delivered
+10029,WH-103 (Blru),Lucknow,COD,ZariBrands,Ethnic Wear,2261.5,27,Delivered
+10030,WH-101 (Mumb),Ranchi,COD,ZariBrands,Ethnic Wear,1725.07,11,Delivered
+10031,WH-102 (Delh),Indore,COD,StepWell,Footwear,1469.89,6,Returned
+10032,WH-101 (Mumb),Ranchi,Prepaid,KicksCo,Footwear,2570.47,4,Delivered
+10033,WH-104 (Kolkat),Delhi,COD,ZariBrands,Ethnic Wear,1197.74,37,Delivered
+10034,WH-101 (Mumb),Lucknow,Prepaid,ZariBrands,Ethnic Wear,1413.85,29,Delivered
+10035,WH-104 (Kolkat),Lucknow,COD,KicksCo,Footwear,1546.17,15,Delivered
+10036,WH-103 (Blru),Patna,COD,DesiWeaves,Ethnic Wear,2753.55,20,Delivered
+10037,WH-102 (Delh),Ranchi,COD,StepWell,Footwear,585.44,22,Delivered
+10038,WH-101 (Mumb),Patna,COD,StepWell,Footwear,2751.42,10,Delivered
+10039,WH-104 (Kolkat),Mumbai,COD,ElectroTech,Electronics,3011.1,41,Delivered
+10040,WH-104 (Kolkat),Patna,COD,ElectroTech,Electronics,2664.57,46,Returned
+10041,WH-102 (Delh),Mumbai,Prepaid,StepWell,Footwear,3999.63,15,Delivered
+10042,WH-103 (Blru),Indore,COD,ElectroTech,Electronics,4446.38,24,Delivered
+10043,WH-101 (Mumb),Mumbai,Prepaid,DesiWeaves,Ethnic Wear,864.02,7,Delivered
+10044,WH-103 (Blru),Delhi,COD,ZariBrands,Ethnic Wear,1184.64,14,Delivered
+10045,WH-104 (Kolkat),Mumbai,COD,StepWell,Footwear,4114.27,52,Returned
+10046,WH-101 (Mumb),Patna,COD,KicksCo,Footwear,849.44,9,Delivered
+10047,WH-101 (Mumb),Lucknow,COD,KicksCo,Footwear,4269.21,26,Delivered
+10048,WH-103 (Blru),Patna,COD,StepWell,Footwear,921.99,13,Returned
+10049,WH-102 (Delh),Guwahati,Prepaid,ElectroTech,Electronics,3101.12,15,Delivered
+10050,WH-102 (Delh),Delhi,Prepaid,DesiWeaves,Ethnic Wear,4400.07,29,Delivered
+10051,WH-102 (Delh),Patna,Prepaid,StepWell,Footwear,1695.18,29,Delivered
+10052,WH-101 (Mumb),Delhi,COD,StepWell,Footwear,462.64,10,Delivered
+10053,WH-102 (Delh),Mumbai,COD,KicksCo,Footwear,3072.14,16,Delivered
+10054,WH-103 (Blru),Ranchi,COD,ElectroTech,Electronics,2439.5,30,Delivered
+10055,WH-101 (Mumb),Patna,Prepaid,DesiWeaves,Ethnic Wear,1397.1,22,Delivered
+10056,WH-104 (Kolkat),Ranchi,COD,ElectroTech,Electronics,3603.0,44,Returned
+10057,WH-103 (Blru),Bengaluru,COD,ZariBrands,Ethnic Wear,2131.44,20,Delivered
+10058,WH-103 (Blru),Bengaluru,COD,DesiWeaves,Ethnic Wear,4285.27,14,Delivered
+10059,WH-103 (Blru),Ranchi,COD,DesiWeaves,Ethnic Wear,3100.95,26,Returned
+10060,WH-102 (Delh),Delhi,COD,ElectroTech,Electronics,4249.53,25,Delivered
+10061,WH-104 (Kolkat),Mumbai,COD,StepWell,Footwear,301.7,39,Returned
+10062,WH-104 (Kolkat),Guwahati,COD,DesiWeaves,Ethnic Wear,3137.63,62,Delivered
+10063,WH-103 (Blru),Ranchi,COD,StepWell,Footwear,2958.35,30,Returned
+10064,WH-102 (Delh),Mumbai,Prepaid,StepWell,Footwear,918.89,19,Returned
+10065,WH-104 (Kolkat),Indore,Prepaid,DesiWeaves,Ethnic Wear,2717.82,57,Delivered
+10066,WH-102 (Delh),Lucknow,COD,KicksCo,Footwear,3188.01,28,Delivered
+10067,WH-102 (Delh),Bengaluru,Prepaid,ZariBrands,Ethnic Wear,3222.83,18,Delivered
+10068,WH-101 (Mumb),Bengaluru,COD,ZariBrands,Ethnic Wear,3665.95,25,Delivered
+10069,WH-104 (Kolkat),Guwahati,COD,DesiWeaves,Ethnic Wear,3320.95,65,Delivered
+10070,WH-104 (Kolkat),Delhi,COD,DesiWeaves,Ethnic Wear,3457.46,65,Delivered
+10071,WH-102 (Delh),Indore,COD,ElectroTech,Electronics,625.43,13,Delivered
+10072,WH-103 (Blru),Guwahati,Prepaid,StepWell,Footwear,638.43,16,Returned
+10073,WH-101 (Mumb),Bengaluru,COD,StepWell,Footwear,1689.7,5,Delivered
+10074,WH-101 (Mumb),Lucknow,Prepaid,StepWell,Footwear,3515.5,4,Delivered
+10075,WH-104 (Kolkat),Lucknow,COD,ElectroTech,Electronics,3385.46,63,Delivered
+10076,WH-102 (Delh),Indore,COD,DesiWeaves,Ethnic Wear,2339.7,16,Delivered
+10077,WH-102 (Delh),Lucknow,Prepaid,ElectroTech,Electronics,4162.07,23,Delivered
+10078,WH-101 (Mumb),Lucknow,COD,DesiWeaves,Ethnic Wear,2100.17,18,Delivered
+10079,WH-104 (Kolkat),Mumbai,COD,StepWell,Footwear,2209.74,68,Delivered
+10080,WH-103 (Blru),Lucknow,Prepaid,KicksCo,Footwear,2275.29,27,Delivered
+10081,WH-102 (Delh),Guwahati,Prepaid,DesiWeaves,Ethnic Wear,3581.18,24,Delivered
+10082,WH-102 (Delh),Bengaluru,Prepaid,ZariBrands,Ethnic Wear,2909.61,11,Delivered
+10083,WH-102 (Delh),Ranchi,COD,StepWell,Footwear,1376.22,23,Returned
+10084,WH-102 (Delh),Ranchi,Prepaid,DesiWeaves,Ethnic Wear,754.01,4,Delivered
+10085,WH-104 (Kolkat),Lucknow,Prepaid,ElectroTech,Electronics,1132.99,49,Delivered
+10086,WH-101 (Mumb),Mumbai,Prepaid,StepWell,Footwear,2676.92,21,Returned
+10087,WH-101 (Mumb),Guwahati,COD,KicksCo,Footwear,1733.17,30,Delivered
+10088,WH-103 (Blru),Lucknow,COD,KicksCo,Footwear,3780.57,26,Delivered
+10089,WH-103 (Blru),Delhi,COD,StepWell,Footwear,4162.39,18,Delivered
+10090,WH-103 (Blru),Mumbai,Prepaid,KicksCo,Footwear,3789.07,6,Delivered
+10091,WH-104 (Kolkat),Bengaluru,COD,ElectroTech,Electronics,3106.39,33,Delivered
+10092,WH-102 (Delh),Guwahati,COD,ZariBrands,Ethnic Wear,1790.26,12,Returned
+10093,WH-101 (Mumb),Mumbai,COD,DesiWeaves,Ethnic Wear,1102.44,11,Delivered
+10094,WH-104 (Kolkat),Bengaluru,COD,KicksCo,Footwear,2361.45,62,Delivered
+10095,WH-102 (Delh),Mumbai,COD,ZariBrands,Ethnic Wear,1321.88,25,Delivered
+10096,WH-103 (Blru),Indore,COD,DesiWeaves,Ethnic Wear,3432.93,14,Delivered
+10097,WH-103 (Blru),Indore,COD,ElectroTech,Electronics,1268.26,27,Delivered
+10098,WH-102 (Delh),Ranchi,COD,StepWell,Footwear,3402.14,22,Returned
+10099,WH-101 (Mumb),Mumbai,Prepaid,DesiWeaves,Ethnic Wear,1544.24,15,Delivered
+10100,WH-102 (Delh),Patna,COD,StepWell,Footwear,4392.04,8,Delivered
+10101,WH-103 (Blru),Patna,COD,KicksCo,Footwear,2149.97,5,Returned
+10102,WH-101 (Mumb),Ranchi,COD,ElectroTech,Electronics,611.15,5,Delivered
+10103,WH-101 (Mumb),Mumbai,Prepaid,StepWell,Footwear,797.5,23,Delivered
+10104,WH-104 (Kolkat),Bengaluru,COD,DesiWeaves,Ethnic Wear,2159.43,67,Delivered
+10105,WH-101 (Mumb),Mumbai,COD,DesiWeaves,Ethnic Wear,3408.38,28,Delivered
+10106,WH-103 (Blru),Bengaluru,Prepaid,StepWell,Footwear,959.64,6,Returned
+10107,WH-104 (Kolkat),Lucknow,Prepaid,StepWell,Footwear,2273.63,30,Returned
+10108,WH-101 (Mumb),Indore,Prepaid,ElectroTech,Electronics,4180.43,29,Delivered
+10109,WH-104 (Kolkat),Bengaluru,COD,DesiWeaves,Ethnic Wear,1244.2,21,Delivered
+10110,WH-101 (Mumb),Ranchi,COD,ElectroTech,Electronics,1591.97,22,Delivered
+10111,WH-104 (Kolkat),Ranchi,Prepaid,ElectroTech,Electronics,3238.88,72,Delivered
+10112,WH-104 (Kolkat),Indore,COD,ElectroTech,Electronics,467.42,39,Delivered
+10113,WH-101 (Mumb),Mumbai,COD,ElectroTech,Electronics,4340.03,30,Delivered
+10114,WH-103 (Blru),Patna,COD,DesiWeaves,Ethnic Wear,3505.06,20,Returned
+10115,WH-104 (Kolkat),Delhi,COD,KicksCo,Footwear,2365.25,17,Delivered
+10116,WH-103 (Blru),Lucknow,COD,KicksCo,Footwear,739.32,9,Delivered
+10117,WH-103 (Blru),Indore,Prepaid,ElectroTech,Electronics,1981.9,28,Delivered
+10118,WH-101 (Mumb),Indore,COD,DesiWeaves,Ethnic Wear,1657.75,28,Delivered
+10119,WH-104 (Kolkat),Patna,COD,KicksCo,Footwear,1087.85,60,Returned
+10120,WH-101 (Mumb),Indore,COD,KicksCo,Footwear,2606.72,13,Delivered
+10121,WH-101 (Mumb),Indore,COD,KicksCo,Footwear,2946.09,29,Delivered
+10122,WH-103 (Blru),Delhi,COD,StepWell,Footwear,2619.46,30,Returned
+10123,WH-102 (Delh),Ranchi,COD,ZariBrands,Ethnic Wear,3309.73,12,Delivered
+10124,WH-102 (Delh),Indore,COD,KicksCo,Footwear,907.5,10,Delivered
+10125,WH-101 (Mumb),Delhi,COD,DesiWeaves,Ethnic Wear,3618.03,17,Delivered
+10126,WH-101 (Mumb),Mumbai,COD,ElectroTech,Electronics,1553.93,22,Delivered
+10127,WH-102 (Delh),Indore,COD,DesiWeaves,Ethnic Wear,2334.23,14,Delivered
+10128,WH-104 (Kolkat),Lucknow,Prepaid,DesiWeaves,Ethnic Wear,3952.33,56,Delivered
+10129,WH-102 (Delh),Lucknow,Prepaid,StepWell,Footwear,2025.26,19,Delivered
+10130,WH-104 (Kolkat),Delhi,Prepaid,KicksCo,Footwear,830.23,49,Delivered
+10131,WH-101 (Mumb),Indore,COD,ElectroTech,Electronics,2219.1,27,Delivered
+10132,WH-101 (Mumb),Delhi,COD,StepWell,Footwear,4370.66,26,Delivered
+10133,WH-103 (Blru),Ranchi,Prepaid,KicksCo,Footwear,3909.24,16,Delivered
+10134,WH-101 (Mumb),Indore,COD,ElectroTech,Electronics,1286.04,25,Delivered
+10135,WH-104 (Kolkat),Ranchi,Prepaid,ElectroTech,Electronics,3493.55,57,Delivered
+10136,WH-103 (Blru),Delhi,Prepaid,ZariBrands,Ethnic Wear,493.16,29,Delivered
+10137,WH-103 (Blru),Guwahati,COD,ZariBrands,Ethnic Wear,1325.63,25,Returned
+10138,WH-101 (Mumb),Delhi,COD,StepWell,Footwear,1906.69,19,Delivered
+10139,WH-104 (Kolkat),Bengaluru,COD,DesiWeaves,Ethnic Wear,2230.2,54,Delivered
+10140,WH-102 (Delh),Mumbai,COD,ZariBrands,Ethnic Wear,4269.99,22,Delivered
+10141,WH-103 (Blru),Lucknow,COD,ElectroTech,Electronics,1568.91,16,Delivered
+10142,WH-104 (Kolkat),Bengaluru,COD,KicksCo,Footwear,2714.21,56,Delivered
+10143,WH-103 (Blru),Lucknow,COD,ElectroTech,Electronics,3933.28,28,Delivered
+10144,WH-103 (Blru),Indore,Prepaid,ZariBrands,Ethnic Wear,1266.5,29,Delivered
+10145,WH-103 (Blru),Bengaluru,Prepaid,ElectroTech,Electronics,3327.9,25,Delivered
+10146,WH-101 (Mumb),Ranchi,COD,StepWell,Footwear,2151.46,6,Delivered
+10147,WH-102 (Delh),Lucknow,COD,ElectroTech,Electronics,3603.35,15,Delivered
+10148,WH-102 (Delh),Mumbai,COD,DesiWeaves,Ethnic Wear,3763.7,19,Delivered
+10149,WH-101 (Mumb),Guwahati,COD,ElectroTech,Electronics,616.26,11,Delivered
+10150,WH-101 (Mumb),Guwahati,Prepaid,KicksCo,Footwear,358.46,21,Delivered
+10151,WH-103 (Blru),Guwahati,COD,ZariBrands,Ethnic Wear,3754.15,7,Delivered
+10152,WH-103 (Blru),Patna,Prepaid,StepWell,Footwear,1229.74,30,Returned
+10153,WH-104 (Kolkat),Mumbai,COD,KicksCo,Footwear,490.46,14,Delivered
+10154,WH-101 (Mumb),Ranchi,COD,ElectroTech,Electronics,2557.7,15,Returned
+10155,WH-104 (Kolkat),Delhi,Prepaid,DesiWeaves,Ethnic Wear,3801.51,51,Delivered
+10156,WH-103 (Blru),Patna,COD,KicksCo,Footwear,2167.72,15,Returned
+10157,WH-103 (Blru),Guwahati,COD,ZariBrands,Ethnic Wear,1458.7,30,Delivered
+10158,WH-101 (Mumb),Bengaluru,COD,KicksCo,Footwear,1700.74,8,Delivered
+10159,WH-102 (Delh),Ranchi,COD,DesiWeaves,Ethnic Wear,3714.82,28,Returned
+10160,WH-103 (Blru),Patna,Prepaid,StepWell,Footwear,907.69,12,Returned
+10161,WH-102 (Delh),Patna,COD,StepWell,Footwear,3617.94,14,Returned
+10162,WH-101 (Mumb),Mumbai,COD,ZariBrands,Ethnic Wear,2068.03,7,Delivered
+10163,WH-103 (Blru),Indore,COD,ZariBrands,Ethnic Wear,758.03,20,Delivered
+10164,WH-103 (Blru),Patna,COD,StepWell,Footwear,4348.91,19,Returned
+10165,WH-104 (Kolkat),Ranchi,Prepaid,KicksCo,Footwear,2162.96,69,Delivered
+10166,WH-101 (Mumb),Delhi,COD,ZariBrands,Ethnic Wear,2922.13,22,Delivered
+10167,WH-104 (Kolkat),Guwahati,Prepaid,DesiWeaves,Ethnic Wear,2528.34,41,Delivered
+10168,WH-101 (Mumb),Lucknow,Prepaid,DesiWeaves,Ethnic Wear,780.54,24,Delivered
+10169,WH-104 (Kolkat),Bengaluru,COD,DesiWeaves,Ethnic Wear,1259.67,33,Delivered
+10170,WH-101 (Mumb),Lucknow,COD,KicksCo,Footwear,1612.6,12,Delivered
+10171,WH-101 (Mumb),Indore,COD,ElectroTech,Electronics,658.53,17,Delivered
+10172,WH-102 (Delh),Guwahati,COD,ZariBrands,Ethnic Wear,2763.15,14,Delivered
+10173,WH-104 (Kolkat),Guwahati,Prepaid,ZariBrands,Ethnic Wear,3328.45,30,Delivered
+10174,WH-101 (Mumb),Guwahati,COD,DesiWeaves,Ethnic Wear,1193.5,11,Delivered
+10175,WH-101 (Mumb),Guwahati,Prepaid,ZariBrands,Ethnic Wear,2711.22,29,Delivered
+10176,WH-103 (Blru),Patna,COD,KicksCo,Footwear,1447.74,14,Delivered
+10177,WH-102 (Delh),Delhi,COD,ElectroTech,Electronics,1983.29,8,Delivered
+10178,WH-104 (Kolkat),Bengaluru,COD,ZariBrands,Ethnic Wear,1731.76,35,Delivered
+10179,WH-101 (Mumb),Guwahati,Prepaid,ElectroTech,Electronics,953.44,28,Delivered
+10180,WH-103 (Blru),Ranchi,COD,DesiWeaves,Ethnic Wear,2080.86,17,Delivered
+10181,WH-103 (Blru),Ranchi,COD,ElectroTech,Electronics,1489.64,19,Delivered
+10182,WH-101 (Mumb),Mumbai,COD,DesiWeaves,Ethnic Wear,4434.67,5,Delivered
+10183,WH-102 (Delh),Mumbai,Prepaid,ZariBrands,Ethnic Wear,3509.48,13,Delivered
+10184,WH-104 (Kolkat),Patna,Prepaid,ElectroTech,Electronics,1037.92,36,Delivered
+10185,WH-103 (Blru),Bengaluru,COD,DesiWeaves,Ethnic Wear,3919.41,5,Delivered
+10186,WH-101 (Mumb),Indore,Prepaid,KicksCo,Footwear,2718.19,22,Delivered
+10187,WH-103 (Blru),Lucknow,COD,KicksCo,Footwear,387.6,14,Delivered
+10188,WH-103 (Blru),Indore,COD,StepWell,Footwear,3846.83,22,Returned
+10189,WH-104 (Kolkat),Ranchi,Prepaid,KicksCo,Footwear,3432.38,26,Delivered
+10190,WH-101 (Mumb),Ranchi,COD,ElectroTech,Electronics,1114.4,15,Delivered
+10191,WH-102 (Delh),Ranchi,COD,StepWell,Footwear,1028.7,28,Returned
+10192,WH-104 (Kolkat),Indore,Prepaid,ZariBrands,Ethnic Wear,3491.48,40,Delivered
+10193,WH-103 (Blru),Guwahati,COD,DesiWeaves,Ethnic Wear,586.8,13,Returned
+10194,WH-103 (Blru),Patna,COD,ElectroTech,Electronics,1603.71,5,Returned
+10195,WH-101 (Mumb),Ranchi,COD,ElectroTech,Electronics,2429.68,21,Returned
+10196,WH-103 (Blru),Bengaluru,COD,ZariBrands,Ethnic Wear,2405.74,5,Delivered
+10197,WH-101 (Mumb),Guwahati,COD,KicksCo,Footwear,1024.75,18,Returned
+10198,WH-103 (Blru),Delhi,COD,KicksCo,Footwear,1488.15,17,Delivered
+10199,WH-103 (Blru),Patna,COD,ElectroTech,Electronics,696.92,13,Delivered
+10200,WH-103 (Blru),Delhi,COD,ElectroTech,Electronics,3087.17,15,Delivered
+10201,WH-102 (Delh),Lucknow,COD,ElectroTech,Electronics,4239.61,13,Delivered
+10202,WH-102 (Delh),Guwahati,Prepaid,DesiWeaves,Ethnic Wear,3781.63,27,Delivered
+10203,WH-103 (Blru),Lucknow,COD,DesiWeaves,Ethnic Wear,1597.24,10,Delivered
+10204,WH-102 (Delh),Bengaluru,Prepaid,ElectroTech,Electronics,950.77,13,Delivered
+10205,WH-103 (Blru),Patna,Prepaid,ZariBrands,Ethnic Wear,2895.73,23,Delivered
+10206,WH-102 (Delh),Delhi,Prepaid,KicksCo,Footwear,3538.61,29,Delivered
+10207,WH-101 (Mumb),Indore,COD,StepWell,Footwear,3140.72,18,Returned
+10208,WH-102 (Delh),Indore,COD,DesiWeaves,Ethnic Wear,1599.77,29,Delivered
+10209,WH-104 (Kolkat),Guwahati,COD,KicksCo,Footwear,1483.44,45,Returned
+10210,WH-102 (Delh),Bengaluru,Prepaid,KicksCo,Footwear,519.16,19,Delivered
+10211,WH-101 (Mumb),Ranchi,COD,ElectroTech,Electronics,3505.09,20,Returned
+10212,WH-102 (Delh),Ranchi,Prepaid,StepWell,Footwear,4015.45,17,Delivered
+10213,WH-102 (Delh),Guwahati,COD,ZariBrands,Ethnic Wear,642.74,14,Returned
+10214,WH-102 (Delh),Guwahati,COD,ZariBrands,Ethnic Wear,1504.89,26,Delivered
+10215,WH-104 (Kolkat),Indore,COD,StepWell,Footwear,4104.6,25,Returned
+10216,WH-101 (Mumb),Lucknow,Prepaid,StepWell,Footwear,1298.09,11,Returned
+10217,WH-101 (Mumb),Indore,COD,KicksCo,Footwear,4101.62,23,Delivered
+10218,WH-102 (Delh),Bengaluru,COD,DesiWeaves,Ethnic Wear,306.57,15,Delivered
+10219,WH-102 (Delh),Lucknow,Prepaid,StepWell,Footwear,659.58,6,Delivered
+10220,WH-104 (Kolkat),Patna,Prepaid,DesiWeaves,Ethnic Wear,482.84,36,Delivered
+10221,WH-103 (Blru),Patna,Prepaid,ElectroTech,Electronics,1748.17,27,Delivered
+10222,WH-102 (Delh),Guwahati,COD,ZariBrands,Ethnic Wear,2593.26,9,Delivered
+10223,WH-102 (Delh),Indore,Prepaid,KicksCo,Footwear,565.02,28,Delivered
+10224,WH-102 (Delh),Mumbai,COD,KicksCo,Footwear,1137.77,5,Delivered
+10225,WH-104 (Kolkat),Lucknow,COD,ElectroTech,Electronics,3463.82,24,Delivered
+10226,WH-103 (Blru),Patna,COD,ElectroTech,Electronics,3657.24,16,Returned
+10227,WH-102 (Delh),Guwahati,COD,KicksCo,Footwear,2389.6,20,Delivered
+10228,WH-101 (Mumb),Lucknow,COD,ElectroTech,Electronics,4479.41,9,Delivered
+10229,WH-101 (Mumb),Guwahati,COD,DesiWeaves,Ethnic Wear,3075.86,23,Returned
+10230,WH-103 (Blru),Indore,COD,KicksCo,Footwear,3352.62,15,Delivered
+10231,WH-101 (Mumb),Mumbai,COD,DesiWeaves,Ethnic Wear,2977.55,15,Delivered
+10232,WH-101 (Mumb),Delhi,COD,DesiWeaves,Ethnic Wear,2851.81,29,Delivered
+10233,WH-101 (Mumb),Delhi,COD,KicksCo,Footwear,3009.68,15,Delivered
+10234,WH-102 (Delh),Patna,Prepaid,KicksCo,Footwear,4285.06,15,Delivered
+10235,WH-103 (Blru),Delhi,COD,KicksCo,Footwear,3028.16,11,Delivered
+10236,WH-104 (Kolkat),Delhi,COD,ZariBrands,Ethnic Wear,4136.88,19,Delivered
+10237,WH-102 (Delh),Indore,Prepaid,ElectroTech,Electronics,1499.42,19,Delivered
+10238,WH-101 (Mumb),Delhi,COD,StepWell,Footwear,4074.45,6,Delivered
+10239,WH-101 (Mumb),Guwahati,COD,ElectroTech,Electronics,1519.52,9,Returned
+10240,WH-101 (Mumb),Bengaluru,Prepaid,StepWell,Footwear,3626.68,19,Returned
+10241,WH-104 (Kolkat),Guwahati,Prepaid,ZariBrands,Ethnic Wear,2616.92,51,Delivered
+10242,WH-104 (Kolkat),Mumbai,Prepaid,ZariBrands,Ethnic Wear,3319.25,45,Delivered
+10243,WH-102 (Delh),Ranchi,Prepaid,KicksCo,Footwear,2997.82,18,Delivered
+10244,WH-102 (Delh),Guwahati,Prepaid,KicksCo,Footwear,3577.1,24,Delivered
+10245,WH-104 (Kolkat),Delhi,COD,DesiWeaves,Ethnic Wear,3946.49,65,Delivered
+10246,WH-103 (Blru),Delhi,COD,ZariBrands,Ethnic Wear,1655.18,26,Delivered
+10247,WH-101 (Mumb),Mumbai,COD,StepWell,Footwear,2967.24,8,Delivered
+10248,WH-102 (Delh),Ranchi,COD,ElectroTech,Electronics,2738.72,23,Returned
+10249,WH-101 (Mumb),Patna,COD,DesiWeaves,Ethnic Wear,4283.9,12,Delivered
+10250,WH-101 (Mumb),Lucknow,COD,StepWell,Footwear,2934.09,13,Returned
+10251,WH-103 (Blru),Lucknow,COD,KicksCo,Footwear,3192.18,9,Delivered
+10252,WH-104 (Kolkat),Indore,COD,KicksCo,Footwear,2847.97,32,Delivered
+10253,WH-104 (Kolkat),Guwahati,COD,ElectroTech,Electronics,1856.27,32,Delivered
+10254,WH-103 (Blru),Ranchi,COD,StepWell,Footwear,891.69,16,Returned
+10255,WH-102 (Delh),Bengaluru,Prepaid,DesiWeaves,Ethnic Wear,4221.76,27,Delivered
+10256,WH-104 (Kolkat),Delhi,Prepaid,ElectroTech,Electronics,2260.62,68,Delivered
+10257,WH-101 (Mumb),Patna,Prepaid,ElectroTech,Electronics,2422.87,11,Delivered
+10258,WH-101 (Mumb),Guwahati,COD,StepWell,Footwear,2378.56,19,Delivered
+10259,WH-101 (Mumb),Patna,COD,ElectroTech,Electronics,4006.31,28,Delivered
+10260,WH-104 (Kolkat),Patna,COD,KicksCo,Footwear,2659.63,30,Returned
+10261,WH-103 (Blru),Indore,Prepaid,ZariBrands,Ethnic Wear,2917.61,23,Delivered
+10262,WH-104 (Kolkat),Ranchi,COD,ZariBrands,Ethnic Wear,4444.51,35,Delivered
+10263,WH-101 (Mumb),Lucknow,COD,StepWell,Footwear,875.55,19,Delivered
+10264,WH-102 (Delh),Delhi,COD,DesiWeaves,Ethnic Wear,2874.89,9,Delivered
+10265,WH-103 (Blru),Mumbai,COD,KicksCo,Footwear,2440.8,19,Delivered
+10266,WH-101 (Mumb),Indore,COD,DesiWeaves,Ethnic Wear,3129.99,17,Delivered
+10267,WH-104 (Kolkat),Patna,COD,DesiWeaves,Ethnic Wear,3053.48,49,Delivered
+10268,WH-104 (Kolkat),Patna,COD,DesiWeaves,Ethnic Wear,2941.91,65,Delivered
+10269,WH-101 (Mumb),Bengaluru,COD,KicksCo,Footwear,3242.19,10,Delivered
+10270,WH-104 (Kolkat),Guwahati,COD,ZariBrands,Ethnic Wear,3200.1,61,Returned
+10271,WH-102 (Delh),Patna,COD,DesiWeaves,Ethnic Wear,2655.72,19,Delivered
+10272,WH-102 (Delh),Guwahati,COD,DesiWeaves,Ethnic Wear,2539.13,25,Delivered
+10273,WH-102 (Delh),Indore,Prepaid,ElectroTech,Electronics,1471.83,13,Delivered
+10274,WH-102 (Delh),Mumbai,Prepaid,StepWell,Footwear,2353.81,21,Delivered
+10275,WH-104 (Kolkat),Ranchi,Prepaid,ElectroTech,Electronics,1957.04,34,Delivered
+10276,WH-103 (Blru),Patna,Prepaid,StepWell,Footwear,631.92,24,Delivered
+10277,WH-102 (Delh),Indore,COD,ElectroTech,Electronics,2562.03,21,Delivered
+10278,WH-102 (Delh),Ranchi,COD,ElectroTech,Electronics,3113.3,24,Delivered
+10279,WH-104 (Kolkat),Ranchi,COD,StepWell,Footwear,2284.1,47,Returned
+10280,WH-104 (Kolkat),Indore,Prepaid,StepWell,Footwear,3474.83,30,Returned
+10281,WH-101 (Mumb),Bengaluru,Prepaid,ZariBrands,Ethnic Wear,1035.27,30,Delivered
+10282,WH-104 (Kolkat),Lucknow,COD,StepWell,Footwear,3445.81,30,Delivered
+10283,WH-101 (Mumb),Mumbai,Prepaid,ZariBrands,Ethnic Wear,1707.18,18,Delivered
+10284,WH-102 (Delh),Indore,Prepaid,DesiWeaves,Ethnic Wear,2265.69,10,Delivered
+10285,WH-104 (Kolkat),Delhi,COD,ZariBrands,Ethnic Wear,3318.11,12,Delivered
+10286,WH-102 (Delh),Bengaluru,COD,ElectroTech,Electronics,2982.65,16,Delivered
+10287,WH-101 (Mumb),Guwahati,COD,KicksCo,Footwear,700.62,19,Delivered
+10288,WH-103 (Blru),Patna,COD,ElectroTech,Electronics,2176.29,14,Returned
+10289,WH-103 (Blru),Patna,Prepaid,ElectroTech,Electronics,3209.63,5,Delivered
+10290,WH-102 (Delh),Mumbai,COD,ZariBrands,Ethnic Wear,2410.59,26,Delivered
+10291,WH-103 (Blru),Ranchi,COD,ElectroTech,Electronics,1227.57,19,Delivered
+10292,WH-104 (Kolkat),Guwahati,Prepaid,StepWell,Footwear,4133.75,63,Delivered
+10293,WH-104 (Kolkat),Ranchi,COD,StepWell,Footwear,1819.5,65,Returned
+10294,WH-102 (Delh),Bengaluru,COD,DesiWeaves,Ethnic Wear,3888.84,18,Delivered
+10295,WH-104 (Kolkat),Bengaluru,COD,ZariBrands,Ethnic Wear,2443.58,63,Delivered
+10296,WH-104 (Kolkat),Delhi,COD,ZariBrands,Ethnic Wear,542.49,41,Delivered
+10297,WH-104 (Kolkat),Patna,COD,ElectroTech,Electronics,312.66,16,Returned
+10298,WH-101 (Mumb),Guwahati,COD,ZariBrands,Ethnic Wear,553.07,19,Delivered
+10299,WH-102 (Delh),Lucknow,Prepaid,ZariBrands,Ethnic Wear,3516.48,27,Delivered
+10300,WH-104 (Kolkat),Lucknow,Prepaid,KicksCo,Footwear,4108.42,36,Delivered
+10301,WH-103 (Blru),Delhi,COD,ZariBrands,Ethnic Wear,4469.96,16,Delivered
+10302,WH-101 (Mumb),Bengaluru,Prepaid,DesiWeaves,Ethnic Wear,4409.66,18,Delivered
+10303,WH-102 (Delh),Lucknow,COD,DesiWeaves,Ethnic Wear,1753.87,12,Delivered
+10304,WH-101 (Mumb),Ranchi,Prepaid,StepWell,Footwear,2060.81,4,Delivered
+10305,WH-101 (Mumb),Ranchi,COD,StepWell,Footwear,2175.05,11,Delivered
+10306,WH-102 (Delh),Indore,COD,ZariBrands,Ethnic Wear,3468.42,28,Delivered
+10307,WH-102 (Delh),Mumbai,Prepaid,ZariBrands,Ethnic Wear,3372.37,14,Delivered
+10308,WH-102 (Delh),Guwahati,COD,DesiWeaves,Ethnic Wear,901.69,11,Delivered
+10309,WH-101 (Mumb),Mumbai,COD,KicksCo,Footwear,2785.0,27,Delivered
+10310,WH-104 (Kolkat),Lucknow,COD,StepWell,Footwear,1746.54,36,Delivered
+10311,WH-104 (Kolkat),Lucknow,COD,DesiWeaves,Ethnic Wear,1881.13,60,Delivered
+10312,WH-102 (Delh),Bengaluru,COD,DesiWeaves,Ethnic Wear,3271.82,29,Delivered
+10313,WH-104 (Kolkat),Lucknow,COD,KicksCo,Footwear,863.19,27,Delivered
+10314,WH-101 (Mumb),Guwahati,Prepaid,ElectroTech,Electronics,3857.96,6,Delivered
+10315,WH-101 (Mumb),Bengaluru,COD,DesiWeaves,Ethnic Wear,3129.42,23,Delivered
+10316,WH-102 (Delh),Bengaluru,COD,ZariBrands,Ethnic Wear,3951.79,14,Delivered
+10317,WH-102 (Delh),Bengaluru,Prepaid,ElectroTech,Electronics,792.73,28,Delivered
+10318,WH-104 (Kolkat),Bengaluru,Prepaid,KicksCo,Footwear,2618.73,61,Delivered
+10319,WH-103 (Blru),Indore,COD,ElectroTech,Electronics,1810.51,19,Delivered
+10320,WH-103 (Blru),Indore,Prepaid,KicksCo,Footwear,1856.96,17,Delivered
+10321,WH-102 (Delh),Bengaluru,COD,ZariBrands,Ethnic Wear,2623.91,22,Delivered
+10322,WH-103 (Blru),Lucknow,COD,DesiWeaves,Ethnic Wear,1685.43,16,Delivered
+10323,WH-103 (Blru),Indore,COD,DesiWeaves,Ethnic Wear,3750.69,27,Delivered
+10324,WH-103 (Blru),Delhi,COD,KicksCo,Footwear,3325.32,19,Delivered
+10325,WH-101 (Mumb),Patna,Prepaid,StepWell,Footwear,612.19,5,Delivered
+10326,WH-102 (Delh),Delhi,COD,ZariBrands,Ethnic Wear,934.32,10,Delivered
+10327,WH-101 (Mumb),Guwahati,COD,DesiWeaves,Ethnic Wear,3100.37,19,Delivered
+10328,WH-104 (Kolkat),Patna,COD,KicksCo,Footwear,2523.55,30,Returned
+10329,WH-102 (Delh),Lucknow,COD,ZariBrands,Ethnic Wear,704.52,8,Delivered
+10330,WH-103 (Blru),Mumbai,COD,StepWell,Footwear,1966.96,16,Delivered
+10331,WH-102 (Delh),Bengaluru,COD,KicksCo,Footwear,3777.86,6,Delivered
+10332,WH-104 (Kolkat),Lucknow,COD,ZariBrands,Ethnic Wear,2299.22,52,Delivered
+10333,WH-101 (Mumb),Delhi,COD,ZariBrands,Ethnic Wear,2122.42,29,Delivered
+10334,WH-101 (Mumb),Ranchi,COD,ElectroTech,Electronics,4085.35,22,Delivered
+10335,WH-101 (Mumb),Patna,Prepaid,KicksCo,Footwear,1477.57,21,Delivered
+10336,WH-102 (Delh),Patna,Prepaid,DesiWeaves,Ethnic Wear,1620.84,10,Delivered
+10337,WH-101 (Mumb),Lucknow,COD,DesiWeaves,Ethnic Wear,2668.62,22,Delivered
+10338,WH-104 (Kolkat),Guwahati,Prepaid,KicksCo,Footwear,887.79,56,Delivered
+10339,WH-101 (Mumb),Guwahati,COD,ZariBrands,Ethnic Wear,1275.0,23,Returned
+10340,WH-103 (Blru),Lucknow,COD,DesiWeaves,Ethnic Wear,1447.97,18,Delivered
+10341,WH-104 (Kolkat),Guwahati,COD,KicksCo,Footwear,3154.72,17,Delivered
+10342,WH-101 (Mumb),Bengaluru,COD,DesiWeaves,Ethnic Wear,947.73,26,Delivered
+10343,WH-103 (Blru),Lucknow,COD,StepWell,Footwear,684.39,18,Delivered
+10344,WH-102 (Delh),Ranchi,COD,ElectroTech,Electronics,2110.11,20,Delivered
+10345,WH-101 (Mumb),Patna,COD,KicksCo,Footwear,690.87,14,Delivered
+10346,WH-104 (Kolkat),Mumbai,COD,KicksCo,Footwear,655.74,69,Delivered
+10347,WH-104 (Kolkat),Delhi,COD,DesiWeaves,Ethnic Wear,1429.46,29,Delivered
+10348,WH-102 (Delh),Ranchi,COD,KicksCo,Footwear,2068.63,6,Delivered
+10349,WH-104 (Kolkat),Bengaluru,COD,ElectroTech,Electronics,1121.3,18,Delivered
+10350,WH-104 (Kolkat),Patna,COD,StepWell,Footwear,2904.81,33,Delivered
+10351,WH-103 (Blru),Delhi,COD,KicksCo,Footwear,4278.57,10,Delivered
+10352,WH-104 (Kolkat),Delhi,Prepaid,KicksCo,Footwear,1524.08,56,Delivered
+10353,WH-103 (Blru),Bengaluru,COD,KicksCo,Footwear,3729.28,16,Delivered
+10354,WH-102 (Delh),Bengaluru,Prepaid,ElectroTech,Electronics,2610.42,27,Delivered
+10355,WH-104 (Kolkat),Bengaluru,Prepaid,KicksCo,Footwear,3791.38,16,Delivered
+10356,WH-102 (Delh),Indore,COD,KicksCo,Footwear,1316.49,25,Delivered
+10357,WH-104 (Kolkat),Lucknow,COD,StepWell,Footwear,4460.94,37,Delivered
+10358,WH-101 (Mumb),Lucknow,Prepaid,DesiWeaves,Ethnic Wear,1810.02,29,Delivered
+10359,WH-101 (Mumb),Ranchi,Prepaid,DesiWeaves,Ethnic Wear,3061.93,15,Delivered
+10360,WH-104 (Kolkat),Patna,Prepaid,StepWell,Footwear,1692.71,18,Delivered
+10361,WH-102 (Delh),Mumbai,COD,ZariBrands,Ethnic Wear,2478.95,22,Delivered
+10362,WH-103 (Blru),Indore,COD,DesiWeaves,Ethnic Wear,3543.84,22,Delivered
+10363,WH-101 (Mumb),Guwahati,COD,DesiWeaves,Ethnic Wear,1540.82,6,Delivered
+10364,WH-103 (Blru),Delhi,COD,ZariBrands,Ethnic Wear,2212.4,10,Delivered
+10365,WH-104 (Kolkat),Guwahati,COD,DesiWeaves,Ethnic Wear,3332.37,16,Returned
+10366,WH-101 (Mumb),Ranchi,Prepaid,ElectroTech,Electronics,3021.47,25,Delivered
+10367,WH-102 (Delh),Bengaluru,COD,StepWell,Footwear,1690.16,18,Delivered
+10368,WH-102 (Delh),Delhi,COD,StepWell,Footwear,2114.96,23,Returned
+10369,WH-104 (Kolkat),Lucknow,COD,StepWell,Footwear,1202.14,57,Returned
+10370,WH-102 (Delh),Ranchi,COD,ZariBrands,Ethnic Wear,1127.71,25,Returned
+10371,WH-104 (Kolkat),Guwahati,COD,KicksCo,Footwear,2765.42,66,Returned
+10372,WH-103 (Blru),Delhi,Prepaid,KicksCo,Footwear,2778.71,25,Delivered
+10373,WH-102 (Delh),Ranchi,COD,StepWell,Footwear,1068.79,17,Delivered
+10374,WH-104 (Kolkat),Lucknow,COD,DesiWeaves,Ethnic Wear,2969.11,56,Delivered
+10375,WH-104 (Kolkat),Delhi,COD,StepWell,Footwear,1085.81,51,Delivered
+10376,WH-104 (Kolkat),Patna,COD,ZariBrands,Ethnic Wear,3723.91,44,Delivered
+10377,WH-104 (Kolkat),Indore,Prepaid,KicksCo,Footwear,2164.18,22,Delivered
+10378,WH-102 (Delh),Patna,COD,ZariBrands,Ethnic Wear,1454.38,9,Delivered
+10379,WH-101 (Mumb),Indore,COD,KicksCo,Footwear,1425.13,21,Delivered
+10380,WH-104 (Kolkat),Patna,COD,ElectroTech,Electronics,4457.06,65,Returned
+10381,WH-104 (Kolkat),Patna,COD,StepWell,Footwear,3921.24,67,Returned
+10382,WH-103 (Blru),Bengaluru,Prepaid,ZariBrands,Ethnic Wear,2863.1,17,Delivered
+10383,WH-102 (Delh),Delhi,Prepaid,StepWell,Footwear,3682.85,21,Delivered
+10384,WH-103 (Blru),Delhi,Prepaid,ElectroTech,Electronics,1529.07,22,Delivered
+10385,WH-102 (Delh),Ranchi,Prepaid,ElectroTech,Electronics,3599.9,5,Delivered
+10386,WH-102 (Delh),Delhi,COD,ElectroTech,Electronics,3287.86,30,Delivered
+10387,WH-104 (Kolkat),Lucknow,COD,StepWell,Footwear,2956.09,36,Delivered
+10388,WH-104 (Kolkat),Ranchi,COD,KicksCo,Footwear,1468.55,35,Delivered
+10389,WH-101 (Mumb),Guwahati,Prepaid,KicksCo,Footwear,3858.1,6,Delivered
+10390,WH-101 (Mumb),Guwahati,Prepaid,KicksCo,Footwear,1970.41,17,Delivered
+10391,WH-103 (Blru),Mumbai,Prepaid,StepWell,Footwear,1718.57,22,Delivered
+10392,WH-101 (Mumb),Patna,COD,KicksCo,Footwear,3592.34,7,Returned
+10393,WH-101 (Mumb),Indore,Prepaid,StepWell,Footwear,2096.76,8,Delivered
+10394,WH-101 (Mumb),Mumbai,Prepaid,ElectroTech,Electronics,1351.63,15,Delivered
+10395,WH-103 (Blru),Lucknow,Prepaid,StepWell,Footwear,3471.98,6,Delivered
+10396,WH-104 (Kolkat),Bengaluru,COD,ZariBrands,Ethnic Wear,2793.45,45,Delivered
+10397,WH-103 (Blru),Patna,Prepaid,KicksCo,Footwear,4450.25,17,Delivered
+10398,WH-102 (Delh),Ranchi,COD,StepWell,Footwear,3369.21,14,Returned
+10399,WH-104 (Kolkat),Delhi,Prepaid,ElectroTech,Electronics,3463.26,20,Delivered
+10400,WH-102 (Delh),Patna,COD,StepWell,Footwear,3334.21,17,Returned
+10401,WH-102 (Delh),Indore,COD,DesiWeaves,Ethnic Wear,721.95,28,Delivered
+10402,WH-103 (Blru),Lucknow,Prepaid,ZariBrands,Ethnic Wear,1620.92,8,Delivered
+10403,WH-102 (Delh),Ranchi,COD,StepWell,Footwear,2820.03,26,Delivered
+10404,WH-102 (Delh),Mumbai,COD,ZariBrands,Ethnic Wear,2439.99,27,Delivered
+10405,WH-102 (Delh),Patna,COD,KicksCo,Footwear,773.52,23,Delivered
+10406,WH-103 (Blru),Patna,Prepaid,ZariBrands,Ethnic Wear,854.33,30,Delivered
+10407,WH-102 (Delh),Guwahati,Prepaid,DesiWeaves,Ethnic Wear,4308.7,28,Delivered
+10408,WH-101 (Mumb),Ranchi,COD,ZariBrands,Ethnic Wear,467.27,29,Returned
+10409,WH-104 (Kolkat),Mumbai,COD,KicksCo,Footwear,1989.57,52,Delivered
+10410,WH-103 (Blru),Delhi,COD,DesiWeaves,Ethnic Wear,631.89,10,Delivered
+10411,WH-104 (Kolkat),Guwahati,COD,StepWell,Footwear,3505.54,31,Delivered
+10412,WH-101 (Mumb),Bengaluru,COD,KicksCo,Footwear,4183.44,7,Delivered
+10413,WH-103 (Blru),Patna,Prepaid,KicksCo,Footwear,3063.82,9,Delivered
+10414,WH-101 (Mumb),Delhi,COD,ZariBrands,Ethnic Wear,4302.67,20,Delivered
+10415,WH-102 (Delh),Mumbai,COD,DesiWeaves,Ethnic Wear,3449.06,12,Delivered
+10416,WH-104 (Kolkat),Guwahati,COD,ZariBrands,Ethnic Wear,568.26,48,Delivered
+10417,WH-103 (Blru),Indore,COD,ZariBrands,Ethnic Wear,3909.31,9,Delivered
+10418,WH-101 (Mumb),Mumbai,Prepaid,ElectroTech,Electronics,3131.31,7,Delivered
+10419,WH-101 (Mumb),Patna,Prepaid,StepWell,Footwear,351.61,15,Returned
+10420,WH-101 (Mumb),Delhi,COD,KicksCo,Footwear,4138.58,27,Delivered
+10421,WH-102 (Delh),Guwahati,COD,KicksCo,Footwear,3325.21,6,Returned
+10422,WH-101 (Mumb),Ranchi,COD,DesiWeaves,Ethnic Wear,3678.22,16,Delivered
+10423,WH-103 (Blru),Mumbai,COD,ZariBrands,Ethnic Wear,2622.98,4,Delivered
+10424,WH-103 (Blru),Mumbai,Prepaid,ElectroTech,Electronics,1318.85,15,Delivered
+10425,WH-102 (Delh),Bengaluru,COD,DesiWeaves,Ethnic Wear,4216.07,4,Delivered
+10426,WH-101 (Mumb),Guwahati,Prepaid,StepWell,Footwear,306.14,27,Delivered
+10427,WH-102 (Delh),Bengaluru,COD,ElectroTech,Electronics,4336.98,8,Delivered
+10428,WH-102 (Delh),Patna,Prepaid,ElectroTech,Electronics,2482.99,26,Delivered
+10429,WH-101 (Mumb),Ranchi,COD,ElectroTech,Electronics,2976.31,22,Returned
+10430,WH-102 (Delh),Lucknow,COD,DesiWeaves,Ethnic Wear,1396.16,14,Delivered
+10431,WH-103 (Blru),Guwahati,COD,KicksCo,Footwear,1281.17,8,Delivered
+10432,WH-101 (Mumb),Delhi,COD,DesiWeaves,Ethnic Wear,2257.43,17,Delivered
+10433,WH-102 (Delh),Guwahati,COD,ZariBrands,Ethnic Wear,2246.06,6,Delivered
+10434,WH-101 (Mumb),Mumbai,COD,StepWell,Footwear,3897.61,26,Returned
+10435,WH-101 (Mumb),Lucknow,Prepaid,StepWell,Footwear,1392.7,4,Delivered
+10436,WH-101 (Mumb),Bengaluru,COD,KicksCo,Footwear,3676.37,8,Delivered
+10437,WH-102 (Delh),Patna,COD,ZariBrands,Ethnic Wear,3759.43,24,Returned
+10438,WH-101 (Mumb),Mumbai,COD,ZariBrands,Ethnic Wear,570.78,24,Delivered
+10439,WH-103 (Blru),Ranchi,COD,KicksCo,Footwear,4257.58,22,Returned
+10440,WH-104 (Kolkat),Lucknow,COD,KicksCo,Footwear,3169.49,23,Delivered
+10441,WH-103 (Blru),Delhi,COD,ElectroTech,Electronics,4010.38,5,Delivered
+10442,WH-103 (Blru),Bengaluru,COD,DesiWeaves,Ethnic Wear,4007.67,19,Delivered
+10443,WH-104 (Kolkat),Mumbai,COD,ZariBrands,Ethnic Wear,1137.72,68,Delivered
+10444,WH-104 (Kolkat),Patna,Prepaid,DesiWeaves,Ethnic Wear,1808.27,46,Delivered
+10445,WH-104 (Kolkat),Guwahati,COD,KicksCo,Footwear,409.46,13,Delivered
+10446,WH-103 (Blru),Indore,Prepaid,ElectroTech,Electronics,4498.34,9,Delivered
+10447,WH-103 (Blru),Bengaluru,COD,ZariBrands,Ethnic Wear,3623.2,27,Delivered
+10448,WH-103 (Blru),Lucknow,Prepaid,ZariBrands,Ethnic Wear,4464.48,9,Delivered
+10449,WH-103 (Blru),Guwahati,Prepaid,StepWell,Footwear,418.47,22,Delivered
+10450,WH-104 (Kolkat),Bengaluru,COD,DesiWeaves,Ethnic Wear,1037.34,14,Delivered
+10451,WH-102 (Delh),Bengaluru,COD,ZariBrands,Ethnic Wear,2307.55,14,Delivered
+10452,WH-103 (Blru),Delhi,Prepaid,DesiWeaves,Ethnic Wear,4158.88,14,Delivered
+10453,WH-102 (Delh),Delhi,Prepaid,ZariBrands,Ethnic Wear,3855.22,15,Delivered
+10454,WH-101 (Mumb),Lucknow,COD,ZariBrands,Ethnic Wear,1654.93,9,Delivered
+10455,WH-103 (Blru),Indore,COD,KicksCo,Footwear,4368.72,26,Delivered
+10456,WH-102 (Delh),Bengaluru,COD,DesiWeaves,Ethnic Wear,3382.78,13,Delivered
+10457,WH-104 (Kolkat),Patna,Prepaid,StepWell,Footwear,3537.49,23,Delivered
+10458,WH-101 (Mumb),Bengaluru,Prepaid,DesiWeaves,Ethnic Wear,890.7,27,Delivered
+10459,WH-103 (Blru),Guwahati,COD,ZariBrands,Ethnic Wear,4018.35,26,Returned
+10460,WH-103 (Blru),Patna,COD,ElectroTech,Electronics,3211.34,29,Returned
+10461,WH-101 (Mumb),Patna,COD,ZariBrands,Ethnic Wear,3376.85,17,Delivered
+10462,WH-104 (Kolkat),Guwahati,COD,KicksCo,Footwear,2313.85,53,Delivered
+10463,WH-101 (Mumb),Indore,Prepaid,StepWell,Footwear,440.33,12,Returned
+10464,WH-102 (Delh),Guwahati,Prepaid,ZariBrands,Ethnic Wear,975.8,6,Delivered
+10465,WH-104 (Kolkat),Guwahati,Prepaid,DesiWeaves,Ethnic Wear,2111.56,53,Delivered
+10466,WH-102 (Delh),Lucknow,COD,StepWell,Footwear,1690.6,17,Delivered
+10467,WH-103 (Blru),Mumbai,COD,DesiWeaves,Ethnic Wear,702.85,16,Delivered
+10468,WH-102 (Delh),Indore,COD,DesiWeaves,Ethnic Wear,316.03,6,Delivered
+10469,WH-102 (Delh),Indore,COD,ElectroTech,Electronics,1169.2,24,Delivered
+10470,WH-101 (Mumb),Indore,COD,ElectroTech,Electronics,1969.36,19,Delivered
+10471,WH-102 (Delh),Lucknow,COD,ElectroTech,Electronics,1902.07,9,Delivered
+10472,WH-104 (Kolkat),Mumbai,COD,KicksCo,Footwear,1250.22,29,Delivered
+10473,WH-101 (Mumb),Delhi,COD,DesiWeaves,Ethnic Wear,1743.92,21,Delivered
+10474,WH-101 (Mumb),Bengaluru,Prepaid,KicksCo,Footwear,3737.3,17,Delivered
+10475,WH-102 (Delh),Indore,COD,DesiWeaves,Ethnic Wear,631.61,26,Delivered
+10476,WH-101 (Mumb),Delhi,Prepaid,ZariBrands,Ethnic Wear,2185.97,9,Delivered
+10477,WH-101 (Mumb),Delhi,COD,StepWell,Footwear,4450.78,30,Delivered
+10478,WH-103 (Blru),Mumbai,Prepaid,StepWell,Footwear,4139.53,16,Returned
+10479,WH-103 (Blru),Guwahati,COD,DesiWeaves,Ethnic Wear,4152.08,26,Returned
+10480,WH-101 (Mumb),Lucknow,COD,DesiWeaves,Ethnic Wear,922.44,22,Delivered
+10481,WH-101 (Mumb),Ranchi,Prepaid,DesiWeaves,Ethnic Wear,3943.4,15,Delivered
+10482,WH-104 (Kolkat),Lucknow,COD,KicksCo,Footwear,2286.8,23,Delivered
+10483,WH-104 (Kolkat),Delhi,COD,ElectroTech,Electronics,4036.21,33,Delivered
+10484,WH-103 (Blru),Indore,Prepaid,StepWell,Footwear,384.98,13,Delivered
+10485,WH-101 (Mumb),Indore,Prepaid,ElectroTech,Electronics,1257.42,13,Delivered
+10486,WH-104 (Kolkat),Mumbai,COD,KicksCo,Footwear,675.0,40,Delivered
+10487,WH-103 (Blru),Indore,Prepaid,StepWell,Footwear,2464.13,13,Returned
+10488,WH-101 (Mumb),Delhi,COD,DesiWeaves,Ethnic Wear,3975.76,10,Delivered
+10489,WH-104 (Kolkat),Patna,COD,ZariBrands,Ethnic Wear,1813.58,35,Returned
+10490,WH-101 (Mumb),Lucknow,Prepaid,KicksCo,Footwear,1316.14,19,Delivered
+10491,WH-104 (Kolkat),Delhi,COD,DesiWeaves,Ethnic Wear,1768.99,22,Delivered
+10492,WH-103 (Blru),Ranchi,COD,ElectroTech,Electronics,508.53,28,Delivered
+10493,WH-102 (Delh),Bengaluru,COD,StepWell,Footwear,2019.93,28,Returned
+10494,WH-102 (Delh),Delhi,COD,ZariBrands,Ethnic Wear,335.55,12,Delivered
+10495,WH-104 (Kolkat),Mumbai,Prepaid,DesiWeaves,Ethnic Wear,3876.66,41,Delivered
+10496,WH-103 (Blru),Indore,Prepaid,ElectroTech,Electronics,3762.11,16,Delivered
+10497,WH-103 (Blru),Patna,COD,DesiWeaves,Ethnic Wear,2793.84,25,Returned
+10498,WH-103 (Blru),Ranchi,Prepaid,ZariBrands,Ethnic Wear,2990.5,12,Delivered
+10499,WH-102 (Delh),Mumbai,COD,ElectroTech,Electronics,3514.99,5,Delivered
+10500,WH-102 (Delh),Guwahati,Prepaid,DesiWeaves,Ethnic Wear,3052.68,13,Delivered
+10501,WH-104 (Kolkat),Lucknow,Prepaid,ElectroTech,Electronics,2748.7,48,Delivered
+10502,WH-104 (Kolkat),Bengaluru,Prepaid,StepWell,Footwear,3121.85,66,Delivered
+10503,WH-103 (Blru),Delhi,COD,StepWell,Footwear,837.37,29,Returned
+10504,WH-101 (Mumb),Guwahati,COD,DesiWeaves,Ethnic Wear,1237.98,17,Delivered
+10505,WH-103 (Blru),Mumbai,COD,ElectroTech,Electronics,794.68,5,Delivered
+10506,WH-104 (Kolkat),Ranchi,Prepaid,DesiWeaves,Ethnic Wear,2402.0,67,Delivered
+10507,WH-104 (Kolkat),Mumbai,COD,KicksCo,Footwear,3887.81,20,Delivered
+10508,WH-104 (Kolkat),Lucknow,COD,StepWell,Footwear,3922.05,17,Returned
+10509,WH-103 (Blru),Delhi,COD,KicksCo,Footwear,319.8,12,Delivered
+10510,WH-104 (Kolkat),Delhi,Prepaid,StepWell,Footwear,3574.96,39,Returned
+10511,WH-104 (Kolkat),Lucknow,COD,KicksCo,Footwear,458.45,24,Delivered
+10512,WH-102 (Delh),Guwahati,COD,ElectroTech,Electronics,317.32,11,Delivered
+10513,WH-101 (Mumb),Delhi,COD,ElectroTech,Electronics,2772.42,9,Delivered
+10514,WH-103 (Blru),Mumbai,COD,ZariBrands,Ethnic Wear,2485.21,20,Delivered
+10515,WH-103 (Blru),Delhi,Prepaid,ElectroTech,Electronics,2358.75,28,Delivered
+10516,WH-101 (Mumb),Lucknow,COD,StepWell,Footwear,3354.11,27,Returned
+10517,WH-101 (Mumb),Delhi,COD,ZariBrands,Ethnic Wear,3032.27,5,Delivered
+10518,WH-101 (Mumb),Mumbai,COD,KicksCo,Footwear,501.43,7,Delivered
+10519,WH-104 (Kolkat),Ranchi,COD,ZariBrands,Ethnic Wear,819.1,56,Returned
+10520,WH-103 (Blru),Patna,COD,StepWell,Footwear,724.12,26,Delivered
+10521,WH-101 (Mumb),Ranchi,COD,StepWell,Footwear,3595.99,28,Delivered
+10522,WH-103 (Blru),Bengaluru,Prepaid,ElectroTech,Electronics,1540.48,5,Delivered
+10523,WH-104 (Kolkat),Bengaluru,COD,DesiWeaves,Ethnic Wear,311.5,54,Delivered
+10524,WH-102 (Delh),Indore,Prepaid,ZariBrands,Ethnic Wear,3574.01,6,Delivered
+10525,WH-104 (Kolkat),Bengaluru,Prepaid,ZariBrands,Ethnic Wear,1543.29,41,Delivered
+10526,WH-101 (Mumb),Delhi,Prepaid,ZariBrands,Ethnic Wear,1812.9,25,Delivered
+10527,WH-101 (Mumb),Ranchi,Prepaid,ElectroTech,Electronics,4039.23,4,Delivered
+10528,WH-103 (Blru),Delhi,COD,StepWell,Footwear,2138.4,27,Delivered
+10529,WH-102 (Delh),Guwahati,COD,ZariBrands,Ethnic Wear,1981.05,30,Returned
+10530,WH-104 (Kolkat),Indore,COD,KicksCo,Footwear,3647.02,19,Delivered
+10531,WH-102 (Delh),Patna,COD,StepWell,Footwear,4127.15,18,Delivered
+10532,WH-103 (Blru),Lucknow,COD,StepWell,Footwear,3922.82,27,Delivered
+10533,WH-101 (Mumb),Indore,Prepaid,StepWell,Footwear,2150.89,24,Returned
+10534,WH-103 (Blru),Bengaluru,COD,ElectroTech,Electronics,3190.61,23,Delivered
+10535,WH-104 (Kolkat),Bengaluru,COD,ZariBrands,Ethnic Wear,3140.44,36,Delivered
+10536,WH-101 (Mumb),Patna,COD,StepWell,Footwear,959.09,9,Delivered
+10537,WH-102 (Delh),Guwahati,COD,ZariBrands,Ethnic Wear,1468.26,21,Delivered
+10538,WH-101 (Mumb),Bengaluru,COD,KicksCo,Footwear,3665.3,18,Delivered
+10539,WH-103 (Blru),Indore,COD,ZariBrands,Ethnic Wear,2388.97,24,Delivered
+10540,WH-104 (Kolkat),Lucknow,COD,ZariBrands,Ethnic Wear,2606.21,64,Delivered
+10541,WH-102 (Delh),Mumbai,Prepaid,ZariBrands,Ethnic Wear,2216.07,14,Delivered
+10542,WH-104 (Kolkat),Bengaluru,COD,ElectroTech,Electronics,3523.15,50,Delivered
+10543,WH-104 (Kolkat),Guwahati,COD,KicksCo,Footwear,3489.14,33,Returned
+10544,WH-103 (Blru),Mumbai,Prepaid,ElectroTech,Electronics,492.27,9,Delivered
+10545,WH-101 (Mumb),Lucknow,COD,KicksCo,Footwear,1122.87,7,Delivered
+10546,WH-102 (Delh),Indore,Prepaid,KicksCo,Footwear,752.62,17,Delivered
+10547,WH-104 (Kolkat),Ranchi,COD,ZariBrands,Ethnic Wear,2775.13,43,Delivered
+10548,WH-104 (Kolkat),Patna,Prepaid,ZariBrands,Ethnic Wear,2328.31,44,Delivered
+10549,WH-102 (Delh),Delhi,COD,StepWell,Footwear,3061.59,14,Delivered
+10550,WH-102 (Delh),Lucknow,COD,DesiWeaves,Ethnic Wear,4347.09,13,Delivered
+10551,WH-104 (Kolkat),Delhi,COD,KicksCo,Footwear,4023.03,44,Delivered
+10552,WH-102 (Delh),Guwahati,COD,ElectroTech,Electronics,2921.5,15,Returned
+10553,WH-103 (Blru),Delhi,Prepaid,StepWell,Footwear,3495.26,22,Delivered
+10554,WH-103 (Blru),Lucknow,Prepaid,DesiWeaves,Ethnic Wear,2074.02,4,Delivered
+10555,WH-104 (Kolkat),Patna,COD,DesiWeaves,Ethnic Wear,3115.07,60,Returned
+10556,WH-102 (Delh),Mumbai,Prepaid,StepWell,Footwear,3200.5,28,Returned
+10557,WH-104 (Kolkat),Guwahati,COD,DesiWeaves,Ethnic Wear,3945.75,67,Delivered
+10558,WH-102 (Delh),Lucknow,COD,StepWell,Footwear,3646.7,26,Delivered
+10559,WH-104 (Kolkat),Lucknow,Prepaid,ZariBrands,Ethnic Wear,4398.46,32,Delivered
+10560,WH-103 (Blru),Patna,COD,DesiWeaves,Ethnic Wear,3949.17,18,Delivered
+10561,WH-102 (Delh),Guwahati,Prepaid,StepWell,Footwear,4350.02,9,Returned
+10562,WH-101 (Mumb),Delhi,COD,ZariBrands,Ethnic Wear,2099.73,21,Delivered
+10563,WH-103 (Blru),Delhi,COD,ElectroTech,Electronics,2258.59,8,Delivered
+10564,WH-101 (Mumb),Guwahati,Prepaid,ZariBrands,Ethnic Wear,2926.54,30,Delivered
+10565,WH-101 (Mumb),Guwahati,Prepaid,ElectroTech,Electronics,1635.01,11,Delivered
+10566,WH-102 (Delh),Ranchi,COD,StepWell,Footwear,2555.55,11,Returned
+10567,WH-103 (Blru),Guwahati,COD,StepWell,Footwear,1217.47,21,Delivered
+10568,WH-104 (Kolkat),Guwahati,COD,ZariBrands,Ethnic Wear,2997.51,27,Delivered
+10569,WH-104 (Kolkat),Guwahati,Prepaid,ZariBrands,Ethnic Wear,4268.95,36,Delivered
+10570,WH-101 (Mumb),Mumbai,Prepaid,ElectroTech,Electronics,3752.86,15,Delivered
+10571,WH-104 (Kolkat),Indore,COD,DesiWeaves,Ethnic Wear,4072.78,24,Delivered
+10572,WH-101 (Mumb),Ranchi,COD,ElectroTech,Electronics,4316.36,4,Delivered
+10573,WH-104 (Kolkat),Bengaluru,Prepaid,ZariBrands,Ethnic Wear,1163.43,65,Delivered
+10574,WH-102 (Delh),Ranchi,COD,KicksCo,Footwear,3310.85,6,Returned
+10575,WH-101 (Mumb),Mumbai,COD,ZariBrands,Ethnic Wear,1256.11,12,Delivered
+10576,WH-104 (Kolkat),Indore,COD,KicksCo,Footwear,370.94,55,Delivered
+10577,WH-101 (Mumb),Patna,Prepaid,ZariBrands,Ethnic Wear,2759.55,26,Delivered
+10578,WH-103 (Blru),Ranchi,Prepaid,ZariBrands,Ethnic Wear,1565.67,6,Delivered
+10579,WH-104 (Kolkat),Lucknow,Prepaid,ElectroTech,Electronics,429.44,22,Delivered
+10580,WH-104 (Kolkat),Delhi,Prepaid,DesiWeaves,Ethnic Wear,3867.76,30,Delivered
+10581,WH-101 (Mumb),Guwahati,COD,StepWell,Footwear,2631.29,4,Returned
+10582,WH-101 (Mumb),Lucknow,COD,DesiWeaves,Ethnic Wear,3442.85,27,Delivered
+10583,WH-102 (Delh),Lucknow,COD,ElectroTech,Electronics,1227.31,30,Delivered
+10584,WH-102 (Delh),Ranchi,Prepaid,ElectroTech,Electronics,2682.63,5,Delivered
+10585,WH-103 (Blru),Ranchi,Prepaid,DesiWeaves,Ethnic Wear,1352.89,10,Delivered
+10586,WH-103 (Blru),Guwahati,COD,DesiWeaves,Ethnic Wear,3052.99,23,Returned
+10587,WH-104 (Kolkat),Guwahati,COD,ZariBrands,Ethnic Wear,2888.64,49,Returned
+10588,WH-103 (Blru),Guwahati,Prepaid,StepWell,Footwear,1008.29,29,Delivered
+10589,WH-103 (Blru),Lucknow,Prepaid,StepWell,Footwear,864.08,19,Delivered
+10590,WH-103 (Blru),Guwahati,COD,KicksCo,Footwear,757.1,6,Delivered
+10591,WH-103 (Blru),Bengaluru,Prepaid,ElectroTech,Electronics,2931.8,27,Delivered
+10592,WH-104 (Kolkat),Patna,Prepaid,ZariBrands,Ethnic Wear,1193.59,14,Delivered
+10593,WH-102 (Delh),Indore,COD,DesiWeaves,Ethnic Wear,1237.89,28,Delivered
+10594,WH-102 (Delh),Mumbai,COD,DesiWeaves,Ethnic Wear,2443.73,16,Delivered
+10595,WH-102 (Delh),Patna,Prepaid,ElectroTech,Electronics,3687.47,23,Delivered
+10596,WH-104 (Kolkat),Delhi,COD,StepWell,Footwear,2678.7,67,Delivered
+10597,WH-103 (Blru),Indore,COD,StepWell,Footwear,3498.18,12,Returned
+10598,WH-102 (Delh),Patna,COD,ElectroTech,Electronics,3624.13,18,Returned
+10599,WH-101 (Mumb),Guwahati,Prepaid,ZariBrands,Ethnic Wear,2489.77,30,Delivered
+10600,WH-102 (Delh),Mumbai,COD,ElectroTech,Electronics,1889.78,22,Delivered
+10601,WH-104 (Kolkat),Mumbai,Prepaid,ZariBrands,Ethnic Wear,1236.18,37,Delivered
+10602,WH-104 (Kolkat),Indore,Prepaid,ElectroTech,Electronics,327.71,68,Delivered
+10603,WH-102 (Delh),Delhi,COD,StepWell,Footwear,3002.6,9,Returned
+10604,WH-102 (Delh),Ranchi,COD,StepWell,Footwear,1686.94,25,Returned
+10605,WH-102 (Delh),Bengaluru,COD,KicksCo,Footwear,2025.78,11,Delivered
+10606,WH-102 (Delh),Delhi,COD,ZariBrands,Ethnic Wear,464.6,22,Delivered
+10607,WH-103 (Blru),Delhi,Prepaid,StepWell,Footwear,2469.89,22,Delivered
+10608,WH-101 (Mumb),Mumbai,COD,ZariBrands,Ethnic Wear,2847.41,19,Delivered
+10609,WH-104 (Kolkat),Bengaluru,COD,KicksCo,Footwear,3637.39,64,Delivered
+10610,WH-102 (Delh),Mumbai,Prepaid,StepWell,Footwear,1739.22,22,Delivered
+10611,WH-104 (Kolkat),Lucknow,COD,ZariBrands,Ethnic Wear,369.56,45,Delivered
+10612,WH-102 (Delh),Lucknow,COD,DesiWeaves,Ethnic Wear,1045.17,23,Delivered
+10613,WH-101 (Mumb),Ranchi,COD,DesiWeaves,Ethnic Wear,847.38,30,Delivered
+10614,WH-104 (Kolkat),Lucknow,COD,ZariBrands,Ethnic Wear,482.44,45,Delivered
+10615,WH-104 (Kolkat),Indore,COD,KicksCo,Footwear,3679.41,70,Delivered
+10616,WH-102 (Delh),Lucknow,COD,DesiWeaves,Ethnic Wear,3516.61,6,Delivered
+10617,WH-103 (Blru),Lucknow,COD,ElectroTech,Electronics,3278.43,29,Delivered
+10618,WH-101 (Mumb),Ranchi,COD,ZariBrands,Ethnic Wear,1162.76,17,Delivered
+10619,WH-104 (Kolkat),Delhi,Prepaid,ElectroTech,Electronics,1365.26,66,Delivered
+10620,WH-103 (Blru),Guwahati,Prepaid,DesiWeaves,Ethnic Wear,1969.31,10,Delivered
+10621,WH-102 (Delh),Indore,COD,KicksCo,Footwear,2630.63,12,Delivered
+10622,WH-104 (Kolkat),Guwahati,Prepaid,ElectroTech,Electronics,3891.0,54,Delivered
+10623,WH-104 (Kolkat),Bengaluru,Prepaid,ZariBrands,Ethnic Wear,4286.83,18,Delivered
+10624,WH-103 (Blru),Lucknow,Prepaid,StepWell,Footwear,2878.91,5,Delivered
+10625,WH-101 (Mumb),Patna,Prepaid,StepWell,Footwear,2281.01,6,Delivered
+10626,WH-103 (Blru),Bengaluru,COD,ZariBrands,Ethnic Wear,458.57,16,Delivered
+10627,WH-101 (Mumb),Mumbai,Prepaid,KicksCo,Footwear,3744.96,24,Delivered
+10628,WH-102 (Delh),Patna,Prepaid,KicksCo,Footwear,4209.19,20,Delivered
+10629,WH-102 (Delh),Patna,COD,ElectroTech,Electronics,3130.9,24,Returned
+10630,WH-103 (Blru),Ranchi,Prepaid,ZariBrands,Ethnic Wear,1783.14,16,Delivered
+10631,WH-101 (Mumb),Bengaluru,Prepaid,KicksCo,Footwear,588.19,6,Delivered
+10632,WH-103 (Blru),Guwahati,Prepaid,DesiWeaves,Ethnic Wear,1461.33,23,Delivered
+10633,WH-101 (Mumb),Lucknow,COD,StepWell,Footwear,2009.97,6,Returned
+10634,WH-101 (Mumb),Guwahati,Prepaid,DesiWeaves,Ethnic Wear,4318.18,21,Delivered
+10635,WH-104 (Kolkat),Indore,COD,DesiWeaves,Ethnic Wear,3533.86,60,Delivered
+10636,WH-101 (Mumb),Indore,COD,ElectroTech,Electronics,1382.84,16,Delivered
+10637,WH-103 (Blru),Bengaluru,COD,StepWell,Footwear,1783.0,26,Delivered
+10638,WH-101 (Mumb),Mumbai,COD,ElectroTech,Electronics,3444.91,14,Delivered
+10639,WH-104 (Kolkat),Delhi,COD,ZariBrands,Ethnic Wear,1217.98,48,Delivered
+10640,WH-104 (Kolkat),Bengaluru,Prepaid,ElectroTech,Electronics,1286.42,27,Delivered
+10641,WH-102 (Delh),Bengaluru,Prepaid,ElectroTech,Electronics,3812.61,15,Delivered
+10642,WH-101 (Mumb),Ranchi,Prepaid,StepWell,Footwear,3086.38,28,Delivered
+10643,WH-103 (Blru),Indore,COD,DesiWeaves,Ethnic Wear,2367.83,22,Delivered
+10644,WH-103 (Blru),Delhi,COD,ElectroTech,Electronics,3450.71,8,Delivered
+10645,WH-104 (Kolkat),Lucknow,Prepaid,ZariBrands,Ethnic Wear,436.76,34,Delivered
+10646,WH-104 (Kolkat),Delhi,Prepaid,KicksCo,Footwear,3232.63,41,Delivered
+10647,WH-101 (Mumb),Patna,Prepaid,ElectroTech,Electronics,1893.6,7,Delivered
+10648,WH-102 (Delh),Mumbai,COD,ElectroTech,Electronics,1295.98,19,Delivered
+10649,WH-102 (Delh),Guwahati,COD,DesiWeaves,Ethnic Wear,1184.24,15,Delivered
+10650,WH-104 (Kolkat),Mumbai,COD,ElectroTech,Electronics,850.78,48,Delivered
+10651,WH-102 (Delh),Mumbai,COD,StepWell,Footwear,3896.5,29,Returned
+10652,WH-102 (Delh),Patna,COD,StepWell,Footwear,864.78,21,Delivered
+10653,WH-103 (Blru),Mumbai,COD,ElectroTech,Electronics,2684.9,16,Delivered
+10654,WH-101 (Mumb),Delhi,COD,ZariBrands,Ethnic Wear,1368.02,30,Delivered
+10655,WH-103 (Blru),Guwahati,COD,ZariBrands,Ethnic Wear,2653.47,12,Delivered
+10656,WH-101 (Mumb),Lucknow,COD,ElectroTech,Electronics,3154.26,23,Delivered
+10657,WH-103 (Blru),Delhi,COD,StepWell,Footwear,3127.41,27,Delivered
+10658,WH-103 (Blru),Lucknow,COD,KicksCo,Footwear,4317.7,9,Delivered
+10659,WH-101 (Mumb),Lucknow,COD,ElectroTech,Electronics,1743.23,14,Delivered
+10660,WH-103 (Blru),Mumbai,COD,ElectroTech,Electronics,1960.91,18,Delivered
+10661,WH-104 (Kolkat),Indore,COD,ElectroTech,Electronics,3887.69,20,Delivered
+10662,WH-101 (Mumb),Mumbai,COD,StepWell,Footwear,1967.59,19,Returned
+10663,WH-104 (Kolkat),Patna,COD,DesiWeaves,Ethnic Wear,4483.26,51,Returned
+10664,WH-103 (Blru),Lucknow,COD,StepWell,Footwear,3397.89,8,Delivered
+10665,WH-101 (Mumb),Delhi,COD,StepWell,Footwear,1798.73,19,Delivered
+10666,WH-104 (Kolkat),Mumbai,COD,KicksCo,Footwear,4283.64,46,Delivered
+10667,WH-104 (Kolkat),Indore,COD,StepWell,Footwear,2986.02,34,Delivered
+10668,WH-101 (Mumb),Bengaluru,COD,KicksCo,Footwear,1836.29,12,Delivered
+10669,WH-101 (Mumb),Patna,COD,StepWell,Footwear,3484.83,13,Returned
+10670,WH-104 (Kolkat),Patna,Prepaid,KicksCo,Footwear,2303.68,12,Delivered
+10671,WH-101 (Mumb),Bengaluru,COD,KicksCo,Footwear,1092.0,21,Delivered
+10672,WH-102 (Delh),Bengaluru,Prepaid,KicksCo,Footwear,3013.16,30,Delivered
+10673,WH-101 (Mumb),Mumbai,COD,KicksCo,Footwear,1306.16,28,Delivered
+10674,WH-103 (Blru),Mumbai,COD,DesiWeaves,Ethnic Wear,2534.17,12,Delivered
+10675,WH-102 (Delh),Ranchi,COD,KicksCo,Footwear,763.5,18,Returned
+10676,WH-102 (Delh),Indore,COD,ElectroTech,Electronics,939.03,21,Delivered
+10677,WH-103 (Blru),Ranchi,COD,ZariBrands,Ethnic Wear,3303.82,11,Delivered
+10678,WH-104 (Kolkat),Patna,COD,ZariBrands,Ethnic Wear,2065.02,43,Delivered
+10679,WH-103 (Blru),Patna,COD,ElectroTech,Electronics,3452.39,12,Returned
+10680,WH-102 (Delh),Indore,COD,KicksCo,Footwear,3834.47,30,Delivered
+10681,WH-102 (Delh),Ranchi,COD,KicksCo,Footwear,4394.88,5,Returned
+10682,WH-102 (Delh),Ranchi,COD,StepWell,Footwear,3162.06,14,Returned
+10683,WH-101 (Mumb),Patna,COD,StepWell,Footwear,2981.78,5,Returned
+10684,WH-104 (Kolkat),Bengaluru,COD,StepWell,Footwear,1002.91,19,Returned
+10685,WH-101 (Mumb),Patna,COD,KicksCo,Footwear,3201.16,8,Delivered
+10686,WH-102 (Delh),Bengaluru,COD,ElectroTech,Electronics,3180.97,14,Delivered
+10687,WH-102 (Delh),Guwahati,Prepaid,ZariBrands,Ethnic Wear,3624.16,8,Delivered
+10688,WH-103 (Blru),Guwahati,Prepaid,KicksCo,Footwear,2142.62,10,Delivered
+10689,WH-103 (Blru),Lucknow,Prepaid,ZariBrands,Ethnic Wear,1352.92,5,Delivered
+10690,WH-103 (Blru),Indore,COD,KicksCo,Footwear,2358.39,22,Delivered
+10691,WH-103 (Blru),Guwahati,Prepaid,StepWell,Footwear,1456.36,21,Delivered
+10692,WH-104 (Kolkat),Delhi,COD,StepWell,Footwear,1406.07,12,Delivered
+10693,WH-101 (Mumb),Delhi,COD,DesiWeaves,Ethnic Wear,1829.12,23,Delivered
+10694,WH-104 (Kolkat),Ranchi,COD,StepWell,Footwear,3169.54,30,Returned
+10695,WH-101 (Mumb),Guwahati,COD,ElectroTech,Electronics,3067.34,8,Returned
+10696,WH-101 (Mumb),Bengaluru,COD,StepWell,Footwear,714.77,30,Delivered
+10697,WH-103 (Blru),Indore,COD,KicksCo,Footwear,1227.04,26,Delivered
+10698,WH-104 (Kolkat),Bengaluru,Prepaid,ZariBrands,Ethnic Wear,3794.73,41,Delivered
+10699,WH-103 (Blru),Lucknow,Prepaid,ZariBrands,Ethnic Wear,544.86,23,Delivered
+10700,WH-101 (Mumb),Patna,Prepaid,ElectroTech,Electronics,627.33,10,Delivered
+10701,WH-102 (Delh),Ranchi,COD,DesiWeaves,Ethnic Wear,1095.73,11,Delivered
+10702,WH-104 (Kolkat),Delhi,Prepaid,DesiWeaves,Ethnic Wear,3518.39,48,Delivered
+10703,WH-104 (Kolkat),Indore,Prepaid,ElectroTech,Electronics,1000.6,23,Delivered
+10704,WH-102 (Delh),Guwahati,COD,DesiWeaves,Ethnic Wear,2819.65,14,Delivered
+10705,WH-104 (Kolkat),Guwahati,Prepaid,DesiWeaves,Ethnic Wear,2108.47,58,Delivered
+10706,WH-102 (Delh),Bengaluru,COD,ElectroTech,Electronics,2611.0,27,Delivered
+10707,WH-104 (Kolkat),Indore,Prepaid,ElectroTech,Electronics,300.82,14,Delivered
+10708,WH-102 (Delh),Patna,Prepaid,ElectroTech,Electronics,1567.73,13,Delivered
+10709,WH-101 (Mumb),Guwahati,Prepaid,StepWell,Footwear,4262.06,21,Delivered
+10710,WH-101 (Mumb),Delhi,COD,DesiWeaves,Ethnic Wear,1793.75,8,Delivered
+10711,WH-102 (Delh),Bengaluru,COD,ElectroTech,Electronics,1561.27,22,Delivered
+10712,WH-101 (Mumb),Bengaluru,Prepaid,KicksCo,Footwear,3630.2,9,Delivered
+10713,WH-103 (Blru),Ranchi,COD,KicksCo,Footwear,3695.03,28,Returned
+10714,WH-104 (Kolkat),Guwahati,COD,ZariBrands,Ethnic Wear,3944.89,26,Delivered
+10715,WH-101 (Mumb),Lucknow,COD,DesiWeaves,Ethnic Wear,472.97,21,Delivered
+10716,WH-102 (Delh),Guwahati,COD,DesiWeaves,Ethnic Wear,3129.27,18,Delivered
+10717,WH-102 (Delh),Ranchi,COD,DesiWeaves,Ethnic Wear,3602.75,14,Returned
+10718,WH-104 (Kolkat),Patna,COD,ZariBrands,Ethnic Wear,1973.81,56,Returned
+10719,WH-102 (Delh),Indore,COD,StepWell,Footwear,3039.44,23,Returned
+10720,WH-101 (Mumb),Bengaluru,COD,DesiWeaves,Ethnic Wear,2106.28,25,Delivered
+10721,WH-104 (Kolkat),Ranchi,COD,DesiWeaves,Ethnic Wear,1762.89,50,Returned
+10722,WH-103 (Blru),Delhi,COD,ZariBrands,Ethnic Wear,4458.67,18,Delivered
+10723,WH-101 (Mumb),Indore,Prepaid,DesiWeaves,Ethnic Wear,1280.66,25,Delivered
+10724,WH-101 (Mumb),Ranchi,Prepaid,ElectroTech,Electronics,1320.8,23,Delivered
+10725,WH-103 (Blru),Patna,Prepaid,StepWell,Footwear,767.37,4,Delivered
+10726,WH-102 (Delh),Bengaluru,COD,ElectroTech,Electronics,3451.49,21,Delivered
+10727,WH-101 (Mumb),Delhi,COD,KicksCo,Footwear,4105.37,20,Delivered
+10728,WH-101 (Mumb),Delhi,COD,ZariBrands,Ethnic Wear,3614.59,23,Delivered
+10729,WH-101 (Mumb),Indore,COD,ElectroTech,Electronics,3073.57,25,Delivered
+10730,WH-103 (Blru),Patna,Prepaid,ElectroTech,Electronics,3027.53,11,Delivered
+10731,WH-103 (Blru),Ranchi,COD,KicksCo,Footwear,2807.85,10,Returned
+10732,WH-101 (Mumb),Patna,COD,DesiWeaves,Ethnic Wear,2523.54,16,Returned
+10733,WH-103 (Blru),Guwahati,COD,StepWell,Footwear,1569.77,12,Delivered
+10734,WH-104 (Kolkat),Mumbai,Prepaid,ZariBrands,Ethnic Wear,3722.41,13,Delivered
+10735,WH-102 (Delh),Bengaluru,COD,DesiWeaves,Ethnic Wear,1949.96,8,Delivered
+10736,WH-102 (Delh),Lucknow,COD,ZariBrands,Ethnic Wear,2706.17,17,Delivered
+10737,WH-104 (Kolkat),Guwahati,COD,ElectroTech,Electronics,1168.38,46,Returned
+10738,WH-102 (Delh),Mumbai,COD,StepWell,Footwear,4117.81,24,Delivered
+10739,WH-101 (Mumb),Guwahati,COD,DesiWeaves,Ethnic Wear,4284.13,14,Returned
+10740,WH-103 (Blru),Patna,Prepaid,StepWell,Footwear,2038.97,18,Delivered
+10741,WH-101 (Mumb),Bengaluru,COD,ElectroTech,Electronics,410.03,23,Delivered
+10742,WH-102 (Delh),Bengaluru,COD,DesiWeaves,Ethnic Wear,409.55,6,Delivered
+10743,WH-103 (Blru),Indore,COD,KicksCo,Footwear,1927.33,19,Delivered
+10744,WH-102 (Delh),Bengaluru,COD,StepWell,Footwear,3511.06,12,Returned
+10745,WH-102 (Delh),Bengaluru,COD,KicksCo,Footwear,4193.83,18,Delivered
+10746,WH-104 (Kolkat),Guwahati,Prepaid,DesiWeaves,Ethnic Wear,2095.73,61,Delivered
+10747,WH-103 (Blru),Lucknow,COD,ZariBrands,Ethnic Wear,4244.38,22,Delivered
+10748,WH-101 (Mumb),Patna,COD,DesiWeaves,Ethnic Wear,3773.44,11,Returned
+10749,WH-101 (Mumb),Lucknow,COD,DesiWeaves,Ethnic Wear,2467.73,24,Delivered
+10750,WH-104 (Kolkat),Mumbai,COD,ZariBrands,Ethnic Wear,1579.13,64,Delivered
+10751,WH-104 (Kolkat),Delhi,COD,ElectroTech,Electronics,4159.94,56,Delivered
+10752,WH-104 (Kolkat),Indore,COD,DesiWeaves,Ethnic Wear,2402.76,23,Delivered
+10753,WH-104 (Kolkat),Delhi,COD,DesiWeaves,Ethnic Wear,2193.72,23,Delivered
+10754,WH-104 (Kolkat),Bengaluru,COD,KicksCo,Footwear,1661.11,53,Delivered
+10755,WH-101 (Mumb),Ranchi,COD,StepWell,Footwear,2187.47,20,Returned
+10756,WH-104 (Kolkat),Delhi,COD,KicksCo,Footwear,484.41,22,Delivered
+10757,WH-102 (Delh),Delhi,Prepaid,ElectroTech,Electronics,1051.24,26,Delivered
+10758,WH-103 (Blru),Mumbai,Prepaid,ZariBrands,Ethnic Wear,4336.06,13,Delivered
+10759,WH-102 (Delh),Delhi,COD,StepWell,Footwear,3514.66,19,Returned
+10760,WH-104 (Kolkat),Patna,COD,KicksCo,Footwear,2773.22,38,Returned
+10761,WH-102 (Delh),Patna,Prepaid,KicksCo,Footwear,1468.07,24,Delivered
+10762,WH-102 (Delh),Patna,COD,DesiWeaves,Ethnic Wear,3043.76,5,Returned
+10763,WH-103 (Blru),Mumbai,Prepaid,DesiWeaves,Ethnic Wear,505.93,17,Delivered
+10764,WH-102 (Delh),Mumbai,Prepaid,StepWell,Footwear,3447.21,5,Delivered
+10765,WH-103 (Blru),Guwahati,Prepaid,ZariBrands,Ethnic Wear,3745.11,28,Delivered
+10766,WH-103 (Blru),Ranchi,COD,KicksCo,Footwear,812.5,14,Delivered
+10767,WH-102 (Delh),Bengaluru,COD,DesiWeaves,Ethnic Wear,759.07,27,Delivered
+10768,WH-103 (Blru),Indore,COD,DesiWeaves,Ethnic Wear,3860.75,12,Delivered
+10769,WH-102 (Delh),Guwahati,COD,DesiWeaves,Ethnic Wear,2384.87,19,Delivered
+10770,WH-103 (Blru),Bengaluru,Prepaid,KicksCo,Footwear,306.64,4,Delivered
+10771,WH-102 (Delh),Ranchi,Prepaid,KicksCo,Footwear,4495.75,17,Delivered
+10772,WH-102 (Delh),Guwahati,COD,ZariBrands,Ethnic Wear,1144.99,29,Returned
+10773,WH-103 (Blru),Mumbai,Prepaid,ZariBrands,Ethnic Wear,778.11,14,Delivered
+10774,WH-102 (Delh),Patna,COD,ElectroTech,Electronics,3802.07,19,Delivered
+10775,WH-104 (Kolkat),Delhi,COD,KicksCo,Footwear,2234.6,67,Delivered
+10776,WH-104 (Kolkat),Indore,Prepaid,DesiWeaves,Ethnic Wear,535.29,45,Delivered
+10777,WH-101 (Mumb),Guwahati,COD,ElectroTech,Electronics,3179.07,29,Delivered
+10778,WH-103 (Blru),Delhi,Prepaid,ElectroTech,Electronics,1724.44,16,Delivered
+10779,WH-102 (Delh),Lucknow,COD,DesiWeaves,Ethnic Wear,3931.29,28,Delivered
+10780,WH-101 (Mumb),Guwahati,COD,ElectroTech,Electronics,664.55,15,Delivered
+10781,WH-103 (Blru),Bengaluru,COD,KicksCo,Footwear,1871.71,5,Delivered
+10782,WH-101 (Mumb),Indore,Prepaid,StepWell,Footwear,4100.81,14,Returned
+10783,WH-103 (Blru),Mumbai,COD,KicksCo,Footwear,3961.56,30,Delivered
+10784,WH-102 (Delh),Delhi,Prepaid,DesiWeaves,Ethnic Wear,2229.35,26,Delivered
+10785,WH-103 (Blru),Patna,Prepaid,DesiWeaves,Ethnic Wear,3185.62,23,Delivered
+10786,WH-101 (Mumb),Indore,COD,ZariBrands,Ethnic Wear,3517.96,27,Delivered
+10787,WH-102 (Delh),Mumbai,COD,ElectroTech,Electronics,1108.69,12,Delivered
+10788,WH-101 (Mumb),Indore,COD,DesiWeaves,Ethnic Wear,961.48,7,Delivered
+10789,WH-102 (Delh),Ranchi,COD,ZariBrands,Ethnic Wear,2607.34,26,Returned
+10790,WH-102 (Delh),Bengaluru,COD,ElectroTech,Electronics,2875.7,14,Delivered
+10791,WH-102 (Delh),Patna,COD,DesiWeaves,Ethnic Wear,4093.83,16,Returned
+10792,WH-104 (Kolkat),Lucknow,COD,ZariBrands,Ethnic Wear,2803.71,49,Delivered
+10793,WH-103 (Blru),Guwahati,COD,KicksCo,Footwear,1132.22,29,Delivered
+10794,WH-102 (Delh),Indore,COD,DesiWeaves,Ethnic Wear,3669.87,26,Delivered
+10795,WH-103 (Blru),Indore,Prepaid,KicksCo,Footwear,3282.91,18,Delivered
+10796,WH-102 (Delh),Bengaluru,Prepaid,KicksCo,Footwear,2891.16,15,Delivered
+10797,WH-103 (Blru),Guwahati,COD,KicksCo,Footwear,427.11,15,Returned
+10798,WH-103 (Blru),Delhi,Prepaid,KicksCo,Footwear,2838.65,8,Delivered
+10799,WH-101 (Mumb),Lucknow,COD,DesiWeaves,Ethnic Wear,3027.7,29,Delivered
+10800,WH-104 (Kolkat),Indore,COD,ElectroTech,Electronics,1302.02,27,Delivered
+10801,WH-104 (Kolkat),Indore,COD,DesiWeaves,Ethnic Wear,1174.6,56,Delivered
+10802,WH-103 (Blru),Lucknow,COD,DesiWeaves,Ethnic Wear,1291.85,25,Delivered
+10803,WH-101 (Mumb),Indore,COD,ZariBrands,Ethnic Wear,2244.22,21,Delivered
+10804,WH-103 (Blru),Delhi,Prepaid,ZariBrands,Ethnic Wear,592.35,7,Delivered
+10805,WH-104 (Kolkat),Guwahati,COD,DesiWeaves,Ethnic Wear,558.23,20,Returned
+10806,WH-102 (Delh),Patna,Prepaid,DesiWeaves,Ethnic Wear,2202.49,13,Delivered
+10807,WH-102 (Delh),Indore,COD,KicksCo,Footwear,3985.19,13,Delivered
+10808,WH-104 (Kolkat),Mumbai,Prepaid,DesiWeaves,Ethnic Wear,4143.5,17,Delivered
+10809,WH-102 (Delh),Lucknow,Prepaid,DesiWeaves,Ethnic Wear,562.12,21,Delivered
+10810,WH-101 (Mumb),Guwahati,Prepaid,ZariBrands,Ethnic Wear,3935.85,11,Delivered
+10811,WH-103 (Blru),Lucknow,Prepaid,KicksCo,Footwear,2005.34,17,Delivered
+10812,WH-104 (Kolkat),Delhi,COD,DesiWeaves,Ethnic Wear,2632.77,65,Delivered
+10813,WH-103 (Blru),Delhi,Prepaid,ElectroTech,Electronics,3114.28,8,Delivered
+10814,WH-102 (Delh),Patna,Prepaid,ZariBrands,Ethnic Wear,2344.15,17,Delivered
+10815,WH-104 (Kolkat),Delhi,Prepaid,StepWell,Footwear,4053.05,71,Delivered
+10816,WH-104 (Kolkat),Delhi,COD,KicksCo,Footwear,2618.61,40,Delivered
+10817,WH-102 (Delh),Bengaluru,COD,KicksCo,Footwear,331.21,19,Delivered
+10818,WH-104 (Kolkat),Mumbai,Prepaid,StepWell,Footwear,2720.68,14,Returned
+10819,WH-101 (Mumb),Guwahati,COD,DesiWeaves,Ethnic Wear,4339.3,27,Returned
+10820,WH-101 (Mumb),Indore,COD,DesiWeaves,Ethnic Wear,2862.3,11,Delivered
+10821,WH-103 (Blru),Ranchi,COD,KicksCo,Footwear,4095.06,4,Delivered
+10822,WH-103 (Blru),Indore,COD,KicksCo,Footwear,4334.44,29,Delivered
+10823,WH-101 (Mumb),Delhi,Prepaid,ElectroTech,Electronics,2810.07,13,Delivered
+10824,WH-104 (Kolkat),Patna,COD,DesiWeaves,Ethnic Wear,2706.01,30,Delivered
+10825,WH-104 (Kolkat),Mumbai,COD,DesiWeaves,Ethnic Wear,2423.5,66,Delivered
+10826,WH-103 (Blru),Delhi,COD,ElectroTech,Electronics,1379.21,27,Delivered
+10827,WH-102 (Delh),Delhi,Prepaid,ZariBrands,Ethnic Wear,1853.02,9,Delivered
+10828,WH-104 (Kolkat),Bengaluru,COD,ElectroTech,Electronics,2515.03,14,Delivered
+10829,WH-102 (Delh),Delhi,Prepaid,ElectroTech,Electronics,3461.6,17,Delivered
+10830,WH-102 (Delh),Indore,COD,KicksCo,Footwear,3384.32,15,Delivered
+10831,WH-101 (Mumb),Mumbai,COD,ZariBrands,Ethnic Wear,2248.86,19,Delivered
+10832,WH-104 (Kolkat),Bengaluru,Prepaid,ElectroTech,Electronics,1938.3,28,Delivered
+10833,WH-101 (Mumb),Lucknow,COD,StepWell,Footwear,3648.7,14,Delivered
+10834,WH-101 (Mumb),Patna,Prepaid,DesiWeaves,Ethnic Wear,2977.18,17,Delivered
+10835,WH-103 (Blru),Mumbai,COD,DesiWeaves,Ethnic Wear,3669.73,12,Delivered
+10836,WH-102 (Delh),Indore,Prepaid,DesiWeaves,Ethnic Wear,2772.64,10,Delivered
+10837,WH-103 (Blru),Delhi,COD,DesiWeaves,Ethnic Wear,3125.77,30,Delivered
+10838,WH-101 (Mumb),Lucknow,COD,ZariBrands,Ethnic Wear,3179.1,15,Delivered
+10839,WH-103 (Blru),Mumbai,COD,StepWell,Footwear,399.54,23,Returned
+10840,WH-101 (Mumb),Ranchi,COD,StepWell,Footwear,2839.68,28,Returned
+10841,WH-102 (Delh),Ranchi,COD,DesiWeaves,Ethnic Wear,2261.21,24,Delivered
+10842,WH-103 (Blru),Lucknow,COD,KicksCo,Footwear,3579.07,12,Delivered
+10843,WH-103 (Blru),Lucknow,Prepaid,ZariBrands,Ethnic Wear,1384.6,30,Delivered
+10844,WH-101 (Mumb),Indore,COD,ElectroTech,Electronics,4200.06,23,Delivered
+10845,WH-101 (Mumb),Indore,COD,KicksCo,Footwear,3528.57,10,Delivered
+10846,WH-104 (Kolkat),Ranchi,Prepaid,DesiWeaves,Ethnic Wear,733.81,16,Delivered
+10847,WH-104 (Kolkat),Mumbai,COD,ZariBrands,Ethnic Wear,2390.35,53,Delivered
+10848,WH-103 (Blru),Lucknow,COD,ZariBrands,Ethnic Wear,1685.29,16,Delivered
+10849,WH-104 (Kolkat),Indore,COD,DesiWeaves,Ethnic Wear,3845.01,61,Delivered
+10850,WH-101 (Mumb),Bengaluru,COD,ZariBrands,Ethnic Wear,3194.9,28,Delivered
+10851,WH-103 (Blru),Guwahati,Prepaid,KicksCo,Footwear,1982.58,24,Delivered
+10852,WH-101 (Mumb),Guwahati,Prepaid,ZariBrands,Ethnic Wear,3493.9,13,Delivered
+10853,WH-104 (Kolkat),Patna,Prepaid,StepWell,Footwear,1555.26,18,Delivered
+10854,WH-104 (Kolkat),Ranchi,Prepaid,ElectroTech,Electronics,887.76,24,Delivered
+10855,WH-104 (Kolkat),Bengaluru,COD,ZariBrands,Ethnic Wear,3629.5,53,Delivered
+10856,WH-101 (Mumb),Indore,COD,ElectroTech,Electronics,535.43,29,Delivered
+10857,WH-102 (Delh),Ranchi,Prepaid,ZariBrands,Ethnic Wear,3102.73,18,Delivered
+10858,WH-101 (Mumb),Bengaluru,COD,DesiWeaves,Ethnic Wear,894.68,24,Delivered
+10859,WH-102 (Delh),Patna,Prepaid,ZariBrands,Ethnic Wear,848.26,9,Delivered
+10860,WH-104 (Kolkat),Ranchi,COD,ZariBrands,Ethnic Wear,3808.48,64,Returned
+10861,WH-102 (Delh),Indore,COD,ZariBrands,Ethnic Wear,1151.09,14,Delivered
+10862,WH-102 (Delh),Ranchi,COD,KicksCo,Footwear,4351.71,5,Returned
+10863,WH-101 (Mumb),Guwahati,COD,DesiWeaves,Ethnic Wear,893.19,26,Returned
+10864,WH-104 (Kolkat),Delhi,COD,ElectroTech,Electronics,2744.34,20,Delivered
+10865,WH-102 (Delh),Lucknow,COD,ZariBrands,Ethnic Wear,2345.26,4,Delivered
+10866,WH-103 (Blru),Ranchi,COD,ZariBrands,Ethnic Wear,3691.13,26,Delivered
+10867,WH-103 (Blru),Delhi,COD,StepWell,Footwear,2030.53,23,Delivered
+10868,WH-104 (Kolkat),Delhi,COD,ZariBrands,Ethnic Wear,669.69,64,Delivered
+10869,WH-101 (Mumb),Lucknow,COD,ElectroTech,Electronics,1105.99,20,Delivered
+10870,WH-102 (Delh),Guwahati,COD,ZariBrands,Ethnic Wear,2931.15,5,Returned
+10871,WH-104 (Kolkat),Delhi,COD,StepWell,Footwear,970.99,15,Delivered
+10872,WH-104 (Kolkat),Bengaluru,COD,ElectroTech,Electronics,2890.64,68,Delivered
+10873,WH-101 (Mumb),Ranchi,Prepaid,KicksCo,Footwear,1038.73,29,Delivered
+10874,WH-101 (Mumb),Ranchi,Prepaid,ZariBrands,Ethnic Wear,3329.89,22,Delivered
+10875,WH-102 (Delh),Lucknow,Prepaid,DesiWeaves,Ethnic Wear,4073.17,11,Delivered
+10876,WH-101 (Mumb),Bengaluru,COD,ZariBrands,Ethnic Wear,2032.9,10,Delivered
+10877,WH-104 (Kolkat),Ranchi,COD,KicksCo,Footwear,528.23,25,Returned
+10878,WH-104 (Kolkat),Delhi,COD,DesiWeaves,Ethnic Wear,2222.51,24,Delivered
+10879,WH-103 (Blru),Bengaluru,COD,ElectroTech,Electronics,3207.28,5,Delivered
+10880,WH-104 (Kolkat),Ranchi,COD,ElectroTech,Electronics,1019.05,68,Returned
+10881,WH-102 (Delh),Delhi,COD,ElectroTech,Electronics,2621.57,11,Delivered
+10882,WH-102 (Delh),Indore,COD,ZariBrands,Ethnic Wear,3815.35,12,Delivered
+10883,WH-102 (Delh),Lucknow,COD,ZariBrands,Ethnic Wear,2123.84,11,Delivered
+10884,WH-104 (Kolkat),Patna,Prepaid,DesiWeaves,Ethnic Wear,468.25,42,Delivered
+10885,WH-104 (Kolkat),Lucknow,COD,DesiWeaves,Ethnic Wear,3651.67,64,Delivered
+10886,WH-102 (Delh),Indore,COD,ZariBrands,Ethnic Wear,3462.93,26,Delivered
+10887,WH-103 (Blru),Delhi,COD,KicksCo,Footwear,3020.09,6,Delivered
+10888,WH-102 (Delh),Mumbai,Prepaid,ZariBrands,Ethnic Wear,3903.27,27,Delivered
+10889,WH-104 (Kolkat),Indore,Prepaid,DesiWeaves,Ethnic Wear,3971.64,37,Delivered
+10890,WH-101 (Mumb),Indore,Prepaid,StepWell,Footwear,596.93,14,Delivered
+10891,WH-104 (Kolkat),Mumbai,Prepaid,DesiWeaves,Ethnic Wear,3231.83,51,Delivered
+10892,WH-101 (Mumb),Bengaluru,COD,DesiWeaves,Ethnic Wear,1709.92,5,Delivered
+10893,WH-101 (Mumb),Guwahati,COD,DesiWeaves,Ethnic Wear,1835.48,15,Delivered
+10894,WH-102 (Delh),Ranchi,COD,ElectroTech,Electronics,1706.7,24,Delivered
+10895,WH-102 (Delh),Bengaluru,COD,KicksCo,Footwear,4071.32,20,Delivered
+10896,WH-101 (Mumb),Patna,COD,KicksCo,Footwear,2200.12,30,Delivered
+10897,WH-104 (Kolkat),Mumbai,COD,ZariBrands,Ethnic Wear,3659.6,72,Delivered
+10898,WH-101 (Mumb),Indore,COD,ZariBrands,Ethnic Wear,4071.37,13,Delivered
+10899,WH-103 (Blru),Delhi,COD,ZariBrands,Ethnic Wear,921.41,8,Delivered
+10900,WH-103 (Blru),Patna,COD,StepWell,Footwear,3166.09,17,Delivered
+10901,WH-103 (Blru),Patna,COD,KicksCo,Footwear,392.55,30,Delivered
+10902,WH-104 (Kolkat),Guwahati,COD,DesiWeaves,Ethnic Wear,3054.19,43,Delivered
+10903,WH-104 (Kolkat),Indore,COD,DesiWeaves,Ethnic Wear,854.21,62,Delivered
+10904,WH-102 (Delh),Mumbai,COD,ElectroTech,Electronics,4377.04,28,Delivered
+10905,WH-103 (Blru),Guwahati,COD,ZariBrands,Ethnic Wear,998.72,26,Delivered
+10906,WH-102 (Delh),Delhi,Prepaid,DesiWeaves,Ethnic Wear,3210.01,25,Delivered
+10907,WH-101 (Mumb),Bengaluru,COD,StepWell,Footwear,1629.83,12,Returned
+10908,WH-101 (Mumb),Bengaluru,Prepaid,ElectroTech,Electronics,4407.69,8,Delivered
+10909,WH-103 (Blru),Delhi,COD,ElectroTech,Electronics,404.69,19,Delivered
+10910,WH-102 (Delh),Guwahati,COD,StepWell,Footwear,3401.68,26,Delivered
+10911,WH-102 (Delh),Mumbai,Prepaid,ElectroTech,Electronics,3359.88,18,Delivered
+10912,WH-104 (Kolkat),Ranchi,Prepaid,ElectroTech,Electronics,885.58,47,Delivered
+10913,WH-104 (Kolkat),Patna,COD,ZariBrands,Ethnic Wear,1225.53,32,Returned
+10914,WH-102 (Delh),Bengaluru,Prepaid,ZariBrands,Ethnic Wear,3521.8,10,Delivered
+10915,WH-101 (Mumb),Indore,Prepaid,ZariBrands,Ethnic Wear,1956.58,19,Delivered
+10916,WH-103 (Blru),Patna,COD,ElectroTech,Electronics,3307.05,16,Returned
+10917,WH-103 (Blru),Mumbai,COD,ElectroTech,Electronics,4405.6,21,Delivered
+10918,WH-104 (Kolkat),Indore,Prepaid,ZariBrands,Ethnic Wear,1512.26,63,Delivered
+10919,WH-102 (Delh),Lucknow,Prepaid,KicksCo,Footwear,2811.33,8,Delivered
+10920,WH-103 (Blru),Indore,COD,StepWell,Footwear,4332.4,6,Delivered
+10921,WH-104 (Kolkat),Mumbai,COD,ZariBrands,Ethnic Wear,2240.9,48,Delivered
+10922,WH-104 (Kolkat),Delhi,COD,StepWell,Footwear,2360.46,31,Delivered
+10923,WH-104 (Kolkat),Indore,COD,DesiWeaves,Ethnic Wear,3623.12,21,Delivered
+10924,WH-101 (Mumb),Indore,Prepaid,ElectroTech,Electronics,4049.28,17,Delivered
+10925,WH-101 (Mumb),Bengaluru,COD,StepWell,Footwear,1464.31,6,Delivered
+10926,WH-104 (Kolkat),Guwahati,COD,DesiWeaves,Ethnic Wear,3947.05,42,Delivered
+10927,WH-103 (Blru),Patna,COD,ZariBrands,Ethnic Wear,545.74,26,Returned
+10928,WH-101 (Mumb),Delhi,COD,StepWell,Footwear,2061.96,15,Delivered
+10929,WH-101 (Mumb),Mumbai,COD,ZariBrands,Ethnic Wear,3519.06,9,Delivered
+10930,WH-103 (Blru),Delhi,Prepaid,ZariBrands,Ethnic Wear,3772.65,25,Delivered
+10931,WH-101 (Mumb),Guwahati,COD,ElectroTech,Electronics,1776.84,8,Returned
+10932,WH-104 (Kolkat),Guwahati,COD,DesiWeaves,Ethnic Wear,4167.81,25,Returned
+10933,WH-102 (Delh),Bengaluru,Prepaid,StepWell,Footwear,2646.35,20,Delivered
+10934,WH-104 (Kolkat),Ranchi,COD,DesiWeaves,Ethnic Wear,620.88,71,Delivered
+10935,WH-103 (Blru),Guwahati,Prepaid,ZariBrands,Ethnic Wear,883.86,18,Delivered
+10936,WH-102 (Delh),Guwahati,Prepaid,DesiWeaves,Ethnic Wear,420.79,30,Delivered
+10937,WH-102 (Delh),Delhi,Prepaid,ZariBrands,Ethnic Wear,1591.2,10,Delivered
+10938,WH-101 (Mumb),Lucknow,COD,StepWell,Footwear,3553.71,5,Delivered
+10939,WH-101 (Mumb),Patna,COD,StepWell,Footwear,4115.82,13,Returned
+10940,WH-102 (Delh),Ranchi,COD,ZariBrands,Ethnic Wear,1140.1,4,Delivered
+10941,WH-103 (Blru),Mumbai,COD,ZariBrands,Ethnic Wear,3891.58,28,Delivered
+10942,WH-101 (Mumb),Ranchi,Prepaid,DesiWeaves,Ethnic Wear,3505.62,20,Delivered
+10943,WH-103 (Blru),Bengaluru,COD,StepWell,Footwear,3466.88,27,Returned
+10944,WH-103 (Blru),Indore,Prepaid,ZariBrands,Ethnic Wear,1077.53,25,Delivered
+10945,WH-104 (Kolkat),Guwahati,COD,ZariBrands,Ethnic Wear,2459.85,60,Returned
+10946,WH-101 (Mumb),Indore,COD,ElectroTech,Electronics,2382.43,15,Delivered
+10947,WH-101 (Mumb),Patna,COD,ElectroTech,Electronics,786.03,23,Returned
+10948,WH-102 (Delh),Indore,COD,ElectroTech,Electronics,1520.48,17,Delivered
+10949,WH-103 (Blru),Indore,COD,StepWell,Footwear,4494.64,7,Delivered
+10950,WH-101 (Mumb),Ranchi,COD,KicksCo,Footwear,1982.62,7,Delivered
+10951,WH-102 (Delh),Guwahati,COD,StepWell,Footwear,2798.84,30,Returned
+10952,WH-103 (Blru),Indore,Prepaid,KicksCo,Footwear,3517.08,22,Delivered
+10953,WH-103 (Blru),Lucknow,COD,ElectroTech,Electronics,2833.29,16,Delivered
+10954,WH-102 (Delh),Mumbai,Prepaid,KicksCo,Footwear,753.75,12,Delivered
+10955,WH-102 (Delh),Bengaluru,COD,KicksCo,Footwear,3398.75,30,Delivered
+10956,WH-102 (Delh),Patna,COD,ZariBrands,Ethnic Wear,3152.66,23,Returned
+10957,WH-104 (Kolkat),Ranchi,Prepaid,DesiWeaves,Ethnic Wear,1148.11,54,Delivered
+10958,WH-103 (Blru),Mumbai,Prepaid,KicksCo,Footwear,2570.22,4,Delivered
+10959,WH-104 (Kolkat),Ranchi,COD,ZariBrands,Ethnic Wear,3882.07,14,Returned
+10960,WH-102 (Delh),Mumbai,COD,ZariBrands,Ethnic Wear,864.85,26,Delivered
+10961,WH-104 (Kolkat),Ranchi,Prepaid,KicksCo,Footwear,3178.57,48,Delivered
+10962,WH-101 (Mumb),Delhi,COD,KicksCo,Footwear,2377.7,16,Delivered
+10963,WH-103 (Blru),Guwahati,COD,DesiWeaves,Ethnic Wear,418.22,30,Returned
+10964,WH-103 (Blru),Patna,COD,ElectroTech,Electronics,2098.22,17,Delivered
+10965,WH-102 (Delh),Bengaluru,COD,ElectroTech,Electronics,1610.82,6,Delivered
+10966,WH-103 (Blru),Ranchi,COD,ZariBrands,Ethnic Wear,2561.35,25,Returned
+10967,WH-103 (Blru),Lucknow,COD,KicksCo,Footwear,2272.74,4,Delivered
+10968,WH-103 (Blru),Lucknow,COD,ElectroTech,Electronics,3694.97,7,Delivered
+10969,WH-103 (Blru),Indore,COD,StepWell,Footwear,1557.99,10,Delivered
+10970,WH-102 (Delh),Ranchi,COD,KicksCo,Footwear,499.63,16,Delivered
+10971,WH-101 (Mumb),Ranchi,COD,StepWell,Footwear,1448.13,17,Delivered
+10972,WH-103 (Blru),Ranchi,COD,StepWell,Footwear,1559.62,17,Delivered
+10973,WH-102 (Delh),Indore,Prepaid,KicksCo,Footwear,2936.94,20,Delivered
+10974,WH-102 (Delh),Indore,Prepaid,StepWell,Footwear,3760.41,12,Delivered
+10975,WH-101 (Mumb),Lucknow,COD,DesiWeaves,Ethnic Wear,1829.95,8,Delivered
+10976,WH-104 (Kolkat),Mumbai,COD,StepWell,Footwear,3912.78,52,Delivered
+10977,WH-103 (Blru),Mumbai,COD,StepWell,Footwear,1377.08,16,Delivered
+10978,WH-102 (Delh),Delhi,COD,StepWell,Footwear,3647.59,19,Delivered
+10979,WH-101 (Mumb),Lucknow,COD,DesiWeaves,Ethnic Wear,1445.39,4,Delivered
+10980,WH-101 (Mumb),Delhi,Prepaid,ElectroTech,Electronics,2340.54,4,Delivered
+10981,WH-103 (Blru),Guwahati,Prepaid,ZariBrands,Ethnic Wear,4082.41,17,Delivered
+10982,WH-104 (Kolkat),Ranchi,Prepaid,ElectroTech,Electronics,3341.78,20,Delivered
+10983,WH-103 (Blru),Ranchi,COD,StepWell,Footwear,679.04,14,Delivered
+10984,WH-102 (Delh),Lucknow,Prepaid,ElectroTech,Electronics,1215.64,7,Delivered
+10985,WH-104 (Kolkat),Mumbai,COD,StepWell,Footwear,3924.18,46,Returned
+10986,WH-103 (Blru),Ranchi,COD,ElectroTech,Electronics,2294.39,12,Returned
+10987,WH-103 (Blru),Indore,Prepaid,StepWell,Footwear,388.51,23,Delivered
+10988,WH-102 (Delh),Patna,COD,ZariBrands,Ethnic Wear,1915.7,26,Delivered
+10989,WH-102 (Delh),Ranchi,Prepaid,ElectroTech,Electronics,1931.58,16,Delivered
+10990,WH-102 (Delh),Ranchi,COD,ElectroTech,Electronics,3909.55,18,Returned
+10991,WH-101 (Mumb),Lucknow,COD,ElectroTech,Electronics,636.4,28,Delivered
+10992,WH-103 (Blru),Lucknow,Prepaid,KicksCo,Footwear,3982.4,30,Delivered
+10993,WH-101 (Mumb),Mumbai,COD,ZariBrands,Ethnic Wear,2828.89,30,Delivered
+10994,WH-104 (Kolkat),Guwahati,Prepaid,DesiWeaves,Ethnic Wear,3500.3,53,Delivered
+10995,WH-102 (Delh),Indore,COD,StepWell,Footwear,1140.32,22,Delivered
+10996,WH-102 (Delh),Delhi,COD,ZariBrands,Ethnic Wear,4372.59,30,Delivered
+10997,WH-103 (Blru),Lucknow,COD,StepWell,Footwear,3968.72,9,Returned
+10998,WH-102 (Delh),Mumbai,COD,DesiWeaves,Ethnic Wear,1843.92,16,Delivered
+10999,WH-101 (Mumb),Bengaluru,Prepaid,KicksCo,Footwear,4177.07,24,Delivered
+11000,WH-101 (Mumb),Bengaluru,Prepaid,DesiWeaves,Ethnic Wear,1132.72,26,Delivered
