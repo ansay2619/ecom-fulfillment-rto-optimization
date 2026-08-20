@@ -1,0 +1,1001 @@
+Order_ID,Warehouse,Customer_City,Payment_Method,Brand_Name,Raw_Product_Title,Order_Value_INR,Hours_to_Dispatch,Order_Status
+10528,WH-103 (Blru),Unknown,COD,Stepwell,Premium Running Sneakers,2138.4,27,Delivered
+10360,WH-104 (Kolkat),Patna,Prepaid,Stepwell,Premium Running Sneakers,1692.71,18,Delivered
+10448,WH-103 (Blru),Lucknow,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,4464.48,9,Delivered
+10032,WH-101 (Mumb),Ranchi,Prepaid,Kicksco,Unisex Running Joggers,2570.47,4,Delivered
+10622,WH-104 (Kolkat),Unknown,Prepaid,Electrotech,Smart Watch Series 5,3891.0,54,Delivered
+10591,WH-103 (Blru),Unknown,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,2931.8,27,Delivered
+10906,WH-102 (Delh),Delhi,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,3210.01,25,Delivered
+10738,WH-102 (Delh),Unknown,COD,Stepwell,Formal Leather Shoes Men,4117.81,24,Delivered
+10077,WH-102 (Delh),Unknown,Prepaid,Electrotech,Smart Watch Series 5,4162.07,23,Delivered
+10949,WH-103 (Blru),Indore,COD,Stepwell,Formal Leather Shoes Men,4494.64,7,Delivered
+10433,WH-102 (Delh),Guwahati,COD,Zaribrands,Traditional Embroidered Kurti M,2246.06,6,Delivered
+10071,WH-102 (Delh),Unknown,COD,Electrotech,Smart Watch Series 5,2523.54,13,Delivered
+10681,WH-102 (Delh),Ranchi,COD,Kicksco,Sporty Canvas Shoes Blue,4394.88,25,Returned
+10102,WH-101 (Mumb),Unknown,COD,Electrotech,Fast Charging Type-C Cable,611.15,5,Delivered
+10846,WH-104 (Kolkat),Ranchi,Prepaid,Desiweaves,Festive Wear Lehenga Set,733.81,16,Delivered
+10657,WH-103 (Blru),Delhi,COD,Stepwell,Premium Running Sneakers,3127.41,27,Delivered
+10311,WH-104 (Kolkat),Lucknow,COD,Desiweaves,Designer Chikankari Kurta Luxury,1881.13,60,Delivered
+10345,WH-101 (Mumb),Patna,COD,Kicksco,Sporty Canvas Shoes Blue,690.87,14,Delivered
+10838,WH-101 (Mumb),Unknown,COD,Zaribrands,Fancy Designer Georgette Pink Saree,3179.1,15,Delivered
+10175,WH-101 (Mumb),Unknown,Prepaid,Zaribrands,Women's Silk Saree Regular,2711.22,29,Delivered
+10097,WH-103 (Blru),Unknown,COD,Electrotech,Smart Watch Series 5,3631.20856443699,27,Delivered
+10823,WH-101 (Mumb),Delhi,Prepaid,Unknown,Fast Charging Type-C Cable,2810.07,13,Delivered
+10599,WH-101 (Mumb),Guwahati,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,2489.77,30,Delivered
+10219,WH-102 (Delh),Lucknow,Prepaid,Stepwell,Premium Running Sneakers,659.58,6,Delivered
+10421,WH-102 (Delh),Guwahati,COD,Kicksco,Sporty Canvas Shoes Blue,2523.54,6,Returned
+10209,WH-104 (Kolkat),Guwahati,COD,Kicksco,Sporty Canvas Shoes Blue,1483.44,45,Returned
+10775,WH-104 (Kolkat),Delhi,COD,Kicksco,Sporty Canvas Shoes Blue,2234.6,67,Delivered
+10291,WH-103 (Blru),Ranchi,COD,Electrotech,Smart Watch Series 5,1227.57,19,Delivered
+10890,WH-101 (Mumb),Indore,Prepaid,Stepwell,Casual Daily Wear Sandals,596.93,14,Delivered
+10671,WH-101 (Mumb),Bangalore,COD,Kicksco,Leather Loafers Premium,1092.0,21,Delivered
+10904,WH-102 (Delh),Mumbai,COD,Electrotech,Wireless Bluetooth Earphones Pro,4377.04,28,Delivered
+10412,WH-101 (Mumb),Unknown,COD,Kicksco,Unisex Running Joggers,2523.54,7,Delivered
+10637,WH-103 (Blru),Unknown,COD,Stepwell,Premium Running Sneakers,1783.0,26,Delivered
+10330,WH-103 (Blru),Mumbai,COD,Stepwell,Formal Leather Shoes Men,1966.96,16,Delivered
+10763,WH-103 (Blru),Mumbai,Prepaid,Desiweaves,Festive Wear Lehenga Set,505.93,17,Delivered
+10491,WH-104 (Kolkat),Delhi,COD,Desiweaves,Designer Chikankari Kurta Luxury,1768.99,22,Delivered
+10351,WH-103 (Blru),Delhi,COD,Kicksco,Unisex Running Joggers,4278.57,10,Delivered
+10501,WH-104 (Kolkat),Lucknow,Prepaid,Electrotech,Fast Charging Type-C Cable,2748.7,48,Delivered
+10308,WH-102 (Delh),Unknown,COD,Desiweaves,Festive Wear Lehenga Set,901.69,11,Delivered
+10854,WH-104 (Kolkat),Ranchi,Prepaid,Electrotech,Fast Charging Type-C Cable,887.76,24,Delivered
+10352,WH-104 (Kolkat),Delhi,Prepaid,Kicksco,Leather Loafers Premium,1524.08,56,Delivered
+10644,WH-103 (Blru),Delhi,COD,Electrotech,Fast Charging Type-C Cable,3450.71,8,Delivered
+10440,WH-104 (Kolkat),Unknown,COD,Kicksco,Unisex Running Joggers,3169.49,23,Delivered
+10820,WH-101 (Mumb),Indore,COD,Desiweaves,Designer Chikankari Kurta Luxury,2862.3,11,Delivered
+10834,WH-101 (Mumb),Patna,Prepaid,Desiweaves,Festive Wear Lehenga Set,2977.18,17,Delivered
+10519,WH-104 (Kolkat),Ranchi,COD,Zaribrands,Fancy Designer Georgette Pink Saree,819.1,56,Returned
+10555,WH-104 (Kolkat),Patna,COD,Desiweaves,Cotton Palazzo Pants Casual,3115.07,60,Returned
+10290,WH-102 (Delh),Unknown,COD,Zaribrands,Women's Silk Saree Regular,2410.59,26,Delivered
+10293,WH-104 (Kolkat),Unknown,COD,Stepwell,Formal Leather Shoes Men,1819.5,65,Returned
+10214,WH-102 (Delh),Guwahati,COD,Zaribrands,Traditional Embroidered Kurti M,2523.54,26,Delivered
+10967,WH-103 (Blru),Lucknow,COD,Kicksco,Unisex Running Joggers,2272.74,4,Delivered
+10060,WH-102 (Delh),Unknown,COD,Electrotech,Smart Watch Series 5,4249.53,26,Delivered
+10693,WH-101 (Mumb),Unknown,COD,Desiweaves,Designer Chikankari Kurta Luxury,2523.54,23,Delivered
+10322,WH-103 (Blru),Lucknow,COD,Desiweaves,Festive Wear Lehenga Set,1685.43,16,Delivered
+10011,WH-101 (Mumb),Unknown,COD,Desiweaves,Cotton Palazzo Pants Casual,434.82,12,Returned
+10332,WH-104 (Kolkat),Lucknow,COD,Zaribrands,Fancy Designer Georgette Pink Saree,2299.22,52,Delivered
+10335,WH-101 (Mumb),Patna,Prepaid,Kicksco,Leather Loafers Premium,1477.57,21,Delivered
+10919,WH-102 (Delh),Lucknow,Prepaid,Kicksco,Unisex Running Joggers,2811.33,8,Delivered
+10087,WH-101 (Mumb),Guwahati,COD,Kicksco,Unisex Running Joggers,1733.17,30,Delivered
+10333,WH-101 (Mumb),Delhi,COD,Zaribrands,Traditional Embroidered Kurti M,2122.42,29,Delivered
+10744,WH-102 (Delh),Bangalore,COD,Stepwell,Formal Leather Shoes Men,3511.06,12,Returned
+10451,WH-102 (Delh),Bangalore,COD,Zaribrands,Fancy Designer Georgette Pink Saree,2523.54,14,Delivered
+10469,WH-102 (Delh),Indore,COD,Unknown,Smart Watch Series 5,1169.2,24,Delivered
+10306,WH-102 (Delh),Indore,COD,Zaribrands,Women's Silk Saree Regular,3468.42,28,Delivered
+10031,WH-102 (Delh),Unknown,COD,Stepwell,Formal Leather Shoes Men,1469.89,6,Returned
+10559,WH-104 (Kolkat),Lucknow,Prepaid,Zaribrands,Women's Silk Saree Regular,4398.46,32,Delivered
+10406,WH-103 (Blru),Patna,Prepaid,Zaribrands,Traditional Embroidered Kurti M,854.33,30,Delivered
+10055,WH-101 (Mumb),Unknown,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,1397.1,22,Delivered
+10024,WH-104 (Kolkat),Unknown,Prepaid,Stepwell,Premium Running Sneakers,3029.49,45,Delivered
+10762,WH-102 (Delh),Unknown,COD,Desiweaves,Cotton Palazzo Pants Casual,3043.76,5,Returned
+10482,WH-104 (Kolkat),Lucknow,COD,Kicksco,Leather Loafers Premium,2286.8,23,Delivered
+10004,WH-103 (Blru),Lucknow,COD,Zaribrands,Fancy Designer Georgette Pink Saree,1204.32,28,Delivered
+10232,WH-101 (Mumb),Delhi,COD,Desiweaves,Festive Wear Lehenga Set,2851.81,29,Delivered
+10356,WH-102 (Delh),Indore,COD,Unknown,Unisex Running Joggers,1316.49,25,Delivered
+10674,WH-103 (Blru),Mumbai,COD,Desiweaves,Festive Wear Lehenga Set,2534.17,12,Delivered
+10757,WH-102 (Delh),Delhi,Prepaid,Electrotech,Smart Watch Series 5,1051.24,26,Delivered
+10844,WH-101 (Mumb),Indore,COD,Electrotech,Wireless Bluetooth Earphones Pro,4200.06,23,Delivered
+10668,WH-101 (Mumb),Bangalore,COD,Kicksco,Unisex Running Joggers,1836.29,12,Delivered
+10216,WH-101 (Mumb),Lucknow,Prepaid,Stepwell,Premium Running Sneakers,1298.09,11,Returned
+10635,WH-104 (Kolkat),Indore,COD,Desiweaves,Designer Chikankari Kurta Luxury,3533.86,60,Delivered
+10319,WH-103 (Blru),Indore,COD,Electrotech,Fast Charging Type-C Cable,2523.54,19,Delivered
+10987,WH-103 (Blru),Unknown,Prepaid,Stepwell,Casual Daily Wear Sandals,388.51,23,Delivered
+10353,WH-103 (Blru),Bangalore,COD,Kicksco,Unisex Running Joggers,3729.28,16,Delivered
+10716,WH-102 (Delh),Guwahati,COD,Desiweaves,Cotton Palazzo Pants Casual,3129.27,12,Delivered
+10395,WH-103 (Blru),Lucknow,Prepaid,Stepwell,Formal Leather Shoes Men,3471.98,6,Delivered
+10199,WH-103 (Blru),Unknown,COD,Electrotech,Smart Watch Series 5,696.92,13,Delivered
+10595,WH-102 (Delh),Patna,Prepaid,Electrotech,Smart Watch Series 5,3687.47,23,Delivered
+10864,WH-104 (Kolkat),Delhi,COD,Electrotech,Smart Watch Series 5,2744.34,20,Delivered
+10925,WH-101 (Mumb),Unknown,COD,Stepwell,Casual Daily Wear Sandals,2523.54,6,Delivered
+10040,WH-104 (Kolkat),Unknown,COD,Unknown,Wireless Bluetooth Earphones Pro,2664.57,46,Returned
+10791,WH-102 (Delh),Patna,COD,Desiweaves,Designer Chikankari Kurta Luxury,4093.83,16,Returned
+10315,WH-101 (Mumb),Bangalore,COD,Desiweaves,Festive Wear Lehenga Set,2523.54,23,Delivered
+10581,WH-101 (Mumb),Guwahati,COD,Stepwell,Casual Daily Wear Sandals,2631.29,4,Returned
+10067,WH-102 (Delh),Bangalore,Prepaid,Zaribrands,Women's Silk Saree Regular,2523.54,18,Delivered
+10718,WH-104 (Kolkat),Patna,COD,Zaribrands,Women's Silk Saree Regular,1973.81,56,Returned
+10068,WH-101 (Mumb),Bangalore,COD,Zaribrands,Traditional Embroidered Kurti M,3665.95,25,Delivered
+10295,WH-104 (Kolkat),Bangalore,COD,Zaribrands,Traditional Embroidered Kurti M,2443.58,63,Delivered
+10922,WH-104 (Kolkat),Delhi,COD,Stepwell,Formal Leather Shoes Men,2523.54,45,Delivered
+10465,WH-104 (Kolkat),Guwahati,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,2111.56,53,Delivered
+10108,WH-101 (Mumb),Unknown,Prepaid,Electrotech,Smart Watch Series 5,4180.43,29,Delivered
+10630,WH-103 (Blru),Ranchi,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,1783.14,16,Delivered
+10577,WH-101 (Mumb),Patna,Prepaid,Zaribrands,Traditional Embroidered Kurti M,2759.55,26,Delivered
+10255,WH-102 (Delh),Bangalore,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,2523.54,27,Delivered
+10724,WH-101 (Mumb),Ranchi,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,1320.8,23,Delivered
+10930,WH-103 (Blru),Delhi,Prepaid,Zaribrands,Traditional Embroidered Kurti M,3772.65,25,Delivered
+10540,WH-104 (Kolkat),Lucknow,COD,Zaribrands,Fancy Designer Georgette Pink Saree,2606.21,64,Delivered
+10916,WH-103 (Blru),Patna,COD,Electrotech,Smart Watch Series 5,3307.05,16,Returned
+10526,WH-101 (Mumb),Delhi,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,1812.9,31,Delivered
+10544,WH-103 (Blru),Unknown,Prepaid,Electrotech,Smart Watch Series 5,492.27,9,Delivered
+10755,WH-101 (Mumb),Ranchi,COD,Stepwell,Premium Running Sneakers,2187.47,20,Returned
+10101,WH-103 (Blru),Patna,COD,Kicksco,Sporty Canvas Shoes Blue,2523.54,5,Returned
+10089,WH-103 (Blru),Delhi,COD,Stepwell,Casual Daily Wear Sandals,4162.39,18,Delivered
+10064,WH-102 (Delh),Mumbai,Prepaid,Stepwell,Premium Running Sneakers,918.89,19,Returned
+10849,WH-104 (Kolkat),Indore,COD,Desiweaves,Cotton Palazzo Pants Casual,3845.01,61,Delivered
+10894,WH-102 (Delh),Ranchi,COD,Electrotech,Wireless Bluetooth Earphones Pro,1706.7,24,Delivered
+10140,WH-102 (Delh),Unknown,COD,Zaribrands,Women's Silk Saree Regular,4269.99,22,Delivered
+10604,WH-102 (Delh),Ranchi,COD,Unknown,Casual Daily Wear Sandals,1686.94,25,Returned
+10621,WH-102 (Delh),Indore,COD,Kicksco,Unisex Running Joggers,2630.63,12,Delivered
+10543,WH-104 (Kolkat),Unknown,COD,Kicksco,Unisex Running Joggers,3489.14,33,Returned
+10495,WH-104 (Kolkat),Mumbai,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,3876.66,41,Delivered
+10590,WH-103 (Blru),Unknown,COD,Kicksco,Leather Loafers Premium,757.1,6,Delivered
+10110,WH-101 (Mumb),Ranchi,COD,Electrotech,Wireless Bluetooth Earphones Pro,1591.97,22,Delivered
+10963,WH-103 (Blru),Guwahati,COD,Desiweaves,Festive Wear Lehenga Set,418.22,30,Returned
+10248,WH-102 (Delh),Ranchi,COD,Electrotech,Smart Watch Series 5,2738.72,23,Returned
+10923,WH-104 (Kolkat),Indore,COD,Desiweaves,Designer Chikankari Kurta Luxury,3623.12,21,Delivered
+10698,WH-104 (Kolkat),Bangalore,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,3794.73,41,Delivered
+10487,WH-103 (Blru),Indore,Prepaid,Stepwell,Casual Daily Wear Sandals,2464.13,13,Returned
+10137,WH-103 (Blru),Unknown,COD,Zaribrands,Women's Silk Saree Regular,1325.63,25,Returned
+10933,WH-102 (Delh),Bangalore,Prepaid,Stepwell,Premium Running Sneakers,2646.35,20,Delivered
+10689,WH-103 (Blru),Lucknow,Prepaid,Zaribrands,Traditional Embroidered Kurti M,1352.92,5,Delivered
+10759,WH-102 (Delh),Delhi,COD,Stepwell,Formal Leather Shoes Men,3514.66,19,Returned
+10159,WH-102 (Delh),Ranchi,COD,Desiweaves,Cotton Palazzo Pants Casual,3714.82,28,Returned
+10494,WH-102 (Delh),Unknown,COD,Zaribrands,Women's Silk Saree Regular,335.55,12,Delivered
+10502,WH-104 (Kolkat),Bangalore,Prepaid,Stepwell,Casual Daily Wear Sandals,3121.85,66,Delivered
+10683,WH-101 (Mumb),Patna,COD,Stepwell,Premium Running Sneakers,2981.78,5,Returned
+10974,WH-102 (Delh),Unknown,Prepaid,Stepwell,Premium Running Sneakers,3760.41,12,Delivered
+10257,WH-101 (Mumb),Patna,Prepaid,Electrotech,Fast Charging Type-C Cable,2422.87,11,Delivered
+10735,WH-102 (Delh),Bangalore,COD,Desiweaves,Designer Chikankari Kurta Luxury,1949.96,8,Delivered
+10858,WH-101 (Mumb),Bangalore,COD,Desiweaves,Cotton Palazzo Pants Casual,2523.54,24,Delivered
+10960,WH-102 (Delh),Mumbai,COD,Zaribrands,Fancy Designer Georgette Pink Saree,864.85,26,Delivered
+10618,WH-101 (Mumb),Unknown,COD,Zaribrands,Traditional Embroidered Kurti M,1162.76,17,Delivered
+10984,WH-102 (Delh),Lucknow,Prepaid,Unknown,Smart Watch Series 5,2523.54,30,Delivered
+10902,WH-104 (Kolkat),Unknown,COD,Desiweaves,Festive Wear Lehenga Set,3054.19,43,Delivered
+10211,WH-101 (Mumb),Unknown,COD,Electrotech,Smart Watch Series 5,3505.09,20,Returned
+10169,WH-104 (Kolkat),Bangalore,COD,Desiweaves,Festive Wear Lehenga Set,1259.67,33,Delivered
+10940,WH-102 (Delh),Ranchi,COD,Zaribrands,Fancy Designer Georgette Pink Saree,1140.1,4,Delivered
+10441,WH-103 (Blru),Delhi,COD,Electrotech,Wireless Bluetooth Earphones Pro,4010.38,5,Delivered
+10372,WH-103 (Blru),Unknown,Prepaid,Kicksco,Unisex Running Joggers,2778.71,25,Delivered
+10546,WH-102 (Delh),Indore,Prepaid,Kicksco,Sporty Canvas Shoes Blue,752.62,17,Delivered
+10056,WH-104 (Kolkat),Ranchi,COD,Electrotech,Wireless Bluetooth Earphones Pro,3603.0,44,Returned
+10121,WH-101 (Mumb),Indore,COD,Kicksco,Unisex Running Joggers,2946.09,29,Delivered
+10617,WH-103 (Blru),Lucknow,COD,Electrotech,Smart Watch Series 5,3278.43,29,Delivered
+10026,WH-101 (Mumb),Bangalore,COD,Stepwell,Premium Running Sneakers,2950.63,5,Returned
+10073,WH-101 (Mumb),Bangalore,COD,Stepwell,Premium Running Sneakers,1689.7,5,Delivered
+10533,WH-101 (Mumb),Indore,Prepaid,Stepwell,Casual Daily Wear Sandals,2523.54,24,Returned
+10045,WH-104 (Kolkat),Mumbai,COD,Stepwell,Premium Running Sneakers,4114.27,52,Returned
+10297,WH-104 (Kolkat),Unknown,COD,Electrotech,Smart Watch Series 5,312.66,16,Returned
+10200,WH-103 (Blru),Delhi,COD,Electrotech,Smart Watch Series 5,3087.17,15,Delivered
+10754,WH-104 (Kolkat),Bangalore,COD,Kicksco,Unisex Running Joggers,1661.11,53,Delivered
+10794,WH-102 (Delh),Indore,COD,Desiweaves,Cotton Palazzo Pants Casual,3669.87,26,Delivered
+10486,WH-104 (Kolkat),Mumbai,COD,Kicksco,Leather Loafers Premium,2523.54,40,Delivered
+10210,WH-102 (Delh),Unknown,Prepaid,Unknown,Sporty Canvas Shoes Blue,519.16,19,Delivered
+10266,WH-101 (Mumb),Indore,COD,Desiweaves,Designer Chikankari Kurta Luxury,3129.99,17,Delivered
+10378,WH-102 (Delh),Patna,COD,Zaribrands,Traditional Embroidered Kurti M,1454.38,9,Delivered
+10895,WH-102 (Delh),Bangalore,COD,Kicksco,Unisex Running Joggers,4071.32,20,Delivered
+10789,WH-102 (Delh),Ranchi,COD,Zaribrands,Traditional Embroidered Kurti M,2607.34,26,Returned
+10529,WH-102 (Delh),Guwahati,COD,Zaribrands,Women's Silk Saree Regular,1981.05,30,Returned
+10452,WH-103 (Blru),Delhi,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,4158.88,14,Delivered
+10596,WH-104 (Kolkat),Delhi,COD,Stepwell,Premium Running Sneakers,2678.7,67,Delivered
+10746,WH-104 (Kolkat),Guwahati,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,2523.54,61,Delivered
+10966,WH-103 (Blru),Ranchi,COD,Zaribrands,Women's Silk Saree Regular,2561.35,25,Returned
+10527,WH-101 (Mumb),Ranchi,Prepaid,Electrotech,Fast Charging Type-C Cable,4039.23,4,Delivered
+10307,WH-102 (Delh),Mumbai,Prepaid,Unknown,Fancy Designer Georgette Pink Saree,3372.37,14,Delivered
+10320,WH-103 (Blru),Unknown,Prepaid,Kicksco,Sporty Canvas Shoes Blue,1856.96,17,Delivered
+10061,WH-104 (Kolkat),Mumbai,COD,Stepwell,Premium Running Sneakers,301.7,39,Returned
+10483,WH-104 (Kolkat),Delhi,COD,Electrotech,Fast Charging Type-C Cable,4036.21,33,Delivered
+10855,WH-104 (Kolkat),Bangalore,COD,Zaribrands,Traditional Embroidered Kurti M,3629.5,53,Delivered
+10616,WH-102 (Delh),Lucknow,COD,Desiweaves,Cotton Palazzo Pants Casual,3516.61,6,Delivered
+10542,WH-104 (Kolkat),Bangalore,COD,Electrotech,Wireless Bluetooth Earphones Pro,3523.15,50,Delivered
+10429,WH-101 (Mumb),Ranchi,COD,Electrotech,Fast Charging Type-C Cable,2976.31,22,Returned
+10185,WH-103 (Blru),Bangalore,COD,Desiweaves,Festive Wear Lehenga Set,3919.41,5,Delivered
+10882,WH-102 (Delh),Indore,COD,Zaribrands,Women's Silk Saree Regular,3815.35,12,Delivered
+10983,WH-103 (Blru),Ranchi,COD,Stepwell,Formal Leather Shoes Men,679.04,14,Delivered
+10600,WH-102 (Delh),Mumbai,COD,Electrotech,Smart Watch Series 5,1889.78,22,Delivered
+10907,WH-101 (Mumb),Bangalore,COD,Stepwell,Formal Leather Shoes Men,1629.83,12,Returned
+10779,WH-102 (Delh),Lucknow,COD,Desiweaves,Cotton Palazzo Pants Casual,3931.29,28,Delivered
+10262,WH-104 (Kolkat),Unknown,COD,Zaribrands,Fancy Designer Georgette Pink Saree,4444.51,35,Delivered
+10343,WH-103 (Blru),Lucknow,COD,Stepwell,Premium Running Sneakers,684.39,18,Delivered
+10523,WH-104 (Kolkat),Bangalore,COD,Desiweaves,Designer Chikankari Kurta Luxury,311.5,54,Delivered
+10238,WH-101 (Mumb),Delhi,COD,Stepwell,Formal Leather Shoes Men,4074.45,6,Delivered
+10111,WH-104 (Kolkat),Ranchi,Prepaid,Electrotech,Fast Charging Type-C Cable,3238.88,72,Delivered
+10498,WH-103 (Blru),Ranchi,Prepaid,Zaribrands,Women's Silk Saree Regular,2990.5,12,Delivered
+10517,WH-101 (Mumb),Delhi,COD,Zaribrands,Traditional Embroidered Kurti M,3032.27,5,Delivered
+10362,WH-103 (Blru),Indore,COD,Desiweaves,Cotton Palazzo Pants Casual,2523.54,22,Delivered
+10430,WH-102 (Delh),Lucknow,COD,Desiweaves,Cotton Palazzo Pants Casual,1396.16,14,Delivered
+10278,WH-102 (Delh),Unknown,COD,Electrotech,Wireless Bluetooth Earphones Pro,3113.3,24,Delivered
+10261,WH-103 (Blru),Indore,Prepaid,Zaribrands,Women's Silk Saree Regular,2917.61,23,Delivered
+10833,WH-101 (Mumb),Lucknow,COD,Stepwell,Premium Running Sneakers,3648.7,14,Delivered
+10797,WH-103 (Blru),Guwahati,COD,Kicksco,Sporty Canvas Shoes Blue,427.11,15,Returned
+10645,WH-104 (Kolkat),Lucknow,Prepaid,Zaribrands,Traditional Embroidered Kurti M,436.76,34,Delivered
+10405,WH-102 (Delh),Patna,COD,Kicksco,Leather Loafers Premium,773.52,23,Delivered
+10843,WH-103 (Blru),Lucknow,Prepaid,Zaribrands,Women's Silk Saree Regular,1384.6,30,Delivered
+10836,WH-102 (Delh),Indore,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,2772.64,10,Delivered
+10138,WH-101 (Mumb),Delhi,COD,Stepwell,Formal Leather Shoes Men,1906.69,19,Delivered
+10535,WH-104 (Kolkat),Bangalore,COD,Zaribrands,Women's Silk Saree Regular,3140.44,36,Delivered
+10496,WH-103 (Blru),Indore,Prepaid,Unknown,Wireless Bluetooth Earphones Pro,3762.11,16,Delivered
+10245,WH-104 (Kolkat),Delhi,COD,Desiweaves,Cotton Palazzo Pants Casual,3946.49,65,Delivered
+10771,WH-102 (Delh),Ranchi,Prepaid,Kicksco,Unisex Running Joggers,4495.75,17,Delivered
+10531,WH-102 (Delh),Patna,COD,Stepwell,Premium Running Sneakers,4127.15,18,Delivered
+10573,WH-104 (Kolkat),Bangalore,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,1163.43,65,Delivered
+10828,WH-104 (Kolkat),Bangalore,COD,Electrotech,Smart Watch Series 5,2515.03,14,Delivered
+10717,WH-102 (Delh),Ranchi,COD,Desiweaves,Festive Wear Lehenga Set,3602.75,14,Returned
+10437,WH-102 (Delh),Patna,COD,Zaribrands,Fancy Designer Georgette Pink Saree,3759.43,24,Returned
+10860,WH-104 (Kolkat),Unknown,COD,Zaribrands,Women's Silk Saree Regular,3808.48,64,Returned
+10809,WH-102 (Delh),Lucknow,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,562.12,21,Delivered
+10079,WH-104 (Kolkat),Mumbai,COD,Stepwell,Formal Leather Shoes Men,2209.74,68,Delivered
+10030,WH-101 (Mumb),Ranchi,COD,Zaribrands,Traditional Embroidered Kurti M,2523.54,11,Delivered
+10381,WH-104 (Kolkat),Patna,COD,Stepwell,Casual Daily Wear Sandals,3921.24,67,Returned
+10281,WH-101 (Mumb),Unknown,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,1035.27,30,Delivered
+10300,WH-104 (Kolkat),Unknown,Prepaid,Kicksco,Leather Loafers Premium,4108.42,36,Delivered
+10663,WH-104 (Kolkat),Unknown,COD,Desiweaves,Cotton Palazzo Pants Casual,4483.26,51,Returned
+10656,WH-101 (Mumb),Lucknow,COD,Electrotech,Wireless Bluetooth Earphones Pro,3154.26,23,Delivered
+10310,WH-104 (Kolkat),Lucknow,COD,Stepwell,Premium Running Sneakers,1746.54,36,Delivered
+10166,WH-101 (Mumb),Delhi,COD,Zaribrands,Women's Silk Saree Regular,2922.13,22,Delivered
+10579,WH-104 (Kolkat),Unknown,Prepaid,Electrotech,Fast Charging Type-C Cable,429.44,22,Delivered
+10179,WH-101 (Mumb),Guwahati,Prepaid,Electrotech,Smart Watch Series 5,953.44,28,Delivered
+10741,WH-101 (Mumb),Unknown,COD,Electrotech,Wireless Bluetooth Earphones Pro,410.03,23,Delivered
+10066,WH-102 (Delh),Lucknow,COD,Kicksco,Leather Loafers Premium,3188.01,28,Delivered
+10142,WH-104 (Kolkat),Bangalore,COD,Kicksco,Sporty Canvas Shoes Blue,2714.21,56,Delivered
+10468,WH-102 (Delh),Indore,COD,Desiweaves,Festive Wear Lehenga Set,2523.54,6,Delivered
+10389,WH-101 (Mumb),Guwahati,Prepaid,Kicksco,Leather Loafers Premium,3858.1,6,Delivered
+10850,WH-101 (Mumb),Bangalore,COD,Zaribrands,Traditional Embroidered Kurti M,3194.9,28,Delivered
+10426,WH-101 (Mumb),Guwahati,Prepaid,Stepwell,Premium Running Sneakers,306.14,27,Delivered
+10334,WH-101 (Mumb),Ranchi,COD,Electrotech,Smart Watch Series 5,4085.35,22,Delivered
+10685,WH-101 (Mumb),Patna,COD,Kicksco,Sporty Canvas Shoes Blue,3201.16,8,Delivered
+10888,WH-102 (Delh),Mumbai,Prepaid,Zaribrands,Women's Silk Saree Regular,3903.27,27,Delivered
+10424,WH-103 (Blru),Mumbai,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,1318.85,15,Delivered
+10973,WH-102 (Delh),Indore,Prepaid,Kicksco,Leather Loafers Premium,2936.94,20,Delivered
+10222,WH-102 (Delh),Unknown,COD,Zaribrands,Traditional Embroidered Kurti M,2593.26,9,Delivered
+10276,WH-103 (Blru),Patna,Prepaid,Stepwell,Casual Daily Wear Sandals,631.92,24,Delivered
+10236,WH-104 (Kolkat),Unknown,COD,Zaribrands,Fancy Designer Georgette Pink Saree,4136.88,19,Delivered
+10328,WH-104 (Kolkat),Patna,COD,Kicksco,Sporty Canvas Shoes Blue,2523.55,30,Returned
+10193,WH-103 (Blru),Guwahati,COD,Desiweaves,Festive Wear Lehenga Set,586.8,13,Returned
+10530,WH-104 (Kolkat),Indore,COD,Kicksco,Unisex Running Joggers,3647.02,19,Delivered
+10050,WH-102 (Delh),Delhi,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,4400.07,29,Delivered
+10991,WH-101 (Mumb),Lucknow,COD,Electrotech,Smart Watch Series 5,636.4,28,Delivered
+10003,WH-104 (Kolkat),Bangalore,COD,Desiweaves,Cotton Palazzo Pants Casual,2774.92,63,Delivered
+10941,WH-103 (Blru),Mumbai,COD,Zaribrands,Fancy Designer Georgette Pink Saree,3891.58,28,Delivered
+10788,WH-101 (Mumb),Indore,COD,Desiweaves,Designer Chikankari Kurta Luxury,961.48,7,Delivered
+10927,WH-103 (Blru),Patna,COD,Zaribrands,Women's Silk Saree Regular,545.74,26,Returned
+10250,WH-101 (Mumb),Lucknow,COD,Stepwell,Premium Running Sneakers,2934.09,13,Returned
+10553,WH-103 (Blru),Delhi,Prepaid,Stepwell,Premium Running Sneakers,3495.26,22,Delivered
+10950,WH-101 (Mumb),Ranchi,COD,Kicksco,Leather Loafers Premium,1982.62,7,Delivered
+10095,WH-102 (Delh),Mumbai,COD,Zaribrands,Fancy Designer Georgette Pink Saree,1321.88,25,Delivered
+10034,WH-101 (Mumb),Lucknow,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,1413.85,29,Delivered
+10260,WH-104 (Kolkat),Patna,COD,Kicksco,Leather Loafers Premium,2659.63,30,Returned
+10205,WH-103 (Blru),Patna,Prepaid,Zaribrands,Traditional Embroidered Kurti M,2895.73,23,Delivered
+10347,WH-104 (Kolkat),Unknown,COD,Desiweaves,Cotton Palazzo Pants Casual,1429.46,29,Delivered
+10594,WH-102 (Delh),Mumbai,COD,Desiweaves,Festive Wear Lehenga Set,2443.73,16,Delivered
+10329,WH-102 (Delh),Unknown,COD,Zaribrands,Traditional Embroidered Kurti M,704.52,8,Delivered
+10078,WH-101 (Mumb),Lucknow,COD,Desiweaves,Cotton Palazzo Pants Casual,2100.17,18,Delivered
+10085,WH-104 (Kolkat),Lucknow,Prepaid,Electrotech,Smart Watch Series 5,1132.99,49,Delivered
+10679,WH-103 (Blru),Unknown,COD,Electrotech,Fast Charging Type-C Cable,3452.39,12,Returned
+10083,WH-102 (Delh),Ranchi,COD,Stepwell,Casual Daily Wear Sandals,1376.22,23,Returned
+10371,WH-104 (Kolkat),Unknown,COD,Kicksco,Unisex Running Joggers,2765.42,66,Returned
+10937,WH-102 (Delh),Delhi,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,1591.2,10,Delivered
+10896,WH-101 (Mumb),Patna,COD,Kicksco,Leather Loafers Premium,2200.12,30,Delivered
+10536,WH-101 (Mumb),Patna,COD,Stepwell,Premium Running Sneakers,959.09,9,Delivered
+10383,WH-102 (Delh),Delhi,Prepaid,Stepwell,Premium Running Sneakers,3682.85,21,Delivered
+10719,WH-102 (Delh),Indore,COD,Stepwell,Formal Leather Shoes Men,3039.44,23,Returned
+10299,WH-102 (Delh),Lucknow,Prepaid,Unknown,Women's Silk Saree Regular,3516.48,27,Delivered
+10006,WH-101 (Mumb),Indore,Prepaid,Zaribrands,Traditional Embroidered Kurti M,1889.84,21,Delivered
+10431,WH-103 (Blru),Guwahati,COD,Kicksco,Unisex Running Joggers,1281.17,8,Delivered
+10605,WH-102 (Delh),Unknown,COD,Kicksco,Leather Loafers Premium,2025.78,11,Delivered
+10098,WH-102 (Delh),Ranchi,COD,Stepwell,Casual Daily Wear Sandals,3402.14,22,Returned
+10287,WH-101 (Mumb),Guwahati,COD,Kicksco,Unisex Running Joggers,700.62,19,Delivered
+10382,WH-103 (Blru),Bangalore,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,2863.1,37,Delivered
+10891,WH-104 (Kolkat),Mumbai,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,3231.83,51,Delivered
+10282,WH-104 (Kolkat),Lucknow,COD,Stepwell,Formal Leather Shoes Men,3445.81,30,Delivered
+10267,WH-104 (Kolkat),Patna,COD,Desiweaves,Designer Chikankari Kurta Luxury,3053.48,49,Delivered
+10449,WH-103 (Blru),Guwahati,Prepaid,Stepwell,Formal Leather Shoes Men,418.47,22,Delivered
+10708,WH-102 (Delh),Patna,Prepaid,Electrotech,Smart Watch Series 5,1567.73,13,Delivered
+10324,WH-103 (Blru),Delhi,COD,Kicksco,Leather Loafers Premium,3325.32,19,Delivered
+10409,WH-104 (Kolkat),Mumbai,COD,Kicksco,Unisex Running Joggers,1989.57,52,Delivered
+10899,WH-103 (Blru),Delhi,COD,Zaribrands,Fancy Designer Georgette Pink Saree,921.41,8,Delivered
+10539,WH-103 (Blru),Indore,COD,Zaribrands,Women's Silk Saree Regular,2388.97,24,Delivered
+10119,WH-104 (Kolkat),Patna,COD,Kicksco,Unisex Running Joggers,1087.85,60,Returned
+10694,WH-104 (Kolkat),Ranchi,COD,Stepwell,Casual Daily Wear Sandals,3169.54,30,Returned
+10251,WH-103 (Blru),Lucknow,COD,Kicksco,Sporty Canvas Shoes Blue,3192.18,9,Delivered
+10665,WH-101 (Mumb),Delhi,COD,Stepwell,Premium Running Sneakers,1798.73,19,Delivered
+10667,WH-104 (Kolkat),Indore,COD,Stepwell,Premium Running Sneakers,2523.54,34,Delivered
+10010,WH-102 (Delh),Delhi,COD,Zaribrands,Traditional Embroidered Kurti M,2523.54,24,Delivered
+10197,WH-101 (Mumb),Guwahati,COD,Kicksco,Sporty Canvas Shoes Blue,1024.75,18,Returned
+10713,WH-103 (Blru),Ranchi,COD,Kicksco,Unisex Running Joggers,3695.03,28,Returned
+10082,WH-102 (Delh),Bangalore,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,2909.61,11,Delivered
+10584,WH-102 (Delh),Ranchi,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,2682.63,5,Delivered
+10508,WH-104 (Kolkat),Lucknow,COD,Stepwell,Casual Daily Wear Sandals,3922.05,17,Returned
+10669,WH-101 (Mumb),Patna,COD,Stepwell,Casual Daily Wear Sandals,3484.83,13,Returned
+10240,WH-101 (Mumb),Bangalore,Prepaid,Stepwell,Casual Daily Wear Sandals,3626.68,19,Returned
+10313,WH-104 (Kolkat),Unknown,COD,Kicksco,Sporty Canvas Shoes Blue,863.19,27,Delivered
+10212,WH-102 (Delh),Ranchi,Prepaid,Stepwell,Casual Daily Wear Sandals,4015.45,17,Delivered
+10862,WH-102 (Delh),Ranchi,COD,Kicksco,Leather Loafers Premium,2523.54,5,Returned
+10550,WH-102 (Delh),Unknown,COD,Desiweaves,Designer Chikankari Kurta Luxury,4347.09,13,Delivered
+10480,WH-101 (Mumb),Lucknow,COD,Desiweaves,Festive Wear Lehenga Set,922.44,22,Delivered
+10228,WH-101 (Mumb),Lucknow,COD,Electrotech,Wireless Bluetooth Earphones Pro,4479.41,9,Delivered
+10911,WH-102 (Delh),Mumbai,Prepaid,Electrotech,Fast Charging Type-C Cable,3359.88,18,Delivered
+10363,WH-101 (Mumb),Guwahati,COD,Desiweaves,Cotton Palazzo Pants Casual,1540.82,6,Delivered
+10968,WH-103 (Blru),Lucknow,COD,Electrotech,Fast Charging Type-C Cable,2523.54,7,Delivered
+10178,WH-104 (Kolkat),Bangalore,COD,Zaribrands,Fancy Designer Georgette Pink Saree,1731.76,35,Delivered
+10885,WH-104 (Kolkat),Lucknow,COD,Desiweaves,Cotton Palazzo Pants Casual,3651.67,64,Delivered
+10939,WH-101 (Mumb),Unknown,COD,Unknown,Formal Leather Shoes Men,4115.82,13,Returned
+10500,WH-102 (Delh),Unknown,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,3052.68,13,Delivered
+10680,WH-102 (Delh),Indore,COD,Kicksco,Sporty Canvas Shoes Blue,3834.47,30,Delivered
+10484,WH-103 (Blru),Indore,Prepaid,Stepwell,Formal Leather Shoes Men,384.98,13,Delivered
+10008,WH-101 (Mumb),Bangalore,COD,Electrotech,Wireless Bluetooth Earphones Pro,2204.32,30,Delivered
+10156,WH-103 (Blru),Patna,COD,Kicksco,Leather Loafers Premium,2167.72,15,Returned
+10558,WH-102 (Delh),Lucknow,COD,Stepwell,Premium Running Sneakers,3646.7,26,Delivered
+10666,WH-104 (Kolkat),Mumbai,COD,Kicksco,Unisex Running Joggers,4283.64,46,Delivered
+10514,WH-103 (Blru),Unknown,COD,Zaribrands,Fancy Designer Georgette Pink Saree,2485.21,20,Delivered
+10425,WH-102 (Delh),Bangalore,COD,Desiweaves,Designer Chikankari Kurta Luxury,4216.07,4,Delivered
+10800,WH-104 (Kolkat),Indore,COD,Electrotech,Smart Watch Series 5,1302.02,27,Delivered
+10585,WH-103 (Blru),Unknown,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,1352.89,10,Delivered
+10358,WH-101 (Mumb),Lucknow,Prepaid,Desiweaves,Festive Wear Lehenga Set,1810.02,29,Delivered
+10597,WH-103 (Blru),Indore,COD,Stepwell,Premium Running Sneakers,3498.18,12,Returned
+10959,WH-104 (Kolkat),Ranchi,COD,Zaribrands,Women's Silk Saree Regular,3882.07,14,Returned
+10586,WH-103 (Blru),Guwahati,COD,Desiweaves,Designer Chikankari Kurta Luxury,3052.99,23,Returned
+10446,WH-103 (Blru),Indore,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,4498.34,9,Delivered
+10852,WH-101 (Mumb),Guwahati,Prepaid,Zaribrands,Women's Silk Saree Regular,2523.54,13,Delivered
+10602,WH-104 (Kolkat),Unknown,Prepaid,Electrotech,Fast Charging Type-C Cable,327.71,68,Delivered
+10729,WH-101 (Mumb),Indore,COD,Electrotech,Wireless Bluetooth Earphones Pro,3073.57,25,Delivered
+10479,WH-103 (Blru),Guwahati,COD,Desiweaves,Designer Chikankari Kurta Luxury,4152.08,26,Returned
+10897,WH-104 (Kolkat),Mumbai,COD,Zaribrands,Women's Silk Saree Regular,3659.6,72,Delivered
+10229,WH-101 (Mumb),Guwahati,COD,Desiweaves,Designer Chikankari Kurta Luxury,3075.86,23,Returned
+10867,WH-103 (Blru),Unknown,COD,Stepwell,Formal Leather Shoes Men,2030.53,23,Delivered
+10750,WH-104 (Kolkat),Mumbai,COD,Zaribrands,Fancy Designer Georgette Pink Saree,1579.13,64,Delivered
+10213,WH-102 (Delh),Guwahati,COD,Zaribrands,Women's Silk Saree Regular,642.74,14,Returned
+10080,WH-103 (Blru),Lucknow,Prepaid,Kicksco,Leather Loafers Premium,2275.29,27,Delivered
+10149,WH-101 (Mumb),Guwahati,COD,Electrotech,Smart Watch Series 5,616.26,11,Delivered
+10303,WH-102 (Delh),Lucknow,COD,Desiweaves,Designer Chikankari Kurta Luxury,2523.54,12,Delivered
+10799,WH-101 (Mumb),Lucknow,COD,Desiweaves,Cotton Palazzo Pants Casual,3027.7,29,Delivered
+10634,WH-101 (Mumb),Guwahati,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,2523.54,21,Delivered
+10524,WH-102 (Delh),Indore,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,3574.01,6,Delivered
+10366,WH-101 (Mumb),Ranchi,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,3021.47,25,Delivered
+10044,WH-103 (Blru),Delhi,COD,Zaribrands,Traditional Embroidered Kurti M,1184.64,14,Delivered
+10847,WH-104 (Kolkat),Mumbai,COD,Zaribrands,Traditional Embroidered Kurti M,2390.35,53,Delivered
+10134,WH-101 (Mumb),Indore,COD,Electrotech,Smart Watch Series 5,1286.04,25,Delivered
+10568,WH-104 (Kolkat),Guwahati,COD,Zaribrands,Fancy Designer Georgette Pink Saree,2997.51,27,Delivered
+10312,WH-102 (Delh),Bangalore,COD,Desiweaves,Designer Chikankari Kurta Luxury,3271.82,29,Delivered
+10627,WH-101 (Mumb),Unknown,Prepaid,Kicksco,Unisex Running Joggers,3744.96,24,Delivered
+10598,WH-102 (Delh),Patna,COD,Electrotech,Wireless Bluetooth Earphones Pro,3624.13,18,Returned
+10811,WH-103 (Blru),Lucknow,Prepaid,Kicksco,Unisex Running Joggers,2005.34,17,Delivered
+10001,WH-102 (Delh),Mumbai,COD,Zaribrands,Fancy Designer Georgette Pink Saree,3393.18,25,Delivered
+10317,WH-102 (Delh),Bangalore,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,792.73,28,Delivered
+10868,WH-104 (Kolkat),Delhi,COD,Zaribrands,Traditional Embroidered Kurti M,669.69,64,Delivered
+10955,WH-102 (Delh),Bangalore,COD,Kicksco,Leather Loafers Premium,3398.75,30,Delivered
+10552,WH-102 (Delh),Guwahati,COD,Electrotech,Smart Watch Series 5,2921.5,15,Returned
+10549,WH-102 (Delh),Delhi,COD,Stepwell,Premium Running Sneakers,3061.59,14,Delivered
+10948,WH-102 (Delh),Unknown,COD,Electrotech,Smart Watch Series 5,1520.48,17,Delivered
+10399,WH-104 (Kolkat),Delhi,Prepaid,Electrotech,Fast Charging Type-C Cable,3463.26,20,Delivered
+10173,WH-104 (Kolkat),Guwahati,Prepaid,Zaribrands,Women's Silk Saree Regular,2523.54,30,Delivered
+10126,WH-101 (Mumb),Mumbai,COD,Electrotech,Smart Watch Series 5,1553.93,22,Delivered
+10423,WH-103 (Blru),Mumbai,COD,Zaribrands,Women's Silk Saree Regular,2622.98,4,Delivered
+10450,WH-104 (Kolkat),Bangalore,COD,Desiweaves,Cotton Palazzo Pants Casual,1037.34,14,Delivered
+10588,WH-103 (Blru),Guwahati,Prepaid,Stepwell,Premium Running Sneakers,1008.29,29,Delivered
+10926,WH-104 (Kolkat),Guwahati,COD,Desiweaves,Festive Wear Lehenga Set,3947.05,42,Delivered
+10091,WH-104 (Kolkat),Bangalore,COD,Electrotech,Fast Charging Type-C Cable,2523.54,33,Delivered
+10964,WH-103 (Blru),Patna,COD,Electrotech,Fast Charging Type-C Cable,2098.22,17,Delivered
+10182,WH-101 (Mumb),Mumbai,COD,Desiweaves,Festive Wear Lehenga Set,4434.67,5,Delivered
+10364,WH-103 (Blru),Delhi,COD,Zaribrands,Traditional Embroidered Kurti M,2212.4,10,Delivered
+10275,WH-104 (Kolkat),Ranchi,Prepaid,Electrotech,Fast Charging Type-C Cable,1957.04,34,Delivered
+10918,WH-104 (Kolkat),Indore,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,1512.26,63,Delivered
+10070,WH-104 (Kolkat),Delhi,COD,Desiweaves,Designer Chikankari Kurta Luxury,3457.46,65,Delivered
+10292,WH-104 (Kolkat),Guwahati,Prepaid,Stepwell,Casual Daily Wear Sandals,4133.75,63,Delivered
+10132,WH-101 (Mumb),Delhi,COD,Stepwell,Casual Daily Wear Sandals,4370.66,26,Delivered
+10301,WH-103 (Blru),Delhi,COD,Zaribrands,Traditional Embroidered Kurti M,4469.96,16,Delivered
+10454,WH-101 (Mumb),Lucknow,COD,Zaribrands,Women's Silk Saree Regular,1654.93,9,Delivered
+10327,WH-101 (Mumb),Guwahati,COD,Desiweaves,Designer Chikankari Kurta Luxury,3100.37,19,Delivered
+10145,WH-103 (Blru),Bangalore,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,3327.9,25,Delivered
+10545,WH-101 (Mumb),Lucknow,COD,Kicksco,Sporty Canvas Shoes Blue,1122.87,7,Delivered
+10961,WH-104 (Kolkat),Ranchi,Prepaid,Kicksco,Leather Loafers Premium,3178.57,48,Delivered
+10661,WH-104 (Kolkat),Unknown,COD,Electrotech,Smart Watch Series 5,3887.69,20,Delivered
+10136,WH-103 (Blru),Delhi,Prepaid,Zaribrands,Women's Silk Saree Regular,493.16,29,Delivered
+10436,WH-101 (Mumb),Bangalore,COD,Kicksco,Leather Loafers Premium,3676.37,8,Delivered
+10165,WH-104 (Kolkat),Ranchi,Prepaid,Kicksco,Leather Loafers Premium,2162.96,69,Delivered
+10029,WH-103 (Blru),Lucknow,COD,Zaribrands,Fancy Designer Georgette Pink Saree,2261.5,27,Delivered
+10793,WH-103 (Blru),Guwahati,COD,Kicksco,Unisex Running Joggers,1132.22,29,Delivered
+10194,WH-103 (Blru),Patna,COD,Electrotech,Smart Watch Series 5,1603.71,5,Returned
+10753,WH-104 (Kolkat),Delhi,COD,Desiweaves,Festive Wear Lehenga Set,2193.72,23,Delivered
+10658,WH-103 (Blru),Lucknow,COD,Kicksco,Sporty Canvas Shoes Blue,4317.7,9,Delivered
+10818,WH-104 (Kolkat),Mumbai,Prepaid,Stepwell,Premium Running Sneakers,2720.68,7,Returned
+10170,WH-101 (Mumb),Lucknow,COD,Kicksco,Leather Loafers Premium,1612.6,12,Delivered
+10760,WH-104 (Kolkat),Patna,COD,Kicksco,Unisex Running Joggers,2773.22,38,Returned
+10141,WH-103 (Blru),Lucknow,COD,Electrotech,Smart Watch Series 5,1568.91,16,Delivered
+10174,WH-101 (Mumb),Guwahati,COD,Desiweaves,Designer Chikankari Kurta Luxury,1193.5,11,Delivered
+10007,WH-102 (Delh),Guwahati,Prepaid,Electrotech,Smart Watch Series 5,492.46,11,Delivered
+10756,WH-104 (Kolkat),Delhi,COD,Kicksco,Unisex Running Joggers,484.41,22,Delivered
+10670,WH-104 (Kolkat),Patna,Prepaid,Kicksco,Unisex Running Joggers,2303.68,12,Delivered
+10074,WH-101 (Mumb),Lucknow,Prepaid,Stepwell,Casual Daily Wear Sandals,3515.5,4,Delivered
+10704,WH-102 (Delh),Guwahati,COD,Desiweaves,Designer Chikankari Kurta Luxury,2819.65,14,Delivered
+10443,WH-104 (Kolkat),Mumbai,COD,Zaribrands,Fancy Designer Georgette Pink Saree,1137.72,68,Delivered
+10239,WH-101 (Mumb),Guwahati,COD,Electrotech,Smart Watch Series 5,1519.52,9,Returned
+10146,WH-101 (Mumb),Ranchi,COD,Stepwell,Premium Running Sneakers,2151.46,6,Delivered
+10814,WH-102 (Delh),Patna,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,2344.15,17,Delivered
+10235,WH-103 (Blru),Delhi,COD,Kicksco,Sporty Canvas Shoes Blue,3028.16,11,Delivered
+10221,WH-103 (Blru),Patna,Prepaid,Electrotech,Fast Charging Type-C Cable,1748.17,27,Delivered
+10507,WH-104 (Kolkat),Mumbai,COD,Kicksco,Unisex Running Joggers,3887.81,20,Delivered
+10133,WH-103 (Blru),Ranchi,Prepaid,Kicksco,Unisex Running Joggers,3909.24,16,Delivered
+10884,WH-104 (Kolkat),Unknown,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,468.25,42,Delivered
+10751,WH-104 (Kolkat),Delhi,COD,Electrotech,Fast Charging Type-C Cable,4159.94,56,Delivered
+10676,WH-102 (Delh),Indore,COD,Electrotech,Smart Watch Series 5,939.03,21,Delivered
+10186,WH-101 (Mumb),Indore,Prepaid,Kicksco,Sporty Canvas Shoes Blue,2718.19,22,Delivered
+10042,WH-103 (Blru),Indore,COD,Electrotech,Wireless Bluetooth Earphones Pro,4446.38,24,Delivered
+10631,WH-101 (Mumb),Bangalore,Prepaid,Kicksco,Unisex Running Joggers,588.19,6,Delivered
+10109,WH-104 (Kolkat),Bangalore,COD,Desiweaves,Festive Wear Lehenga Set,1244.2,21,Delivered
+10654,WH-101 (Mumb),Delhi,COD,Zaribrands,Traditional Embroidered Kurti M,1368.02,30,Delivered
+10057,WH-103 (Blru),Bangalore,COD,Zaribrands,Women's Silk Saree Regular,2523.54,20,Delivered
+10434,WH-101 (Mumb),Mumbai,COD,Stepwell,Premium Running Sneakers,3897.61,26,Returned
+10785,WH-103 (Blru),Patna,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,3185.62,23,Delivered
+10582,WH-101 (Mumb),Lucknow,COD,Desiweaves,Festive Wear Lehenga Set,3442.85,27,Delivered
+10883,WH-102 (Delh),Lucknow,COD,Zaribrands,Traditional Embroidered Kurti M,2123.84,11,Delivered
+10025,WH-102 (Delh),Bangalore,COD,Kicksco,Sporty Canvas Shoes Blue,388.34,21,Delivered
+10817,WH-102 (Delh),Bangalore,COD,Kicksco,Leather Loafers Premium,331.21,19,Delivered
+10786,WH-101 (Mumb),Indore,COD,Zaribrands,Women's Silk Saree Regular,3517.96,27,Delivered
+10548,WH-104 (Kolkat),Patna,Prepaid,Zaribrands,Traditional Embroidered Kurti M,2328.31,44,Delivered
+10639,WH-104 (Kolkat),Delhi,COD,Zaribrands,Traditional Embroidered Kurti M,1217.98,48,Delivered
+10715,WH-101 (Mumb),Lucknow,COD,Desiweaves,Cotton Palazzo Pants Casual,472.97,21,Delivered
+10951,WH-102 (Delh),Guwahati,COD,Stepwell,Formal Leather Shoes Men,2798.84,30,Returned
+10339,WH-101 (Mumb),Guwahati,COD,Zaribrands,Traditional Embroidered Kurti M,1275.0,23,Returned
+10052,WH-101 (Mumb),Delhi,COD,Stepwell,Casual Daily Wear Sandals,462.64,10,Delivered
+10384,WH-103 (Blru),Delhi,Prepaid,Electrotech,Smart Watch Series 5,1529.07,22,Delivered
+10532,WH-103 (Blru),Lucknow,COD,Stepwell,Premium Running Sneakers,3922.82,27,Delivered
+10944,WH-103 (Blru),Indore,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,1077.53,25,Delivered
+10653,WH-103 (Blru),Unknown,COD,Electrotech,Fast Charging Type-C Cable,2684.9,16,Delivered
+10265,WH-103 (Blru),Mumbai,COD,Kicksco,Unisex Running Joggers,2523.54,19,Delivered
+10848,WH-103 (Blru),Lucknow,COD,Zaribrands,Fancy Designer Georgette Pink Saree,1685.29,16,Delivered
+10732,WH-101 (Mumb),Patna,COD,Desiweaves,Designer Chikankari Kurta Luxury,2523.54,16,Returned
+10931,WH-101 (Mumb),Guwahati,COD,Electrotech,Fast Charging Type-C Cable,1776.84,8,Returned
+10445,WH-104 (Kolkat),Guwahati,COD,Kicksco,Leather Loafers Premium,2523.54,13,Delivered
+10396,WH-104 (Kolkat),Bangalore,COD,Zaribrands,Fancy Designer Georgette Pink Saree,2793.45,45,Delivered
+10534,WH-103 (Blru),Bangalore,COD,Electrotech,Wireless Bluetooth Earphones Pro,3190.61,23,Delivered
+10478,WH-103 (Blru),Mumbai,Prepaid,Stepwell,Premium Running Sneakers,4139.53,16,Returned
+10019,WH-103 (Blru),Ranchi,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,2432.18,10,Delivered
+10737,WH-104 (Kolkat),Guwahati,COD,Electrotech,Smart Watch Series 5,1168.38,46,Returned
+10515,WH-103 (Blru),Delhi,Prepaid,Electrotech,Fast Charging Type-C Cable,2358.75,28,Delivered
+10981,WH-103 (Blru),Guwahati,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,4082.41,17,Delivered
+10463,WH-101 (Mumb),Indore,Prepaid,Stepwell,Formal Leather Shoes Men,440.33,12,Returned
+10368,WH-102 (Delh),Delhi,COD,Stepwell,Casual Daily Wear Sandals,3290.534958634077,23,Returned
+10084,WH-102 (Delh),Ranchi,Prepaid,Desiweaves,Festive Wear Lehenga Set,754.01,4,Delivered
+10062,WH-104 (Kolkat),Guwahati,COD,Desiweaves,Festive Wear Lehenga Set,3137.63,62,Delivered
+10273,WH-102 (Delh),Indore,Prepaid,Electrotech,Smart Watch Series 5,1471.83,13,Delivered
+10286,WH-102 (Delh),Bangalore,COD,Electrotech,Fast Charging Type-C Cable,2982.65,16,Delivered
+10361,WH-102 (Delh),Mumbai,COD,Zaribrands,Fancy Designer Georgette Pink Saree,2523.54,22,Delivered
+10355,WH-104 (Kolkat),Bangalore,Prepaid,Kicksco,Unisex Running Joggers,3791.38,16,Delivered
+10989,WH-102 (Delh),Ranchi,Prepaid,Electrotech,Smart Watch Series 5,1931.58,16,Delivered
+10279,WH-104 (Kolkat),Ranchi,COD,Stepwell,Formal Leather Shoes Men,2284.1,47,Returned
+10013,WH-102 (Delh),Mumbai,COD,Kicksco,Sporty Canvas Shoes Blue,2657.75,12,Delivered
+10183,WH-102 (Delh),Mumbai,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,3509.48,13,Delivered
+10369,WH-104 (Kolkat),Lucknow,COD,Unknown,Casual Daily Wear Sandals,1202.14,57,Returned
+10520,WH-103 (Blru),Patna,COD,Stepwell,Formal Leather Shoes Men,2523.54,26,Delivered
+10636,WH-101 (Mumb),Indore,COD,Electrotech,Fast Charging Type-C Cable,1382.84,16,Delivered
+10224,WH-102 (Delh),Mumbai,COD,Kicksco,Sporty Canvas Shoes Blue,1137.77,5,Delivered
+10592,WH-104 (Kolkat),Patna,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,1193.59,14,Delivered
+10914,WH-102 (Delh),Bangalore,Prepaid,Zaribrands,Traditional Embroidered Kurti M,3521.8,10,Delivered
+10697,WH-103 (Blru),Indore,COD,Kicksco,Unisex Running Joggers,1227.04,26,Delivered
+10733,WH-103 (Blru),Guwahati,COD,Stepwell,Formal Leather Shoes Men,1569.77,12,Delivered
+10466,WH-102 (Delh),Lucknow,COD,Stepwell,Premium Running Sneakers,1690.6,17,Delivered
+10603,WH-102 (Delh),Delhi,COD,Unknown,Casual Daily Wear Sandals,3002.6,9,Returned
+10629,WH-102 (Delh),Patna,COD,Electrotech,Wireless Bluetooth Earphones Pro,3130.9,24,Returned
+10177,WH-102 (Delh),Delhi,COD,Unknown,Wireless Bluetooth Earphones Pro,1983.29,8,Delivered
+10686,WH-102 (Delh),Bangalore,COD,Electrotech,Wireless Bluetooth Earphones Pro,2523.54,14,Delivered
+10893,WH-101 (Mumb),Guwahati,COD,Desiweaves,Festive Wear Lehenga Set,1835.48,15,Delivered
+10606,WH-102 (Delh),Delhi,COD,Zaribrands,Fancy Designer Georgette Pink Saree,464.6,22,Delivered
+10457,WH-104 (Kolkat),Patna,Prepaid,Stepwell,Formal Leather Shoes Men,2523.54,23,Delivered
+10537,WH-102 (Delh),Guwahati,COD,Zaribrands,Women's Silk Saree Regular,1468.26,21,Delivered
+10394,WH-101 (Mumb),Mumbai,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,2523.54,48,Delivered
+10164,WH-103 (Blru),Patna,COD,Stepwell,Premium Running Sneakers,4348.91,19,Returned
+10249,WH-101 (Mumb),Patna,COD,Desiweaves,Designer Chikankari Kurta Luxury,4283.9,12,Delivered
+10835,WH-103 (Blru),Mumbai,COD,Desiweaves,Festive Wear Lehenga Set,3669.73,12,Delivered
+10908,WH-101 (Mumb),Bangalore,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,4407.69,8,Delivered
+10690,WH-103 (Blru),Indore,COD,Kicksco,Unisex Running Joggers,2358.39,22,Delivered
+10376,WH-104 (Kolkat),Patna,COD,Zaribrands,Women's Silk Saree Regular,3723.91,44,Delivered
+10413,WH-103 (Blru),Patna,Prepaid,Kicksco,Unisex Running Joggers,3063.82,9,Delivered
+10075,WH-104 (Kolkat),Lucknow,COD,Electrotech,Fast Charging Type-C Cable,3385.46,63,Delivered
+10114,WH-103 (Blru),Patna,COD,Desiweaves,Festive Wear Lehenga Set,3505.06,20,Returned
+10589,WH-103 (Blru),Lucknow,Prepaid,Stepwell,Premium Running Sneakers,864.08,19,Delivered
+10825,WH-104 (Kolkat),Mumbai,COD,Desiweaves,Cotton Palazzo Pants Casual,2423.5,66,Delivered
+10391,WH-103 (Blru),Mumbai,Prepaid,Stepwell,Casual Daily Wear Sandals,1718.57,22,Delivered
+10105,WH-101 (Mumb),Mumbai,COD,Desiweaves,Designer Chikankari Kurta Luxury,3408.38,28,Delivered
+10115,WH-104 (Kolkat),Delhi,COD,Kicksco,Leather Loafers Premium,2365.25,17,Delivered
+10418,WH-101 (Mumb),Mumbai,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,3131.31,7,Delivered
+10971,WH-101 (Mumb),Ranchi,COD,Stepwell,Premium Running Sneakers,1448.13,17,Delivered
+10458,WH-101 (Mumb),Bangalore,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,890.7,27,Delivered
+10410,WH-103 (Blru),Delhi,COD,Unknown,Festive Wear Lehenga Set,3594.84229996637,10,Delivered
+10093,WH-101 (Mumb),Mumbai,COD,Desiweaves,Festive Wear Lehenga Set,1102.44,11,Delivered
+10583,WH-102 (Delh),Lucknow,COD,Electrotech,Wireless Bluetooth Earphones Pro,1227.31,30,Delivered
+10090,WH-103 (Blru),Mumbai,Prepaid,Kicksco,Unisex Running Joggers,3789.07,6,Delivered
+10337,WH-101 (Mumb),Lucknow,COD,Desiweaves,Cotton Palazzo Pants Casual,2668.62,22,Delivered
+10900,WH-103 (Blru),Unknown,COD,Stepwell,Premium Running Sneakers,3166.09,17,Delivered
+10945,WH-104 (Kolkat),Guwahati,COD,Zaribrands,Fancy Designer Georgette Pink Saree,2459.85,60,Returned
+10977,WH-103 (Blru),Mumbai,COD,Stepwell,Casual Daily Wear Sandals,1377.08,16,Delivered
+10889,WH-104 (Kolkat),Indore,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,3971.64,37,Delivered
+10626,WH-103 (Blru),Bangalore,COD,Zaribrands,Women's Silk Saree Regular,458.57,16,Delivered
+10614,WH-104 (Kolkat),Lucknow,COD,Zaribrands,Traditional Embroidered Kurti M,482.44,45,Delivered
+10632,WH-103 (Blru),Guwahati,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,1461.33,23,Delivered
+10012,WH-102 (Delh),Guwahati,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,1961.65,24,Delivered
+10397,WH-103 (Blru),Patna,Prepaid,Kicksco,Sporty Canvas Shoes Blue,4450.25,17,Delivered
+10043,WH-101 (Mumb),Mumbai,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,2523.54,7,Delivered
+10168,WH-101 (Mumb),Lucknow,Prepaid,Desiweaves,Festive Wear Lehenga Set,780.54,24,Delivered
+10417,WH-103 (Blru),Indore,COD,Zaribrands,Women's Silk Saree Regular,3909.31,9,Delivered
+10778,WH-103 (Blru),Delhi,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,1724.44,16,Delivered
+10427,WH-102 (Delh),Bangalore,COD,Electrotech,Wireless Bluetooth Earphones Pro,4336.98,8,Delivered
+10905,WH-103 (Blru),Guwahati,COD,Zaribrands,Fancy Designer Georgette Pink Saree,998.72,26,Delivered
+10988,WH-102 (Delh),Patna,COD,Zaribrands,Traditional Embroidered Kurti M,1915.7,26,Delivered
+10705,WH-104 (Kolkat),Guwahati,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,2108.47,58,Delivered
+10803,WH-101 (Mumb),Indore,COD,Zaribrands,Traditional Embroidered Kurti M,2244.22,21,Delivered
+10258,WH-101 (Mumb),Guwahati,COD,Stepwell,Premium Running Sneakers,2378.56,19,Delivered
+10336,WH-102 (Delh),Patna,Prepaid,Desiweaves,Festive Wear Lehenga Set,1620.84,10,Delivered
+10016,WH-104 (Kolkat),Lucknow,COD,Zaribrands,Women's Silk Saree Regular,4378.53,67,Delivered
+10650,WH-104 (Kolkat),Mumbai,COD,Electrotech,Fast Charging Type-C Cable,850.78,48,Delivered
+10325,WH-101 (Mumb),Patna,Prepaid,Stepwell,Premium Running Sneakers,612.19,5,Delivered
+10874,WH-101 (Mumb),Ranchi,Prepaid,Zaribrands,Women's Silk Saree Regular,3329.89,22,Delivered
+10223,WH-102 (Delh),Indore,Prepaid,Kicksco,Unisex Running Joggers,565.02,28,Delivered
+10180,WH-103 (Blru),Ranchi,COD,Desiweaves,Cotton Palazzo Pants Casual,2080.86,17,Delivered
+10812,WH-104 (Kolkat),Unknown,COD,Desiweaves,Cotton Palazzo Pants Casual,2632.77,65,Delivered
+10522,WH-103 (Blru),Unknown,Prepaid,Electrotech,Smart Watch Series 5,1540.48,5,Delivered
+10023,WH-102 (Delh),Lucknow,Prepaid,Electrotech,Smart Watch Series 5,3472.11,26,Delivered
+10357,WH-104 (Kolkat),Lucknow,COD,Stepwell,Premium Running Sneakers,4460.94,37,Delivered
+10978,WH-102 (Delh),Delhi,COD,Stepwell,Formal Leather Shoes Men,3647.59,19,Delivered
+10341,WH-104 (Kolkat),Guwahati,COD,Kicksco,Sporty Canvas Shoes Blue,3154.72,17,Delivered
+10432,WH-101 (Mumb),Delhi,COD,Desiweaves,Cotton Palazzo Pants Casual,2257.43,17,Delivered
+10569,WH-104 (Kolkat),Guwahati,Prepaid,Zaribrands,Traditional Embroidered Kurti M,4268.95,36,Delivered
+10856,WH-101 (Mumb),Indore,COD,Electrotech,Fast Charging Type-C Cable,2523.54,29,Delivered
+10204,WH-102 (Delh),Bangalore,Prepaid,Electrotech,Fast Charging Type-C Cable,950.77,13,Delivered
+10651,WH-102 (Delh),Mumbai,COD,Stepwell,Formal Leather Shoes Men,3896.5,29,Returned
+10094,WH-104 (Kolkat),Bangalore,COD,Kicksco,Leather Loafers Premium,2523.54,62,Delivered
+10576,WH-104 (Kolkat),Indore,COD,Kicksco,Leather Loafers Premium,370.94,55,Delivered
+10069,WH-104 (Kolkat),Guwahati,COD,Desiweaves,Festive Wear Lehenga Set,3320.95,65,Delivered
+10859,WH-102 (Delh),Patna,Prepaid,Zaribrands,Women's Silk Saree Regular,848.26,9,Delivered
+10285,WH-104 (Kolkat),Delhi,COD,Zaribrands,Women's Silk Saree Regular,3318.11,12,Delivered
+10827,WH-102 (Delh),Delhi,Prepaid,Zaribrands,Traditional Embroidered Kurti M,1853.02,9,Delivered
+10435,WH-101 (Mumb),Lucknow,Prepaid,Stepwell,Casual Daily Wear Sandals,1392.7,4,Delivered
+10154,WH-101 (Mumb),Ranchi,COD,Electrotech,Fast Charging Type-C Cable,2557.7,15,Returned
+10076,WH-102 (Delh),Indore,COD,Desiweaves,Cotton Palazzo Pants Casual,2339.7,16,Delivered
+10752,WH-104 (Kolkat),Indore,COD,Desiweaves,Cotton Palazzo Pants Casual,2402.76,23,Delivered
+10447,WH-103 (Blru),Bangalore,COD,Zaribrands,Fancy Designer Georgette Pink Saree,3623.2,27,Delivered
+10189,WH-104 (Kolkat),Ranchi,Prepaid,Kicksco,Unisex Running Joggers,3432.38,26,Delivered
+10272,WH-102 (Delh),Guwahati,COD,Desiweaves,Designer Chikankari Kurta Luxury,2539.13,25,Delivered
+10237,WH-102 (Delh),Indore,Prepaid,Electrotech,Fast Charging Type-C Cable,1499.42,19,Delivered
+10488,WH-101 (Mumb),Delhi,COD,Desiweaves,Designer Chikankari Kurta Luxury,3975.76,10,Delivered
+10560,WH-103 (Blru),Patna,COD,Desiweaves,Cotton Palazzo Pants Casual,3949.17,18,Delivered
+10118,WH-101 (Mumb),Indore,COD,Desiweaves,Cotton Palazzo Pants Casual,1657.75,28,Delivered
+10965,WH-102 (Delh),Bangalore,COD,Unknown,Wireless Bluetooth Earphones Pro,1610.82,6,Delivered
+10513,WH-101 (Mumb),Delhi,COD,Electrotech,Fast Charging Type-C Cable,2772.42,9,Delivered
+10571,WH-104 (Kolkat),Unknown,COD,Desiweaves,Festive Wear Lehenga Set,4072.78,24,Delivered
+10612,WH-102 (Delh),Lucknow,COD,Desiweaves,Festive Wear Lehenga Set,1045.17,23,Delivered
+10127,WH-102 (Delh),Indore,COD,Desiweaves,Festive Wear Lehenga Set,2334.23,14,Delivered
+10117,WH-103 (Blru),Indore,Prepaid,Electrotech,Fast Charging Type-C Cable,1981.9,28,Delivered
+10474,WH-101 (Mumb),Bangalore,Prepaid,Kicksco,Unisex Running Joggers,3737.3,17,Delivered
+10714,WH-104 (Kolkat),Guwahati,COD,Zaribrands,Women's Silk Saree Regular,3944.89,26,Delivered
+10058,WH-103 (Blru),Bangalore,COD,Desiweaves,Festive Wear Lehenga Set,4285.27,14,Delivered
+10695,WH-101 (Mumb),Guwahati,COD,Electrotech,Fast Charging Type-C Cable,3067.34,8,Returned
+10935,WH-103 (Blru),Guwahati,Prepaid,Zaribrands,Women's Silk Saree Regular,883.86,18,Delivered
+10370,WH-102 (Delh),Ranchi,COD,Zaribrands,Traditional Embroidered Kurti M,1127.71,25,Returned
+10269,WH-101 (Mumb),Bangalore,COD,Kicksco,Sporty Canvas Shoes Blue,3242.19,10,Delivered
+10047,WH-101 (Mumb),Lucknow,COD,Kicksco,Unisex Running Joggers,4269.21,26,Delivered
+10350,WH-104 (Kolkat),Patna,COD,Stepwell,Casual Daily Wear Sandals,2904.81,33,Delivered
+10196,WH-103 (Blru),Bangalore,COD,Zaribrands,Women's Silk Saree Regular,2405.74,5,Delivered
+10103,WH-101 (Mumb),Mumbai,Prepaid,Stepwell,Formal Leather Shoes Men,797.5,23,Delivered
+10954,WH-102 (Delh),Mumbai,Prepaid,Kicksco,Unisex Running Joggers,753.75,12,Delivered
+10712,WH-101 (Mumb),Bangalore,Prepaid,Kicksco,Unisex Running Joggers,3630.2,9,Delivered
+10758,WH-103 (Blru),Mumbai,Prepaid,Zaribrands,Women's Silk Saree Regular,4336.06,13,Delivered
+10264,WH-102 (Delh),Delhi,COD,Desiweaves,Designer Chikankari Kurta Luxury,2874.89,9,Delivered
+10444,WH-104 (Kolkat),Patna,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,1808.27,46,Delivered
+10696,WH-101 (Mumb),Bangalore,COD,Stepwell,Formal Leather Shoes Men,476.4733124045215,24,Delivered
+10305,WH-101 (Mumb),Ranchi,COD,Stepwell,Formal Leather Shoes Men,2175.05,11,Delivered
+10342,WH-101 (Mumb),Bangalore,COD,Desiweaves,Designer Chikankari Kurta Luxury,947.73,26,Delivered
+10619,WH-104 (Kolkat),Delhi,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,1365.26,66,Delivered
+10994,WH-104 (Kolkat),Guwahati,Prepaid,Unknown,Festive Wear Lehenga Set,3500.3,53,Delivered
+10150,WH-101 (Mumb),Guwahati,Prepaid,Kicksco,Unisex Running Joggers,358.46,21,Delivered
+10125,WH-101 (Mumb),Delhi,COD,Desiweaves,Festive Wear Lehenga Set,3618.03,17,Delivered
+10808,WH-104 (Kolkat),Mumbai,Prepaid,Desiweaves,Festive Wear Lehenga Set,4143.5,17,Delivered
+10845,WH-101 (Mumb),Indore,COD,Kicksco,Sporty Canvas Shoes Blue,3528.57,10,Delivered
+10051,WH-102 (Delh),Patna,Prepaid,Stepwell,Casual Daily Wear Sandals,1695.18,29,Delivered
+10354,WH-102 (Delh),Bangalore,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,2610.42,27,Delivered
+10952,WH-103 (Blru),Indore,Prepaid,Kicksco,Unisex Running Joggers,3517.08,22,Delivered
+10143,WH-103 (Blru),Lucknow,COD,Electrotech,Wireless Bluetooth Earphones Pro,3933.28,28,Delivered
+10471,WH-102 (Delh),Lucknow,COD,Electrotech,Wireless Bluetooth Earphones Pro,1902.07,9,Delivered
+10400,WH-102 (Delh),Patna,COD,Stepwell,Formal Leather Shoes Men,3334.21,17,Returned
+10821,WH-103 (Blru),Unknown,COD,Kicksco,Unisex Running Joggers,4095.06,4,Delivered
+10321,WH-102 (Delh),Bangalore,COD,Zaribrands,Traditional Embroidered Kurti M,2623.91,22,Delivered
+10020,WH-101 (Mumb),Delhi,COD,Stepwell,Casual Daily Wear Sandals,2352.14,15,Returned
+10972,WH-103 (Blru),Ranchi,COD,Stepwell,Casual Daily Wear Sandals,1559.62,17,Delivered
+10831,WH-101 (Mumb),Mumbai,COD,Zaribrands,Traditional Embroidered Kurti M,2248.86,19,Delivered
+10408,WH-101 (Mumb),Ranchi,COD,Zaribrands,Fancy Designer Georgette Pink Saree,467.27,29,Returned
+10538,WH-101 (Mumb),Bangalore,COD,Kicksco,Leather Loafers Premium,3665.3,18,Delivered
+10722,WH-103 (Blru),Delhi,COD,Zaribrands,Women's Silk Saree Regular,4458.67,18,Delivered
+10039,WH-104 (Kolkat),Mumbai,COD,Electrotech,Wireless Bluetooth Earphones Pro,3011.1,41,Delivered
+10176,WH-103 (Blru),Patna,COD,Kicksco,Unisex Running Joggers,1447.74,14,Delivered
+10246,WH-103 (Blru),Delhi,COD,Zaribrands,Traditional Embroidered Kurti M,1655.18,26,Delivered
+10851,WH-103 (Blru),Guwahati,Prepaid,Kicksco,Sporty Canvas Shoes Blue,1982.58,24,Delivered
+10688,WH-103 (Blru),Unknown,Prepaid,Kicksco,Sporty Canvas Shoes Blue,2142.62,10,Delivered
+10947,WH-101 (Mumb),Patna,COD,Electrotech,Smart Watch Series 5,786.03,23,Returned
+10881,WH-102 (Delh),Delhi,COD,Electrotech,Smart Watch Series 5,2621.57,11,Delivered
+10155,WH-104 (Kolkat),Delhi,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,3801.51,51,Delivered
+10288,WH-103 (Blru),Patna,COD,Electrotech,Wireless Bluetooth Earphones Pro,2176.29,14,Returned
+10623,WH-104 (Kolkat),Bangalore,Prepaid,Zaribrands,Traditional Embroidered Kurti M,4286.83,18,Delivered
+10570,WH-101 (Mumb),Mumbai,Prepaid,Electrotech,Smart Watch Series 5,3752.86,15,Delivered
+10765,WH-103 (Blru),Guwahati,Prepaid,Zaribrands,Women's Silk Saree Regular,3745.11,28,Delivered
+10018,WH-101 (Mumb),Indore,Prepaid,Kicksco,Sporty Canvas Shoes Blue,3978.58,12,Delivered
+10128,WH-104 (Kolkat),Lucknow,Prepaid,Desiweaves,Festive Wear Lehenga Set,3952.33,56,Delivered
+10323,WH-103 (Blru),Indore,COD,Desiweaves,Cotton Palazzo Pants Casual,3750.69,30,Delivered
+10256,WH-104 (Kolkat),Delhi,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,2260.62,68,Delivered
+10678,WH-104 (Kolkat),Patna,COD,Zaribrands,Fancy Designer Georgette Pink Saree,2065.02,43,Delivered
+10992,WH-103 (Blru),Lucknow,Prepaid,Kicksco,Leather Loafers Premium,3982.4,30,Delivered
+10191,WH-102 (Delh),Ranchi,COD,Stepwell,Formal Leather Shoes Men,1028.7,28,Returned
+10116,WH-103 (Blru),Lucknow,COD,Kicksco,Leather Loafers Premium,739.32,9,Delivered
+10607,WH-103 (Blru),Delhi,Prepaid,Stepwell,Formal Leather Shoes Men,2469.89,22,Delivered
+10181,WH-103 (Blru),Ranchi,COD,Electrotech,Wireless Bluetooth Earphones Pro,1489.64,19,Delivered
+10302,WH-101 (Mumb),Bangalore,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,4409.66,18,Delivered
+10781,WH-103 (Blru),Bangalore,COD,Kicksco,Leather Loafers Premium,1871.71,5,Delivered
+10875,WH-102 (Delh),Lucknow,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,4073.17,11,Delivered
+10801,WH-104 (Kolkat),Indore,COD,Desiweaves,Cotton Palazzo Pants Casual,1174.6,56,Delivered
+10706,WH-102 (Delh),Bangalore,COD,Electrotech,Smart Watch Series 5,2611.0,27,Delivered
+10824,WH-104 (Kolkat),Patna,COD,Desiweaves,Designer Chikankari Kurta Luxury,2706.01,30,Delivered
+10518,WH-101 (Mumb),Mumbai,COD,Kicksco,Unisex Running Joggers,501.43,7,Delivered
+10046,WH-101 (Mumb),Patna,COD,Kicksco,Leather Loafers Premium,849.44,9,Delivered
+10942,WH-101 (Mumb),Ranchi,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,3505.62,20,Delivered
+10158,WH-101 (Mumb),Bangalore,COD,Kicksco,Sporty Canvas Shoes Blue,1700.74,8,Delivered
+10766,WH-103 (Blru),Ranchi,COD,Kicksco,Unisex Running Joggers,812.5,14,Delivered
+10172,WH-102 (Delh),Guwahati,COD,Zaribrands,Traditional Embroidered Kurti M,2763.15,14,Delivered
+10017,WH-103 (Blru),Ranchi,Prepaid,Zaribrands,Traditional Embroidered Kurti M,1728.74,13,Delivered
+10512,WH-102 (Delh),Guwahati,COD,Electrotech,Wireless Bluetooth Earphones Pro,317.32,11,Delivered
+10049,WH-102 (Delh),Guwahati,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,3101.12,15,Delivered
+10999,WH-101 (Mumb),Bangalore,Prepaid,Kicksco,Unisex Running Joggers,4177.07,24,Delivered
+10924,WH-101 (Mumb),Indore,Prepaid,Electrotech,Fast Charging Type-C Cable,4049.28,17,Delivered
+10516,WH-101 (Mumb),Lucknow,COD,Stepwell,Formal Leather Shoes Men,3354.11,27,Returned
+10707,WH-104 (Kolkat),Indore,Prepaid,Electrotech,Fast Charging Type-C Cable,300.82,14,Delivered
+10481,WH-101 (Mumb),Ranchi,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,3943.4,15,Delivered
+10284,WH-102 (Delh),Indore,Prepaid,Desiweaves,Festive Wear Lehenga Set,2265.69,10,Delivered
+10740,WH-103 (Blru),Patna,Prepaid,Stepwell,Premium Running Sneakers,2523.54,18,Delivered
+10886,WH-102 (Delh),Indore,COD,Zaribrands,Women's Silk Saree Regular,3462.93,26,Delivered
+10226,WH-103 (Blru),Patna,COD,Electrotech,Fast Charging Type-C Cable,3657.24,16,Returned
+10027,WH-103 (Blru),Bangalore,Prepaid,Unknown,Wireless Bluetooth Earphones Pro,1199.79,8,Delivered
+10804,WH-103 (Blru),Delhi,Prepaid,Zaribrands,Women's Silk Saree Regular,592.35,7,Delivered
+10438,WH-101 (Mumb),Mumbai,COD,Zaribrands,Traditional Embroidered Kurti M,570.78,24,Delivered
+10982,WH-104 (Kolkat),Ranchi,Prepaid,Electrotech,Smart Watch Series 5,3341.78,20,Delivered
+10365,WH-104 (Kolkat),Guwahati,COD,Desiweaves,Designer Chikankari Kurta Luxury,3332.37,16,Returned
+10230,WH-103 (Blru),Indore,COD,Kicksco,Sporty Canvas Shoes Blue,3352.62,15,Delivered
+10038,WH-101 (Mumb),Patna,COD,Stepwell,Premium Running Sneakers,2751.42,10,Delivered
+10993,WH-101 (Mumb),Mumbai,COD,Zaribrands,Fancy Designer Georgette Pink Saree,2828.89,30,Delivered
+10375,WH-104 (Kolkat),Delhi,COD,Stepwell,Premium Running Sneakers,1085.81,51,Delivered
+10470,WH-101 (Mumb),Indore,COD,Electrotech,Wireless Bluetooth Earphones Pro,2523.54,19,Delivered
+10995,WH-102 (Delh),Indore,COD,Stepwell,Premium Running Sneakers,1140.32,22,Delivered
+10873,WH-101 (Mumb),Ranchi,Prepaid,Kicksco,Sporty Canvas Shoes Blue,1038.73,29,Delivered
+10915,WH-101 (Mumb),Indore,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,1956.58,19,Delivered
+10747,WH-103 (Blru),Lucknow,COD,Zaribrands,Traditional Embroidered Kurti M,4244.38,22,Delivered
+10195,WH-101 (Mumb),Ranchi,COD,Electrotech,Fast Charging Type-C Cable,2429.68,21,Returned
+10877,WH-104 (Kolkat),Ranchi,COD,Kicksco,Sporty Canvas Shoes Blue,528.23,25,Returned
+10887,WH-103 (Blru),Delhi,COD,Kicksco,Sporty Canvas Shoes Blue,3020.09,6,Delivered
+10504,WH-101 (Mumb),Guwahati,COD,Desiweaves,Cotton Palazzo Pants Casual,1237.98,17,Delivered
+10997,WH-103 (Blru),Lucknow,COD,Stepwell,Premium Running Sneakers,3968.72,9,Returned
+10853,WH-104 (Kolkat),Patna,Prepaid,Stepwell,Formal Leather Shoes Men,1555.26,18,Delivered
+10580,WH-104 (Kolkat),Delhi,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,3867.76,30,Delivered
+10996,WH-102 (Delh),Delhi,COD,Zaribrands,Fancy Designer Georgette Pink Saree,4372.59,30,Delivered
+10163,WH-103 (Blru),Indore,COD,Zaribrands,Women's Silk Saree Regular,758.03,20,Delivered
+10723,WH-101 (Mumb),Indore,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,1280.66,25,Delivered
+10153,WH-104 (Kolkat),Mumbai,COD,Kicksco,Unisex Running Joggers,490.46,14,Delivered
+10917,WH-103 (Blru),Mumbai,COD,Electrotech,Wireless Bluetooth Earphones Pro,4405.6,21,Delivered
+10721,WH-104 (Kolkat),Ranchi,COD,Desiweaves,Cotton Palazzo Pants Casual,1762.89,50,Returned
+10957,WH-104 (Kolkat),Ranchi,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,1148.11,54,Delivered
+10112,WH-104 (Kolkat),Indore,COD,Electrotech,Smart Watch Series 5,467.42,39,Delivered
+10227,WH-102 (Delh),Guwahati,COD,Kicksco,Leather Loafers Premium,2389.6,20,Delivered
+10709,WH-101 (Mumb),Guwahati,Prepaid,Stepwell,Formal Leather Shoes Men,4262.06,21,Delivered
+10104,WH-104 (Kolkat),Bangalore,COD,Desiweaves,Festive Wear Lehenga Set,2159.43,67,Delivered
+10422,WH-101 (Mumb),Ranchi,COD,Desiweaves,Designer Chikankari Kurta Luxury,3678.22,16,Delivered
+10420,WH-101 (Mumb),Delhi,COD,Kicksco,Sporty Canvas Shoes Blue,4138.58,27,Delivered
+10934,WH-104 (Kolkat),Ranchi,COD,Desiweaves,Festive Wear Lehenga Set,620.88,71,Delivered
+10587,WH-104 (Kolkat),Guwahati,COD,Unknown,Fancy Designer Georgette Pink Saree,2888.64,49,Returned
+10802,WH-103 (Blru),Lucknow,COD,Desiweaves,Designer Chikankari Kurta Luxury,1291.85,25,Delivered
+10673,WH-101 (Mumb),Mumbai,COD,Kicksco,Sporty Canvas Shoes Blue,1306.16,28,Delivered
+10120,WH-101 (Mumb),Indore,COD,Kicksco,Unisex Running Joggers,2606.72,13,Delivered
+10054,WH-103 (Blru),Ranchi,COD,Electrotech,Fast Charging Type-C Cable,2439.5,30,Delivered
+10152,WH-103 (Blru),Patna,Prepaid,Stepwell,Casual Daily Wear Sandals,1229.74,30,Returned
+10404,WH-102 (Delh),Mumbai,COD,Zaribrands,Traditional Embroidered Kurti M,2439.99,27,Delivered
+10970,WH-102 (Delh),Ranchi,COD,Kicksco,Unisex Running Joggers,499.63,16,Delivered
+10208,WH-102 (Delh),Indore,COD,Desiweaves,Designer Chikankari Kurta Luxury,1599.77,29,Delivered
+10659,WH-101 (Mumb),Lucknow,COD,Electrotech,Fast Charging Type-C Cable,1743.23,14,Delivered
+10866,WH-103 (Blru),Ranchi,COD,Zaribrands,Fancy Designer Georgette Pink Saree,3691.13,26,Delivered
+10784,WH-102 (Delh),Delhi,Prepaid,Desiweaves,Festive Wear Lehenga Set,2229.35,26,Delivered
+10009,WH-103 (Blru),Guwahati,COD,Unknown,Wireless Bluetooth Earphones Pro,1421.31,24,Delivered
+10830,WH-102 (Delh),Indore,COD,Kicksco,Sporty Canvas Shoes Blue,3384.32,15,Delivered
+10037,WH-102 (Delh),Ranchi,COD,Stepwell,Formal Leather Shoes Men,585.44,22,Delivered
+10453,WH-102 (Delh),Delhi,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,3855.22,15,Delivered
+10652,WH-102 (Delh),Patna,COD,Stepwell,Casual Daily Wear Sandals,864.78,21,Delivered
+10254,WH-103 (Blru),Ranchi,COD,Stepwell,Casual Daily Wear Sandals,891.69,16,Returned
+10304,WH-101 (Mumb),Ranchi,Prepaid,Stepwell,Premium Running Sneakers,2060.81,4,Delivered
+10768,WH-103 (Blru),Indore,COD,Desiweaves,Cotton Palazzo Pants Casual,3860.75,12,Delivered
+10572,WH-101 (Mumb),Ranchi,COD,Electrotech,Smart Watch Series 5,4316.36,4,Delivered
+10624,WH-103 (Blru),Lucknow,Prepaid,Stepwell,Premium Running Sneakers,2878.91,5,Delivered
+10731,WH-103 (Blru),Ranchi,COD,Kicksco,Unisex Running Joggers,2807.85,10,Returned
+10263,WH-101 (Mumb),Lucknow,COD,Stepwell,Formal Leather Shoes Men,875.55,19,Delivered
+10611,WH-104 (Kolkat),Lucknow,COD,Unknown,Fancy Designer Georgette Pink Saree,369.56,45,Delivered
+10298,WH-101 (Mumb),Guwahati,COD,Zaribrands,Women's Silk Saree Regular,553.07,19,Delivered
+10415,WH-102 (Delh),Mumbai,COD,Desiweaves,Festive Wear Lehenga Set,3449.06,12,Delivered
+10151,WH-103 (Blru),Guwahati,COD,Zaribrands,Women's Silk Saree Regular,3754.15,7,Delivered
+10810,WH-101 (Mumb),Guwahati,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,3935.85,11,Delivered
+10641,WH-102 (Delh),Bangalore,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,3812.61,15,Delivered
+10912,WH-104 (Kolkat),Ranchi,Prepaid,Electrotech,Smart Watch Series 5,885.58,47,Delivered
+10551,WH-104 (Kolkat),Delhi,COD,Kicksco,Sporty Canvas Shoes Blue,4023.03,44,Delivered
+10489,WH-104 (Kolkat),Patna,COD,Zaribrands,Fancy Designer Georgette Pink Saree,1813.58,35,Returned
+10711,WH-102 (Delh),Bangalore,COD,Electrotech,Fast Charging Type-C Cable,2257.877407340853,22,Delivered
+10148,WH-102 (Delh),Mumbai,COD,Desiweaves,Festive Wear Lehenga Set,3763.7,19,Delivered
+10147,WH-102 (Delh),Lucknow,COD,Electrotech,Fast Charging Type-C Cable,3603.35,15,Delivered
+10742,WH-102 (Delh),Unknown,COD,Desiweaves,Designer Chikankari Kurta Luxury,409.55,6,Delivered
+10998,WH-102 (Delh),Mumbai,COD,Desiweaves,Designer Chikankari Kurta Luxury,1843.92,16,Delivered
+10761,WH-102 (Delh),Patna,Prepaid,Kicksco,Sporty Canvas Shoes Blue,1468.07,24,Delivered
+10660,WH-103 (Blru),Mumbai,COD,Electrotech,Smart Watch Series 5,1960.91,18,Delivered
+10349,WH-104 (Kolkat),Bangalore,COD,Electrotech,Fast Charging Type-C Cable,1121.3,18,Delivered
+10464,WH-102 (Delh),Guwahati,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,975.8,6,Delivered
+10326,WH-102 (Delh),Delhi,COD,Zaribrands,Women's Silk Saree Regular,934.32,10,Delivered
+10187,WH-103 (Blru),Lucknow,COD,Kicksco,Unisex Running Joggers,387.6,14,Delivered
+10124,WH-102 (Delh),Indore,COD,Kicksco,Leather Loafers Premium,2523.54,10,Delivered
+10975,WH-101 (Mumb),Unknown,COD,Desiweaves,Festive Wear Lehenga Set,1829.95,8,Delivered
+10609,WH-104 (Kolkat),Bangalore,COD,Kicksco,Sporty Canvas Shoes Blue,3637.39,64,Delivered
+10144,WH-103 (Blru),Indore,Prepaid,Zaribrands,Traditional Embroidered Kurti M,1266.5,29,Delivered
+10986,WH-103 (Blru),Ranchi,COD,Electrotech,Smart Watch Series 5,2294.39,12,Returned
+10198,WH-103 (Blru),Delhi,COD,Kicksco,Unisex Running Joggers,1488.15,17,Delivered
+10610,WH-102 (Delh),Mumbai,Prepaid,Stepwell,Premium Running Sneakers,1739.22,22,Delivered
+10280,WH-104 (Kolkat),Indore,Prepaid,Stepwell,Casual Daily Wear Sandals,3474.83,30,Returned
+10294,WH-102 (Delh),Bangalore,COD,Desiweaves,Festive Wear Lehenga Set,2523.54,18,Delivered
+10401,WH-102 (Delh),Indore,COD,Desiweaves,Festive Wear Lehenga Set,721.95,28,Delivered
+10123,WH-102 (Delh),Ranchi,COD,Unknown,Women's Silk Saree Regular,3309.73,12,Delivered
+10184,WH-104 (Kolkat),Patna,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,1037.92,36,Delivered
+10203,WH-103 (Blru),Lucknow,COD,Desiweaves,Cotton Palazzo Pants Casual,1597.24,10,Delivered
+10439,WH-103 (Blru),Ranchi,COD,Kicksco,Sporty Canvas Shoes Blue,4257.58,22,Returned
+10247,WH-101 (Mumb),Mumbai,COD,Stepwell,Casual Daily Wear Sandals,2967.24,8,Delivered
+10416,WH-104 (Kolkat),Guwahati,COD,Zaribrands,Fancy Designer Georgette Pink Saree,568.26,48,Delivered
+10815,WH-104 (Kolkat),Delhi,Prepaid,Stepwell,Formal Leather Shoes Men,4053.05,71,Delivered
+10787,WH-102 (Delh),Mumbai,COD,Electrotech,Wireless Bluetooth Earphones Pro,1108.69,12,Delivered
+10929,WH-101 (Mumb),Mumbai,COD,Zaribrands,Women's Silk Saree Regular,3519.06,9,Delivered
+10790,WH-102 (Delh),Bangalore,COD,Electrotech,Smart Watch Series 5,2875.7,14,Delivered
+10910,WH-102 (Delh),Guwahati,COD,Stepwell,Casual Daily Wear Sandals,3401.68,26,Delivered
+10130,WH-104 (Kolkat),Delhi,Prepaid,Kicksco,Leather Loafers Premium,830.23,49,Delivered
+10638,WH-101 (Mumb),Mumbai,COD,Electrotech,Wireless Bluetooth Earphones Pro,3444.91,14,Delivered
+10403,WH-102 (Delh),Ranchi,COD,Stepwell,Casual Daily Wear Sandals,2820.03,26,Delivered
+10909,WH-103 (Blru),Delhi,COD,Electrotech,Fast Charging Type-C Cable,404.69,19,Delivered
+10736,WH-102 (Delh),Lucknow,COD,Zaribrands,Traditional Embroidered Kurti M,2706.17,17,Delivered
+10936,WH-102 (Delh),Guwahati,Prepaid,Desiweaves,Festive Wear Lehenga Set,420.79,30,Delivered
+10220,WH-104 (Kolkat),Patna,Prepaid,Desiweaves,Festive Wear Lehenga Set,482.84,36,Delivered
+10642,WH-101 (Mumb),Ranchi,Prepaid,Stepwell,Formal Leather Shoes Men,3086.38,28,Delivered
+10938,WH-101 (Mumb),Lucknow,COD,Stepwell,Formal Leather Shoes Men,3553.71,5,Delivered
+10774,WH-102 (Delh),Patna,COD,Electrotech,Fast Charging Type-C Cable,3802.07,19,Delivered
+10829,WH-102 (Delh),Delhi,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,3461.6,17,Delivered
+10946,WH-101 (Mumb),Indore,COD,Electrotech,Wireless Bluetooth Earphones Pro,2382.43,15,Delivered
+10625,WH-101 (Mumb),Patna,Prepaid,Stepwell,Casual Daily Wear Sandals,2281.01,6,Delivered
+10782,WH-101 (Mumb),Indore,Prepaid,Stepwell,Formal Leather Shoes Men,4100.81,14,Returned
+10387,WH-104 (Kolkat),Lucknow,COD,Stepwell,Premium Running Sneakers,2956.09,36,Delivered
+11000,WH-101 (Mumb),Bangalore,Prepaid,Desiweaves,Festive Wear Lehenga Set,1132.72,26,Delivered
+10510,WH-104 (Kolkat),Delhi,Prepaid,Stepwell,Formal Leather Shoes Men,3574.96,39,Returned
+10268,WH-104 (Kolkat),Patna,COD,Desiweaves,Cotton Palazzo Pants Casual,2941.91,65,Delivered
+10842,WH-103 (Blru),Lucknow,COD,Kicksco,Leather Loafers Premium,3579.07,12,Delivered
+10442,WH-103 (Blru),Bangalore,COD,Desiweaves,Festive Wear Lehenga Set,4007.67,19,Delivered
+10497,WH-103 (Blru),Patna,COD,Desiweaves,Cotton Palazzo Pants Casual,2793.84,25,Returned
+10113,WH-101 (Mumb),Mumbai,COD,Electrotech,Smart Watch Series 5,4340.03,30,Delivered
+10692,WH-104 (Kolkat),Delhi,COD,Stepwell,Formal Leather Shoes Men,1406.07,12,Delivered
+10233,WH-101 (Mumb),Delhi,COD,Kicksco,Sporty Canvas Shoes Blue,3009.68,15,Delivered
+10892,WH-101 (Mumb),Bangalore,COD,Desiweaves,Festive Wear Lehenga Set,1709.92,5,Delivered
+10608,WH-101 (Mumb),Mumbai,COD,Zaribrands,Traditional Embroidered Kurti M,2847.41,19,Delivered
+10672,WH-102 (Delh),Bangalore,Prepaid,Kicksco,Leather Loafers Premium,3013.16,30,Delivered
+10374,WH-104 (Kolkat),Lucknow,COD,Desiweaves,Cotton Palazzo Pants Casual,2969.11,56,Delivered
+10865,WH-102 (Delh),Lucknow,COD,Unknown,Traditional Embroidered Kurti M,2345.26,4,Delivered
+10234,WH-102 (Delh),Patna,Prepaid,Kicksco,Unisex Running Joggers,2523.54,15,Delivered
+10807,WH-102 (Delh),Indore,COD,Kicksco,Unisex Running Joggers,3985.19,13,Delivered
+10677,WH-103 (Blru),Ranchi,COD,Zaribrands,Fancy Designer Georgette Pink Saree,3303.82,11,Delivered
+10318,WH-104 (Kolkat),Bangalore,Prepaid,Kicksco,Sporty Canvas Shoes Blue,2618.73,61,Delivered
+10649,WH-102 (Delh),Guwahati,COD,Desiweaves,Designer Chikankari Kurta Luxury,1184.24,15,Delivered
+10411,WH-104 (Kolkat),Guwahati,COD,Stepwell,Premium Running Sneakers,3505.54,31,Delivered
+10921,WH-104 (Kolkat),Mumbai,COD,Zaribrands,Women's Silk Saree Regular,2240.9,48,Delivered
+10710,WH-101 (Mumb),Delhi,COD,Desiweaves,Festive Wear Lehenga Set,1793.75,19,Delivered
+10359,WH-101 (Mumb),Ranchi,Prepaid,Desiweaves,Festive Wear Lehenga Set,3061.93,15,Delivered
+10259,WH-101 (Mumb),Patna,COD,Electrotech,Smart Watch Series 5,4006.31,28,Delivered
+10745,WH-102 (Delh),Bangalore,COD,Kicksco,Sporty Canvas Shoes Blue,4193.83,18,Delivered
+10628,WH-102 (Delh),Patna,Prepaid,Kicksco,Leather Loafers Premium,4209.19,20,Delivered
+10633,WH-101 (Mumb),Lucknow,COD,Stepwell,Casual Daily Wear Sandals,2009.97,6,Returned
+10283,WH-101 (Mumb),Mumbai,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,1707.18,18,Delivered
+10377,WH-104 (Kolkat),Indore,Prepaid,Kicksco,Leather Loafers Premium,2164.18,22,Delivered
+10385,WH-102 (Delh),Ranchi,Prepaid,Electrotech,Smart Watch Series 5,3599.9,5,Delivered
+10225,WH-104 (Kolkat),Lucknow,COD,Electrotech,Fast Charging Type-C Cable,3463.82,24,Delivered
+10980,WH-101 (Mumb),Delhi,Prepaid,Electrotech,Fast Charging Type-C Cable,2340.54,4,Delivered
+10837,WH-103 (Blru),Delhi,COD,Desiweaves,Designer Chikankari Kurta Luxury,3125.77,30,Delivered
+10473,WH-101 (Mumb),Delhi,COD,Desiweaves,Cotton Palazzo Pants Casual,1743.92,21,Delivered
+10348,WH-102 (Delh),Ranchi,COD,Kicksco,Sporty Canvas Shoes Blue,2068.63,6,Delivered
+10506,WH-104 (Kolkat),Ranchi,Prepaid,Unknown,Festive Wear Lehenga Set,2402.0,67,Delivered
+10640,WH-104 (Kolkat),Bangalore,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,1286.42,27,Delivered
+10798,WH-103 (Blru),Delhi,Prepaid,Kicksco,Leather Loafers Premium,2838.65,8,Delivered
+10953,WH-103 (Blru),Lucknow,COD,Electrotech,Smart Watch Series 5,2833.29,16,Delivered
+10928,WH-101 (Mumb),Delhi,COD,Stepwell,Casual Daily Wear Sandals,2061.96,15,Delivered
+10620,WH-103 (Blru),Guwahati,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,1969.31,10,Delivered
+10878,WH-104 (Kolkat),Delhi,COD,Desiweaves,Designer Chikankari Kurta Luxury,2222.51,24,Delivered
+10826,WH-103 (Blru),Delhi,COD,Electrotech,Fast Charging Type-C Cable,1379.21,27,Delivered
+10646,WH-104 (Kolkat),Delhi,Prepaid,Kicksco,Unisex Running Joggers,3232.63,41,Delivered
+10869,WH-101 (Mumb),Lucknow,COD,Electrotech,Fast Charging Type-C Cable,1105.99,9,Delivered
+10557,WH-104 (Kolkat),Guwahati,COD,Desiweaves,Cotton Palazzo Pants Casual,3945.75,67,Delivered
+10985,WH-104 (Kolkat),Mumbai,COD,Stepwell,Formal Leather Shoes Men,3924.18,46,Returned
+10578,WH-103 (Blru),Ranchi,Prepaid,Zaribrands,Women's Silk Saree Regular,1565.67,6,Delivered
+10796,WH-102 (Delh),Bangalore,Prepaid,Unknown,Sporty Canvas Shoes Blue,2891.16,15,Delivered
+10086,WH-101 (Mumb),Mumbai,Prepaid,Stepwell,Formal Leather Shoes Men,2676.92,21,Returned
+10243,WH-102 (Delh),Ranchi,Prepaid,Kicksco,Leather Loafers Premium,2997.82,18,Delivered
+10699,WH-103 (Blru),Lucknow,Prepaid,Zaribrands,Women's Silk Saree Regular,544.86,23,Delivered
+10160,WH-103 (Blru),Patna,Prepaid,Stepwell,Premium Running Sneakers,907.69,12,Returned
+10525,WH-104 (Kolkat),Bangalore,Prepaid,Zaribrands,Women's Silk Saree Regular,1543.29,41,Delivered
+10036,WH-103 (Blru),Patna,COD,Desiweaves,Festive Wear Lehenga Set,2753.55,20,Delivered
+10541,WH-102 (Delh),Mumbai,Prepaid,Zaribrands,Traditional Embroidered Kurti M,2216.07,14,Delivered
+10171,WH-101 (Mumb),Indore,COD,Electrotech,Wireless Bluetooth Earphones Pro,658.53,17,Delivered
+10655,WH-103 (Blru),Guwahati,COD,Zaribrands,Women's Silk Saree Regular,2653.47,12,Delivered
+10913,WH-104 (Kolkat),Patna,COD,Zaribrands,Women's Silk Saree Regular,1225.53,32,Returned
+10880,WH-104 (Kolkat),Unknown,COD,Electrotech,Wireless Bluetooth Earphones Pro,1019.05,68,Returned
+10870,WH-102 (Delh),Guwahati,COD,Zaribrands,Traditional Embroidered Kurti M,2931.15,5,Returned
+10969,WH-103 (Blru),Indore,COD,Stepwell,Casual Daily Wear Sandals,1557.99,10,Delivered
+10734,WH-104 (Kolkat),Mumbai,Prepaid,Zaribrands,Traditional Embroidered Kurti M,3722.41,13,Delivered
+10096,WH-103 (Blru),Indore,COD,Desiweaves,Designer Chikankari Kurta Luxury,3432.93,14,Delivered
+10564,WH-101 (Mumb),Guwahati,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,2926.54,30,Delivered
+10241,WH-104 (Kolkat),Guwahati,Prepaid,Zaribrands,Women's Silk Saree Regular,2616.92,51,Delivered
+10743,WH-103 (Blru),Indore,COD,Kicksco,Sporty Canvas Shoes Blue,1927.33,19,Delivered
+10575,WH-101 (Mumb),Mumbai,COD,Zaribrands,Fancy Designer Georgette Pink Saree,1256.11,12,Delivered
+10691,WH-103 (Blru),Guwahati,Prepaid,Stepwell,Premium Running Sneakers,1456.36,21,Delivered
+10461,WH-101 (Mumb),Patna,COD,Zaribrands,Traditional Embroidered Kurti M,3376.85,36,Delivered
+10554,WH-103 (Blru),Lucknow,Prepaid,Desiweaves,Festive Wear Lehenga Set,2074.02,4,Delivered
+10901,WH-103 (Blru),Patna,COD,Kicksco,Unisex Running Joggers,392.55,30,Delivered
+10207,WH-101 (Mumb),Indore,COD,Unknown,Premium Running Sneakers,3140.72,18,Returned
+10393,WH-101 (Mumb),Indore,Prepaid,Stepwell,Casual Daily Wear Sandals,2096.76,8,Delivered
+10795,WH-103 (Blru),Indore,Prepaid,Kicksco,Sporty Canvas Shoes Blue,3282.91,18,Delivered
+10398,WH-102 (Delh),Ranchi,COD,Stepwell,Casual Daily Wear Sandals,2523.54,14,Returned
+10767,WH-102 (Delh),Bangalore,COD,Desiweaves,Designer Chikankari Kurta Luxury,759.07,27,Delivered
+10871,WH-104 (Kolkat),Delhi,COD,Stepwell,Formal Leather Shoes Men,2523.54,15,Delivered
+10218,WH-102 (Delh),Bangalore,COD,Desiweaves,Cotton Palazzo Pants Casual,306.57,33,Delivered
+10005,WH-104 (Kolkat),Ranchi,COD,Electrotech,Wireless Bluetooth Earphones Pro,3859.48,63,Delivered
+10769,WH-102 (Delh),Guwahati,COD,Desiweaves,Festive Wear Lehenga Set,2384.87,19,Delivered
+10643,WH-103 (Blru),Indore,COD,Desiweaves,Cotton Palazzo Pants Casual,2367.83,22,Delivered
+10920,WH-103 (Blru),Indore,COD,Stepwell,Casual Daily Wear Sandals,4332.4,6,Delivered
+10613,WH-101 (Mumb),Ranchi,COD,Unknown,Cotton Palazzo Pants Casual,847.38,30,Delivered
+10739,WH-101 (Mumb),Guwahati,COD,Desiweaves,Cotton Palazzo Pants Casual,2523.54,14,Returned
+10547,WH-104 (Kolkat),Ranchi,COD,Zaribrands,Traditional Embroidered Kurti M,2775.13,43,Delivered
+10726,WH-102 (Delh),Bangalore,COD,Electrotech,Wireless Bluetooth Earphones Pro,3451.49,21,Delivered
+10684,WH-104 (Kolkat),Bangalore,COD,Stepwell,Formal Leather Shoes Men,1002.91,19,Returned
+10099,WH-101 (Mumb),Mumbai,Prepaid,Desiweaves,Festive Wear Lehenga Set,1544.24,15,Delivered
+10805,WH-104 (Kolkat),Guwahati,COD,Desiweaves,Designer Chikankari Kurta Luxury,558.23,20,Returned
+10728,WH-101 (Mumb),Delhi,COD,Zaribrands,Women's Silk Saree Regular,3614.59,23,Delivered
+10574,WH-102 (Delh),Ranchi,COD,Kicksco,Unisex Running Joggers,3310.85,6,Returned
+10407,WH-102 (Delh),Guwahati,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,4308.7,28,Delivered
+10503,WH-103 (Blru),Delhi,COD,Stepwell,Premium Running Sneakers,837.37,29,Returned
+10048,WH-103 (Blru),Patna,COD,Stepwell,Premium Running Sneakers,2523.54,13,Returned
+10033,WH-104 (Kolkat),Delhi,COD,Zaribrands,Fancy Designer Georgette Pink Saree,1197.74,37,Delivered
+10780,WH-101 (Mumb),Guwahati,COD,Electrotech,Smart Watch Series 5,664.55,15,Delivered
+10840,WH-101 (Mumb),Ranchi,COD,Stepwell,Premium Running Sneakers,2839.68,28,Returned
+10201,WH-102 (Delh),Lucknow,COD,Electrotech,Smart Watch Series 5,4239.61,13,Delivered
+10135,WH-104 (Kolkat),Ranchi,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,3493.55,57,Delivered
+10028,WH-102 (Delh),Indore,Prepaid,Desiweaves,Festive Wear Lehenga Set,3691.49,10,Delivered
+10903,WH-104 (Kolkat),Unknown,COD,Desiweaves,Festive Wear Lehenga Set,854.21,62,Delivered
+10231,WH-101 (Mumb),Mumbai,COD,Desiweaves,Designer Chikankari Kurta Luxury,2977.55,15,Delivered
+10490,WH-101 (Mumb),Lucknow,Prepaid,Kicksco,Unisex Running Joggers,1316.14,19,Delivered
+10773,WH-103 (Blru),Mumbai,Prepaid,Zaribrands,Women's Silk Saree Regular,778.11,14,Delivered
+10379,WH-101 (Mumb),Indore,COD,Kicksco,Unisex Running Joggers,1425.13,21,Delivered
+10289,WH-103 (Blru),Patna,Prepaid,Electrotech,Smart Watch Series 5,3209.63,5,Delivered
+10419,WH-101 (Mumb),Patna,Prepaid,Stepwell,Premium Running Sneakers,351.61,15,Returned
+10675,WH-102 (Delh),Ranchi,COD,Kicksco,Sporty Canvas Shoes Blue,763.5,18,Returned
+10392,WH-101 (Mumb),Patna,COD,Kicksco,Leather Loafers Premium,3592.34,7,Returned
+10593,WH-102 (Delh),Indore,COD,Desiweaves,Designer Chikankari Kurta Luxury,1237.89,28,Delivered
+10499,WH-102 (Delh),Mumbai,COD,Electrotech,Smart Watch Series 5,3514.99,5,Delivered
+10139,WH-104 (Kolkat),Bangalore,COD,Desiweaves,Cotton Palazzo Pants Casual,2230.2,54,Delivered
+10063,WH-103 (Blru),Ranchi,COD,Stepwell,Premium Running Sneakers,2958.35,30,Returned
+10472,WH-104 (Kolkat),Mumbai,COD,Kicksco,Sporty Canvas Shoes Blue,1250.22,29,Delivered
+10648,WH-102 (Delh),Mumbai,COD,Electrotech,Fast Charging Type-C Cable,1295.98,19,Delivered
+10129,WH-102 (Delh),Lucknow,Prepaid,Stepwell,Premium Running Sneakers,2025.26,19,Delivered
+10521,WH-101 (Mumb),Ranchi,COD,Stepwell,Casual Daily Wear Sandals,3595.99,28,Delivered
+10839,WH-103 (Blru),Mumbai,COD,Stepwell,Premium Running Sneakers,399.54,23,Returned
+10990,WH-102 (Delh),Ranchi,COD,Electrotech,Fast Charging Type-C Cable,3909.55,18,Returned
+10065,WH-104 (Kolkat),Indore,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,2717.82,57,Delivered
+10813,WH-103 (Blru),Delhi,Prepaid,Electrotech,Fast Charging Type-C Cable,2523.54,8,Delivered
+10015,WH-101 (Mumb),Patna,COD,Kicksco,Sporty Canvas Shoes Blue,971.92,23,Delivered
+10157,WH-103 (Blru),Guwahati,COD,Zaribrands,Traditional Embroidered Kurti M,1458.7,30,Delivered
+10041,WH-102 (Delh),Mumbai,Prepaid,Stepwell,Premium Running Sneakers,3999.63,15,Delivered
+10493,WH-102 (Delh),Bangalore,COD,Stepwell,Formal Leather Shoes Men,2019.93,28,Returned
+10380,WH-104 (Kolkat),Patna,COD,Electrotech,Smart Watch Series 5,4457.06,65,Returned
+10188,WH-103 (Blru),Indore,COD,Stepwell,Premium Running Sneakers,3846.83,22,Returned
+10764,WH-102 (Delh),Mumbai,Prepaid,Stepwell,Formal Leather Shoes Men,3447.21,5,Delivered
+10217,WH-101 (Mumb),Indore,COD,Kicksco,Unisex Running Joggers,4101.62,23,Delivered
+10792,WH-104 (Kolkat),Lucknow,COD,Zaribrands,Fancy Designer Georgette Pink Saree,2803.71,49,Delivered
+10053,WH-102 (Delh),Mumbai,COD,Kicksco,Leather Loafers Premium,3072.14,16,Delivered
+10879,WH-103 (Blru),Bangalore,COD,Electrotech,Fast Charging Type-C Cable,3207.28,5,Delivered
+10338,WH-104 (Kolkat),Guwahati,Prepaid,Kicksco,Unisex Running Joggers,887.79,56,Delivered
+10749,WH-101 (Mumb),Lucknow,COD,Desiweaves,Festive Wear Lehenga Set,2467.73,24,Delivered
+10720,WH-101 (Mumb),Bangalore,COD,Desiweaves,Cotton Palazzo Pants Casual,2106.28,25,Delivered
+10725,WH-103 (Blru),Patna,Prepaid,Stepwell,Casual Daily Wear Sandals,767.37,4,Delivered
+10296,WH-104 (Kolkat),Delhi,COD,Zaribrands,Women's Silk Saree Regular,542.49,41,Delivered
+10702,WH-104 (Kolkat),Delhi,Prepaid,Desiweaves,Festive Wear Lehenga Set,3518.39,48,Delivered
+10252,WH-104 (Kolkat),Indore,COD,Kicksco,Leather Loafers Premium,2847.97,32,Delivered
+10727,WH-101 (Mumb),Delhi,COD,Kicksco,Unisex Running Joggers,4105.37,20,Delivered
+10462,WH-104 (Kolkat),Guwahati,COD,Kicksco,Leather Loafers Premium,2313.85,53,Delivered
+10456,WH-102 (Delh),Bangalore,COD,Desiweaves,Designer Chikankari Kurta Luxury,3382.78,13,Delivered
+10816,WH-104 (Kolkat),Delhi,COD,Kicksco,Unisex Running Joggers,2618.61,40,Delivered
+10863,WH-101 (Mumb),Guwahati,COD,Desiweaves,Cotton Palazzo Pants Casual,893.19,26,Returned
+10270,WH-104 (Kolkat),Guwahati,COD,Zaribrands,Women's Silk Saree Regular,3200.1,61,Returned
+10202,WH-102 (Delh),Guwahati,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,3781.63,27,Delivered
+10162,WH-101 (Mumb),Mumbai,COD,Zaribrands,Fancy Designer Georgette Pink Saree,2068.03,7,Delivered
+10556,WH-102 (Delh),Mumbai,Prepaid,Stepwell,Casual Daily Wear Sandals,3200.5,28,Returned
+10730,WH-103 (Blru),Patna,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,2523.54,11,Delivered
+10402,WH-103 (Blru),Lucknow,Prepaid,Zaribrands,Traditional Embroidered Kurti M,1620.92,8,Delivered
+10703,WH-104 (Kolkat),Indore,Prepaid,Electrotech,Smart Watch Series 5,1000.6,23,Delivered
+10477,WH-101 (Mumb),Delhi,COD,Stepwell,Formal Leather Shoes Men,4450.78,30,Delivered
+10822,WH-103 (Blru),Indore,COD,Kicksco,Leather Loafers Premium,4334.44,29,Delivered
+10772,WH-102 (Delh),Guwahati,COD,Zaribrands,Women's Silk Saree Regular,1144.99,29,Returned
+10106,WH-103 (Blru),Bangalore,Prepaid,Stepwell,Premium Running Sneakers,959.64,6,Returned
+10566,WH-102 (Delh),Ranchi,COD,Stepwell,Premium Running Sneakers,2555.55,11,Returned
+10390,WH-101 (Mumb),Guwahati,Prepaid,Kicksco,Unisex Running Joggers,1970.41,17,Delivered
+10002,WH-101 (Mumb),Lucknow,COD,Desiweaves,Cotton Palazzo Pants Casual,1218.28,20,Delivered
+10962,WH-101 (Mumb),Delhi,COD,Kicksco,Leather Loafers Premium,2377.7,16,Delivered
+10562,WH-101 (Mumb),Delhi,COD,Zaribrands,Fancy Designer Georgette Pink Saree,2099.73,21,Delivered
+10932,WH-104 (Kolkat),Guwahati,COD,Desiweaves,Designer Chikankari Kurta Luxury,2523.54,25,Returned
+10081,WH-102 (Delh),Guwahati,Prepaid,Desiweaves,Cotton Palazzo Pants Casual,3581.18,24,Delivered
+10206,WH-102 (Delh),Delhi,Prepaid,Kicksco,Sporty Canvas Shoes Blue,3538.61,29,Delivered
+10035,WH-104 (Kolkat),Lucknow,COD,Kicksco,Leather Loafers Premium,1546.17,15,Delivered
+10943,WH-103 (Blru),Bangalore,COD,Stepwell,Premium Running Sneakers,3466.88,27,Returned
+10776,WH-104 (Kolkat),Indore,Prepaid,Desiweaves,Designer Chikankari Kurta Luxury,535.29,45,Delivered
+10509,WH-103 (Blru),Delhi,COD,Kicksco,Leather Loafers Premium,319.8,12,Delivered
+10428,WH-102 (Delh),Patna,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,2482.99,26,Delivered
+10455,WH-103 (Blru),Indore,COD,Kicksco,Unisex Running Joggers,4368.72,26,Delivered
+10367,WH-102 (Delh),Bangalore,COD,Stepwell,Premium Running Sneakers,1690.16,18,Delivered
+10092,WH-102 (Delh),Guwahati,COD,Zaribrands,Women's Silk Saree Regular,1790.26,12,Returned
+10340,WH-103 (Blru),Lucknow,COD,Desiweaves,Festive Wear Lehenga Set,1447.97,18,Delivered
+10898,WH-101 (Mumb),Indore,COD,Zaribrands,Fancy Designer Georgette Pink Saree,4071.37,13,Delivered
+10565,WH-101 (Mumb),Guwahati,Prepaid,Unknown,Fast Charging Type-C Cable,1635.01,11,Delivered
+10346,WH-104 (Kolkat),Mumbai,COD,Kicksco,Sporty Canvas Shoes Blue,655.74,69,Delivered
+10777,WH-101 (Mumb),Guwahati,COD,Electrotech,Smart Watch Series 5,3179.07,29,Delivered
+10242,WH-104 (Kolkat),Mumbai,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,3319.25,45,Delivered
+10014,WH-103 (Blru),Lucknow,COD,Desiweaves,Designer Chikankari Kurta Luxury,4489.66,20,Delivered
+10316,WH-102 (Delh),Bangalore,COD,Zaribrands,Fancy Designer Georgette Pink Saree,3951.79,14,Delivered
+10601,WH-104 (Kolkat),Mumbai,Prepaid,Zaribrands,Traditional Embroidered Kurti M,1236.18,37,Delivered
+10388,WH-104 (Kolkat),Ranchi,COD,Kicksco,Sporty Canvas Shoes Blue,1468.55,35,Delivered
+10274,WH-102 (Delh),Mumbai,Prepaid,Stepwell,Casual Daily Wear Sandals,2353.81,21,Delivered
+10167,WH-104 (Kolkat),Guwahati,Prepaid,Desiweaves,Festive Wear Lehenga Set,2528.34,41,Delivered
+10841,WH-102 (Delh),Ranchi,COD,Desiweaves,Cotton Palazzo Pants Casual,2261.21,24,Delivered
+10647,WH-101 (Mumb),Patna,Prepaid,Electrotech,Smart Watch Series 5,1893.6,7,Delivered
+10819,WH-101 (Mumb),Guwahati,COD,Desiweaves,Designer Chikankari Kurta Luxury,4339.3,27,Returned
+10485,WH-101 (Mumb),Indore,Prepaid,Electrotech,Fast Charging Type-C Cable,1257.42,13,Delivered
+10505,WH-103 (Blru),Mumbai,COD,Electrotech,Fast Charging Type-C Cable,794.68,5,Delivered
+10832,WH-104 (Kolkat),Bangalore,Prepaid,Electrotech,Fast Charging Type-C Cable,1938.3,28,Delivered
+10244,WH-102 (Delh),Guwahati,Prepaid,Kicksco,Unisex Running Joggers,3577.1,24,Delivered
+10567,WH-103 (Blru),Guwahati,COD,Stepwell,Premium Running Sneakers,1217.47,21,Delivered
+10876,WH-101 (Mumb),Bangalore,COD,Zaribrands,Women's Silk Saree Regular,2032.9,10,Delivered
+10563,WH-103 (Blru),Delhi,COD,Electrotech,Wireless Bluetooth Earphones Pro,2523.54,8,Delivered
+10979,WH-101 (Mumb),Lucknow,COD,Desiweaves,Designer Chikankari Kurta Luxury,1445.39,4,Delivered
+10687,WH-102 (Delh),Guwahati,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,3624.16,8,Delivered
+10958,WH-103 (Blru),Mumbai,Prepaid,Kicksco,Leather Loafers Premium,2570.22,4,Delivered
+10190,WH-101 (Mumb),Ranchi,COD,Electrotech,Wireless Bluetooth Earphones Pro,1114.4,15,Delivered
+10783,WH-103 (Blru),Mumbai,COD,Kicksco,Unisex Running Joggers,3961.56,30,Delivered
+10976,WH-104 (Kolkat),Mumbai,COD,Stepwell,Formal Leather Shoes Men,3912.78,52,Delivered
+10700,WH-101 (Mumb),Patna,Prepaid,Electrotech,Smart Watch Series 5,2523.54,10,Delivered
+10476,WH-101 (Mumb),Delhi,Prepaid,Zaribrands,Traditional Embroidered Kurti M,2185.97,9,Delivered
+10682,WH-102 (Delh),Ranchi,COD,Stepwell,Casual Daily Wear Sandals,3162.06,14,Returned
+10511,WH-104 (Kolkat),Lucknow,COD,Kicksco,Leather Loafers Premium,458.45,24,Delivered
+10059,WH-103 (Blru),Ranchi,COD,Desiweaves,Designer Chikankari Kurta Luxury,3100.95,26,Returned
+10475,WH-102 (Delh),Indore,COD,Desiweaves,Festive Wear Lehenga Set,631.61,26,Delivered
+10561,WH-102 (Delh),Guwahati,Prepaid,Stepwell,Premium Running Sneakers,4350.02,9,Returned
+10857,WH-102 (Delh),Ranchi,Prepaid,Zaribrands,Women's Silk Saree Regular,3102.73,18,Delivered
+10748,WH-101 (Mumb),Patna,COD,Desiweaves,Festive Wear Lehenga Set,3773.44,11,Returned
+10253,WH-104 (Kolkat),Guwahati,COD,Electrotech,Smart Watch Series 5,1856.27,32,Delivered
+10022,WH-102 (Delh),Delhi,Prepaid,Kicksco,Sporty Canvas Shoes Blue,4276.76,9,Delivered
+10314,WH-101 (Mumb),Guwahati,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,3857.96,6,Delivered
+10460,WH-103 (Blru),Patna,COD,Electrotech,Fast Charging Type-C Cable,3211.34,29,Returned
+10161,WH-102 (Delh),Patna,COD,Stepwell,Formal Leather Shoes Men,3617.94,14,Returned
+10277,WH-102 (Delh),Indore,COD,Electrotech,Smart Watch Series 5,2562.03,21,Delivered
+10956,WH-102 (Delh),Patna,COD,Zaribrands,Women's Silk Saree Regular,3152.66,23,Returned
+10192,WH-104 (Kolkat),Indore,Prepaid,Zaribrands,Fancy Designer Georgette Pink Saree,3491.48,40,Delivered
+10386,WH-102 (Delh),Delhi,COD,Electrotech,Smart Watch Series 5,3287.86,30,Delivered
+10806,WH-102 (Delh),Patna,Prepaid,Desiweaves,Festive Wear Lehenga Set,2202.49,13,Delivered
+10414,WH-101 (Mumb),Delhi,COD,Zaribrands,Fancy Designer Georgette Pink Saree,4302.67,20,Delivered
+10492,WH-103 (Blru),Ranchi,COD,Electrotech,Smart Watch Series 5,508.53,28,Delivered
+10344,WH-102 (Delh),Ranchi,COD,Electrotech,Fast Charging Type-C Cable,2110.11,20,Delivered
+10770,WH-103 (Blru),Bangalore,Prepaid,Kicksco,Sporty Canvas Shoes Blue,306.64,4,Delivered
+10309,WH-101 (Mumb),Mumbai,COD,Kicksco,Leather Loafers Premium,2785.0,27,Delivered
+10662,WH-101 (Mumb),Mumbai,COD,Stepwell,Premium Running Sneakers,1967.59,19,Returned
+10131,WH-101 (Mumb),Indore,COD,Unknown,Wireless Bluetooth Earphones Pro,2219.1,27,Delivered
+10664,WH-103 (Blru),Lucknow,COD,Stepwell,Formal Leather Shoes Men,3397.89,8,Delivered
+10872,WH-104 (Kolkat),Bangalore,COD,Electrotech,Fast Charging Type-C Cable,2890.64,68,Delivered
+10100,WH-102 (Delh),Patna,COD,Stepwell,Casual Daily Wear Sandals,4392.04,8,Delivered
+10373,WH-102 (Delh),Ranchi,COD,Stepwell,Casual Daily Wear Sandals,1068.79,17,Delivered
+10088,WH-103 (Blru),Lucknow,COD,Kicksco,Sporty Canvas Shoes Blue,3780.57,26,Delivered
+10459,WH-103 (Blru),Guwahati,COD,Zaribrands,Fancy Designer Georgette Pink Saree,4018.35,26,Returned
+10331,WH-102 (Delh),Bangalore,COD,Kicksco,Unisex Running Joggers,3777.86,6,Delivered
+10215,WH-104 (Kolkat),Indore,COD,Stepwell,Premium Running Sneakers,4104.6,25,Returned
+10467,WH-103 (Blru),Mumbai,COD,Desiweaves,Festive Wear Lehenga Set,702.85,16,Delivered
+10122,WH-103 (Blru),Delhi,COD,Stepwell,Premium Running Sneakers,2619.46,30,Returned
+10615,WH-104 (Kolkat),Indore,COD,Kicksco,Sporty Canvas Shoes Blue,3679.41,70,Delivered
+10021,WH-102 (Delh),Patna,Prepaid,Electrotech,Wireless Bluetooth Earphones Pro,4277.19,6,Delivered
+10701,WH-102 (Delh),Ranchi,COD,Desiweaves,Cotton Palazzo Pants Casual,1095.73,11,Delivered
+10072,WH-103 (Blru),Guwahati,Prepaid,Stepwell,Casual Daily Wear Sandals,638.43,16,Returned
+10107,WH-104 (Kolkat),Lucknow,Prepaid,Stepwell,Formal Leather Shoes Men,2273.63,30,Returned
+10271,WH-102 (Delh),Patna,COD,Desiweaves,Designer Chikankari Kurta Luxury,2655.72,19,Delivered
+10861,WH-102 (Delh),Indore,COD,Unknown,Fancy Designer Georgette Pink Saree,1151.09,14,Delivered
