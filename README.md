@@ -6,10 +6,10 @@ This project cleans, transforms, and analyzes messy e-commerce order records to 
 🛠️ Tech Stack & Workflow
 Data Cleaning & Preprocessing (Python/Pandas via Jupyter Notebook): Ingested raw operational data and engineered a robust cleaning pipeline to prepare it for analysis. Key operations included:
 
->> Identifying and dropping duplicate records to prevent skewed downstream aggregations.
->> Standardizing categorical inconsistencies using targeted list replacements (e.g., mapping messy aliases like 'C.O.D.', 'cod', and 'Cash' to a uniform 'COD', and unifying regional city spellings).
->> Fixing critical numerical errors, such as converting impossible negative dispatch times to absolute values and parsing string-formatted currency with commas into usable floats.
->> Handling missing data and massive numerical outliers by dynamically capping extremes with .mask() and applying median imputation to preserve data integrity.
+1. Identifying and dropping duplicate records to prevent skewed downstream aggregations.
+2. Standardizing categorical inconsistencies using targeted list replacements (e.g., mapping messy aliases like 'C.O.D.', 'cod', and 'Cash' to a uniform 'COD', and unifying regional city spellings).
+3. Fixing critical numerical errors, such as converting impossible negative dispatch times to absolute values and parsing string-formatted currency with commas into usable floats.
+4. Handling missing data and massive numerical outliers by dynamically capping extremes with .mask() and applying median imputation to preserve data integrity.
 
 Advanced Database Querying (MySQL): Stage-imported the cleaned dataset into a production schema to run multi-level aggregations (GROUP BY, CASE WHEN, HAVING) targeting financial vulnerabilities.
 
@@ -18,11 +18,11 @@ Business Intelligence (Power BI): Developed an interactive operational dashboard
 📈 Key Insights & Business Impact
 1. First-Mile SLA Breaches (Warehouse Bottleneck)
 The Leak: The business mandates a strict 24-hour target turnaround time from order placement to dispatch.
->>The Root Cause: SQL profiling isolated WH-104 (Kolkata), which exhibits a catastrophic average dispatch delay exceeding 40 hours, triggering downstream logistic failures.
+.The Root Cause: SQL profiling isolated WH-104 (Kolkata), which exhibits a catastrophic average dispatch delay exceeding 40 hours, triggering downstream logistic failures.
 
 2. Last-Mile RTO Risk Clusters (Reverse Logistics Drain)
 The Leak: High return rates drain margins due to double shipping costs without realized revenue.
->>The Root Cause: Risk-factor cross-tabulation exposed that Cash-on-Delivery (COD) orders in Patna and Ranchi exhibit RTO rates climbing past 40%. Prepaid orders in the same regions remain entirely stable.
+.The Root Cause: Risk-factor cross-tabulation exposed that Cash-on-Delivery (COD) orders in Patna and Ranchi exhibit RTO rates climbing past 40%. Prepaid orders in the same regions remain entirely stable.
 
 ## 💻 Code Repository Directory
 
