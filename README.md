@@ -1,31 +1,32 @@
 # E-Commerce Supply Chain & RTO Optimization Analytics
 
-## 📌 Project Overview
-This project simulates, cleans, and analyzes **1,000 e-commerce order records** to identify critical operational bottlenecks and capital leaks. By building an end-to-end data pipeline spanning **Python, SQL, and Power BI**, I isolated severe fulfillment delays in specific warehouses and localized high Return-to-Origin (RTO) risks driven by Cash-on-Delivery (COD) transactions in Tier-2 regions.
+📌 Project Overview
+This project cleans, transforms, and analyzes messy e-commerce order records to identify critical operational bottlenecks and capital leaks. By building an end-to-end data pipeline spanning Python, SQL, and Power BI, I resolved significant data quality issues and isolated severe fulfillment delays in specific warehouses, as well as localized high Return-to-Origin (RTO) risks driven by Cash-on-Delivery (COD) transactions in Tier-2 regions.
 
-## 🛠️ Tech Stack & Workflow
-1. **Data Engineering (Python):** Generated a synthetic master dataset using `random` with injected operational biases (SLA delays and geographic return patterns).
-2. **Data Cleaning & Normalization (Python/Pandas):** Standardized case sensitivity, trimmed white spaces, and built a custom structural keyword-mapping function to group messy product titles into structured business categories.
-3. **Advanced Database Querying (MySQL):** Stage-imported the cleaned dataset into a production schema to run multi-level aggregations (`GROUP BY`, `CASE WHEN`, `HAVING`) targeting financial vulnerabilities.
-4. **Business Intelligence (Power BI):** Developed an interactive operational dashboard to present the validated metrics to executive stakeholders.
+🛠️ Tech Stack & Workflow
+Data Cleaning & Preprocessing (Python/Pandas via Jupyter Notebook): Ingested raw operational data and engineered a robust cleaning pipeline to prepare it for analysis. Key operations included:
 
----
+>> Identifying and dropping duplicate records to prevent skewed downstream aggregations.
+>> Standardizing categorical inconsistencies using targeted list replacements (e.g., mapping messy aliases like 'C.O.D.', 'cod', and 'Cash' to a uniform 'COD', and unifying regional city spellings).
+>> Fixing critical numerical errors, such as converting impossible negative dispatch times to absolute values and parsing string-formatted currency with commas into usable floats.
+>> Handling missing data and massive numerical outliers by dynamically capping extremes with .mask() and applying median imputation to preserve data integrity.
 
-## 📈 Key Insights & Business Impact
+Advanced Database Querying (MySQL): Stage-imported the cleaned dataset into a production schema to run multi-level aggregations (GROUP BY, CASE WHEN, HAVING) targeting financial vulnerabilities.
 
-### 1. First-Mile SLA Breaches (Warehouse Bottleneck)
-* **The Leak:** The business mandates a strict 24-hour target turnaround time from order placement to dispatch. 
-* **The Root Cause:** SQL profiling isolated **WH-104 (Kolkata)**, which exhibits a catastrophic average dispatch delay exceeding 40 hours, triggering downstream logistic failures.
+Business Intelligence (Power BI): Developed an interactive operational dashboard to present the validated metrics to executive stakeholders.
 
-### 2. Last-Mile RTO Risk Clusters (Reverse Logistics Drain)
-* **The Leak:** High return rates drain margins due to double shipping costs without realized revenue.
-* **The Root Cause:** Risk-factor cross-tabulation exposed that **Cash-on-Delivery (COD) orders in Patna and Ranchi** exhibit RTO rates climbing past 40%. Prepaid orders in the same regions remain entirely stable.
+📈 Key Insights & Business Impact
+1. First-Mile SLA Breaches (Warehouse Bottleneck)
+The Leak: The business mandates a strict 24-hour target turnaround time from order placement to dispatch.
+>>The Root Cause: SQL profiling isolated WH-104 (Kolkata), which exhibits a catastrophic average dispatch delay exceeding 40 hours, triggering downstream logistic failures.
 
----
+2. Last-Mile RTO Risk Clusters (Reverse Logistics Drain)
+The Leak: High return rates drain margins due to double shipping costs without realized revenue.
+>>The Root Cause: Risk-factor cross-tabulation exposed that Cash-on-Delivery (COD) orders in Patna and Ranchi exhibit RTO rates climbing past 40%. Prepaid orders in the same regions remain entirely stable.
 
 ## 💻 Code Repository Directory
 
-* `DA1.ipynb`: Data Generation and data cleaning engine and text processors.
+* `Ecommerce_Data_Cleaning.ipynb`: data cleaning engine 
 * `DA1_sql.sql`: Includes the execution scripts for operational auditing.
 * `DA1.pbit`: The native Power BI workbook.
 
